@@ -1,0 +1,717 @@
+
+% Default to the notebook output style
+
+    
+
+
+% Inherit from the specified cell style.
+
+
+
+
+    
+\documentclass[11pt]{article}
+
+    
+    
+    \usepackage[T1]{fontenc}
+    % Nicer default font (+ math font) than Computer Modern for most use cases
+    \usepackage{mathpazo}
+
+    % Basic figure setup, for now with no caption control since it's done
+    % automatically by Pandoc (which extracts ![](path) syntax from Markdown).
+    \usepackage{graphicx}
+    % We will generate all images so they have a width \maxwidth. This means
+    % that they will get their normal width if they fit onto the page, but
+    % are scaled down if they would overflow the margins.
+    \makeatletter
+    \def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth
+    \else\Gin@nat@width\fi}
+    \makeatother
+    \let\Oldincludegraphics\includegraphics
+    % Set max figure width to be 80% of text width, for now hardcoded.
+    \renewcommand{\includegraphics}[1]{\Oldincludegraphics[width=.8\maxwidth]{#1}}
+    % Ensure that by default, figures have no caption (until we provide a
+    % proper Figure object with a Caption API and a way to capture that
+    % in the conversion process - todo).
+    \usepackage{caption}
+    \DeclareCaptionLabelFormat{nolabel}{}
+    \captionsetup{labelformat=nolabel}
+
+    \usepackage{adjustbox} % Used to constrain images to a maximum size 
+    \usepackage{xcolor} % Allow colors to be defined
+    \usepackage{enumerate} % Needed for markdown enumerations to work
+    \usepackage{geometry} % Used to adjust the document margins
+    \usepackage{amsmath} % Equations
+    \usepackage{amssymb} % Equations
+    \usepackage{textcomp} % defines textquotesingle
+    % Hack from http://tex.stackexchange.com/a/47451/13684:
+    \AtBeginDocument{%
+        \def\PYZsq{\textquotesingle}% Upright quotes in Pygmentized code
+    }
+    \usepackage{upquote} % Upright quotes for verbatim code
+    \usepackage{eurosym} % defines \euro
+    \usepackage[mathletters]{ucs} % Extended unicode (utf-8) support
+    \usepackage[utf8x]{inputenc} % Allow utf-8 characters in the tex document
+    \usepackage{fancyvrb} % verbatim replacement that allows latex
+    \usepackage{grffile} % extends the file name processing of package graphics 
+                         % to support a larger range 
+    % The hyperref package gives us a pdf with properly built
+    % internal navigation ('pdf bookmarks' for the table of contents,
+    % internal cross-reference links, web links for URLs, etc.)
+    \usepackage{hyperref}
+    \usepackage{longtable} % longtable support required by pandoc >1.10
+    \usepackage{booktabs}  % table support for pandoc > 1.12.2
+    \usepackage[inline]{enumitem} % IRkernel/repr support (it uses the enumerate* environment)
+    \usepackage[normalem]{ulem} % ulem is needed to support strikethroughs (\sout)
+                                % normalem makes italics be italics, not underlines
+    
+
+    
+    
+    % Colors for the hyperref package
+    \definecolor{urlcolor}{rgb}{0,.145,.698}
+    \definecolor{linkcolor}{rgb}{.71,0.21,0.01}
+    \definecolor{citecolor}{rgb}{.12,.54,.11}
+
+    % ANSI colors
+    \definecolor{ansi-black}{HTML}{3E424D}
+    \definecolor{ansi-black-intense}{HTML}{282C36}
+    \definecolor{ansi-red}{HTML}{E75C58}
+    \definecolor{ansi-red-intense}{HTML}{B22B31}
+    \definecolor{ansi-green}{HTML}{00A250}
+    \definecolor{ansi-green-intense}{HTML}{007427}
+    \definecolor{ansi-yellow}{HTML}{DDB62B}
+    \definecolor{ansi-yellow-intense}{HTML}{B27D12}
+    \definecolor{ansi-blue}{HTML}{208FFB}
+    \definecolor{ansi-blue-intense}{HTML}{0065CA}
+    \definecolor{ansi-magenta}{HTML}{D160C4}
+    \definecolor{ansi-magenta-intense}{HTML}{A03196}
+    \definecolor{ansi-cyan}{HTML}{60C6C8}
+    \definecolor{ansi-cyan-intense}{HTML}{258F8F}
+    \definecolor{ansi-white}{HTML}{C5C1B4}
+    \definecolor{ansi-white-intense}{HTML}{A1A6B2}
+
+    % commands and environments needed by pandoc snippets
+    % extracted from the output of `pandoc -s`
+    \providecommand{\tightlist}{%
+      \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+    \DefineVerbatimEnvironment{Highlighting}{Verbatim}{commandchars=\\\{\}}
+    % Add ',fontsize=\small' for more characters per line
+    \newenvironment{Shaded}{}{}
+    \newcommand{\KeywordTok}[1]{\textcolor[rgb]{0.00,0.44,0.13}{\textbf{{#1}}}}
+    \newcommand{\DataTypeTok}[1]{\textcolor[rgb]{0.56,0.13,0.00}{{#1}}}
+    \newcommand{\DecValTok}[1]{\textcolor[rgb]{0.25,0.63,0.44}{{#1}}}
+    \newcommand{\BaseNTok}[1]{\textcolor[rgb]{0.25,0.63,0.44}{{#1}}}
+    \newcommand{\FloatTok}[1]{\textcolor[rgb]{0.25,0.63,0.44}{{#1}}}
+    \newcommand{\CharTok}[1]{\textcolor[rgb]{0.25,0.44,0.63}{{#1}}}
+    \newcommand{\StringTok}[1]{\textcolor[rgb]{0.25,0.44,0.63}{{#1}}}
+    \newcommand{\CommentTok}[1]{\textcolor[rgb]{0.38,0.63,0.69}{\textit{{#1}}}}
+    \newcommand{\OtherTok}[1]{\textcolor[rgb]{0.00,0.44,0.13}{{#1}}}
+    \newcommand{\AlertTok}[1]{\textcolor[rgb]{1.00,0.00,0.00}{\textbf{{#1}}}}
+    \newcommand{\FunctionTok}[1]{\textcolor[rgb]{0.02,0.16,0.49}{{#1}}}
+    \newcommand{\RegionMarkerTok}[1]{{#1}}
+    \newcommand{\ErrorTok}[1]{\textcolor[rgb]{1.00,0.00,0.00}{\textbf{{#1}}}}
+    \newcommand{\NormalTok}[1]{{#1}}
+    
+    % Additional commands for more recent versions of Pandoc
+    \newcommand{\ConstantTok}[1]{\textcolor[rgb]{0.53,0.00,0.00}{{#1}}}
+    \newcommand{\SpecialCharTok}[1]{\textcolor[rgb]{0.25,0.44,0.63}{{#1}}}
+    \newcommand{\VerbatimStringTok}[1]{\textcolor[rgb]{0.25,0.44,0.63}{{#1}}}
+    \newcommand{\SpecialStringTok}[1]{\textcolor[rgb]{0.73,0.40,0.53}{{#1}}}
+    \newcommand{\ImportTok}[1]{{#1}}
+    \newcommand{\DocumentationTok}[1]{\textcolor[rgb]{0.73,0.13,0.13}{\textit{{#1}}}}
+    \newcommand{\AnnotationTok}[1]{\textcolor[rgb]{0.38,0.63,0.69}{\textbf{\textit{{#1}}}}}
+    \newcommand{\CommentVarTok}[1]{\textcolor[rgb]{0.38,0.63,0.69}{\textbf{\textit{{#1}}}}}
+    \newcommand{\VariableTok}[1]{\textcolor[rgb]{0.10,0.09,0.49}{{#1}}}
+    \newcommand{\ControlFlowTok}[1]{\textcolor[rgb]{0.00,0.44,0.13}{\textbf{{#1}}}}
+    \newcommand{\OperatorTok}[1]{\textcolor[rgb]{0.40,0.40,0.40}{{#1}}}
+    \newcommand{\BuiltInTok}[1]{{#1}}
+    \newcommand{\ExtensionTok}[1]{{#1}}
+    \newcommand{\PreprocessorTok}[1]{\textcolor[rgb]{0.74,0.48,0.00}{{#1}}}
+    \newcommand{\AttributeTok}[1]{\textcolor[rgb]{0.49,0.56,0.16}{{#1}}}
+    \newcommand{\InformationTok}[1]{\textcolor[rgb]{0.38,0.63,0.69}{\textbf{\textit{{#1}}}}}
+    \newcommand{\WarningTok}[1]{\textcolor[rgb]{0.38,0.63,0.69}{\textbf{\textit{{#1}}}}}
+    
+    
+    % Define a nice break command that doesn't care if a line doesn't already
+    % exist.
+    \def\br{\hspace*{\fill} \\* }
+    % Math Jax compatability definitions
+    \def\gt{>}
+    \def\lt{<}
+    % Document parameters
+    \title{Vector space\_subspace\_orthogonality\_projection}
+    
+    
+    
+
+    % Pygments definitions
+    
+\makeatletter
+\def\PY@reset{\let\PY@it=\relax \let\PY@bf=\relax%
+    \let\PY@ul=\relax \let\PY@tc=\relax%
+    \let\PY@bc=\relax \let\PY@ff=\relax}
+\def\PY@tok#1{\csname PY@tok@#1\endcsname}
+\def\PY@toks#1+{\ifx\relax#1\empty\else%
+    \PY@tok{#1}\expandafter\PY@toks\fi}
+\def\PY@do#1{\PY@bc{\PY@tc{\PY@ul{%
+    \PY@it{\PY@bf{\PY@ff{#1}}}}}}}
+\def\PY#1#2{\PY@reset\PY@toks#1+\relax+\PY@do{#2}}
+
+\expandafter\def\csname PY@tok@w\endcsname{\def\PY@tc##1{\textcolor[rgb]{0.73,0.73,0.73}{##1}}}
+\expandafter\def\csname PY@tok@c\endcsname{\let\PY@it=\textit\def\PY@tc##1{\textcolor[rgb]{0.25,0.50,0.50}{##1}}}
+\expandafter\def\csname PY@tok@cp\endcsname{\def\PY@tc##1{\textcolor[rgb]{0.74,0.48,0.00}{##1}}}
+\expandafter\def\csname PY@tok@k\endcsname{\let\PY@bf=\textbf\def\PY@tc##1{\textcolor[rgb]{0.00,0.50,0.00}{##1}}}
+\expandafter\def\csname PY@tok@kp\endcsname{\def\PY@tc##1{\textcolor[rgb]{0.00,0.50,0.00}{##1}}}
+\expandafter\def\csname PY@tok@kt\endcsname{\def\PY@tc##1{\textcolor[rgb]{0.69,0.00,0.25}{##1}}}
+\expandafter\def\csname PY@tok@o\endcsname{\def\PY@tc##1{\textcolor[rgb]{0.40,0.40,0.40}{##1}}}
+\expandafter\def\csname PY@tok@ow\endcsname{\let\PY@bf=\textbf\def\PY@tc##1{\textcolor[rgb]{0.67,0.13,1.00}{##1}}}
+\expandafter\def\csname PY@tok@nb\endcsname{\def\PY@tc##1{\textcolor[rgb]{0.00,0.50,0.00}{##1}}}
+\expandafter\def\csname PY@tok@nf\endcsname{\def\PY@tc##1{\textcolor[rgb]{0.00,0.00,1.00}{##1}}}
+\expandafter\def\csname PY@tok@nc\endcsname{\let\PY@bf=\textbf\def\PY@tc##1{\textcolor[rgb]{0.00,0.00,1.00}{##1}}}
+\expandafter\def\csname PY@tok@nn\endcsname{\let\PY@bf=\textbf\def\PY@tc##1{\textcolor[rgb]{0.00,0.00,1.00}{##1}}}
+\expandafter\def\csname PY@tok@ne\endcsname{\let\PY@bf=\textbf\def\PY@tc##1{\textcolor[rgb]{0.82,0.25,0.23}{##1}}}
+\expandafter\def\csname PY@tok@nv\endcsname{\def\PY@tc##1{\textcolor[rgb]{0.10,0.09,0.49}{##1}}}
+\expandafter\def\csname PY@tok@no\endcsname{\def\PY@tc##1{\textcolor[rgb]{0.53,0.00,0.00}{##1}}}
+\expandafter\def\csname PY@tok@nl\endcsname{\def\PY@tc##1{\textcolor[rgb]{0.63,0.63,0.00}{##1}}}
+\expandafter\def\csname PY@tok@ni\endcsname{\let\PY@bf=\textbf\def\PY@tc##1{\textcolor[rgb]{0.60,0.60,0.60}{##1}}}
+\expandafter\def\csname PY@tok@na\endcsname{\def\PY@tc##1{\textcolor[rgb]{0.49,0.56,0.16}{##1}}}
+\expandafter\def\csname PY@tok@nt\endcsname{\let\PY@bf=\textbf\def\PY@tc##1{\textcolor[rgb]{0.00,0.50,0.00}{##1}}}
+\expandafter\def\csname PY@tok@nd\endcsname{\def\PY@tc##1{\textcolor[rgb]{0.67,0.13,1.00}{##1}}}
+\expandafter\def\csname PY@tok@s\endcsname{\def\PY@tc##1{\textcolor[rgb]{0.73,0.13,0.13}{##1}}}
+\expandafter\def\csname PY@tok@sd\endcsname{\let\PY@it=\textit\def\PY@tc##1{\textcolor[rgb]{0.73,0.13,0.13}{##1}}}
+\expandafter\def\csname PY@tok@si\endcsname{\let\PY@bf=\textbf\def\PY@tc##1{\textcolor[rgb]{0.73,0.40,0.53}{##1}}}
+\expandafter\def\csname PY@tok@se\endcsname{\let\PY@bf=\textbf\def\PY@tc##1{\textcolor[rgb]{0.73,0.40,0.13}{##1}}}
+\expandafter\def\csname PY@tok@sr\endcsname{\def\PY@tc##1{\textcolor[rgb]{0.73,0.40,0.53}{##1}}}
+\expandafter\def\csname PY@tok@ss\endcsname{\def\PY@tc##1{\textcolor[rgb]{0.10,0.09,0.49}{##1}}}
+\expandafter\def\csname PY@tok@sx\endcsname{\def\PY@tc##1{\textcolor[rgb]{0.00,0.50,0.00}{##1}}}
+\expandafter\def\csname PY@tok@m\endcsname{\def\PY@tc##1{\textcolor[rgb]{0.40,0.40,0.40}{##1}}}
+\expandafter\def\csname PY@tok@gh\endcsname{\let\PY@bf=\textbf\def\PY@tc##1{\textcolor[rgb]{0.00,0.00,0.50}{##1}}}
+\expandafter\def\csname PY@tok@gu\endcsname{\let\PY@bf=\textbf\def\PY@tc##1{\textcolor[rgb]{0.50,0.00,0.50}{##1}}}
+\expandafter\def\csname PY@tok@gd\endcsname{\def\PY@tc##1{\textcolor[rgb]{0.63,0.00,0.00}{##1}}}
+\expandafter\def\csname PY@tok@gi\endcsname{\def\PY@tc##1{\textcolor[rgb]{0.00,0.63,0.00}{##1}}}
+\expandafter\def\csname PY@tok@gr\endcsname{\def\PY@tc##1{\textcolor[rgb]{1.00,0.00,0.00}{##1}}}
+\expandafter\def\csname PY@tok@ge\endcsname{\let\PY@it=\textit}
+\expandafter\def\csname PY@tok@gs\endcsname{\let\PY@bf=\textbf}
+\expandafter\def\csname PY@tok@gp\endcsname{\let\PY@bf=\textbf\def\PY@tc##1{\textcolor[rgb]{0.00,0.00,0.50}{##1}}}
+\expandafter\def\csname PY@tok@go\endcsname{\def\PY@tc##1{\textcolor[rgb]{0.53,0.53,0.53}{##1}}}
+\expandafter\def\csname PY@tok@gt\endcsname{\def\PY@tc##1{\textcolor[rgb]{0.00,0.27,0.87}{##1}}}
+\expandafter\def\csname PY@tok@err\endcsname{\def\PY@bc##1{\setlength{\fboxsep}{0pt}\fcolorbox[rgb]{1.00,0.00,0.00}{1,1,1}{\strut ##1}}}
+\expandafter\def\csname PY@tok@kc\endcsname{\let\PY@bf=\textbf\def\PY@tc##1{\textcolor[rgb]{0.00,0.50,0.00}{##1}}}
+\expandafter\def\csname PY@tok@kd\endcsname{\let\PY@bf=\textbf\def\PY@tc##1{\textcolor[rgb]{0.00,0.50,0.00}{##1}}}
+\expandafter\def\csname PY@tok@kn\endcsname{\let\PY@bf=\textbf\def\PY@tc##1{\textcolor[rgb]{0.00,0.50,0.00}{##1}}}
+\expandafter\def\csname PY@tok@kr\endcsname{\let\PY@bf=\textbf\def\PY@tc##1{\textcolor[rgb]{0.00,0.50,0.00}{##1}}}
+\expandafter\def\csname PY@tok@bp\endcsname{\def\PY@tc##1{\textcolor[rgb]{0.00,0.50,0.00}{##1}}}
+\expandafter\def\csname PY@tok@fm\endcsname{\def\PY@tc##1{\textcolor[rgb]{0.00,0.00,1.00}{##1}}}
+\expandafter\def\csname PY@tok@vc\endcsname{\def\PY@tc##1{\textcolor[rgb]{0.10,0.09,0.49}{##1}}}
+\expandafter\def\csname PY@tok@vg\endcsname{\def\PY@tc##1{\textcolor[rgb]{0.10,0.09,0.49}{##1}}}
+\expandafter\def\csname PY@tok@vi\endcsname{\def\PY@tc##1{\textcolor[rgb]{0.10,0.09,0.49}{##1}}}
+\expandafter\def\csname PY@tok@vm\endcsname{\def\PY@tc##1{\textcolor[rgb]{0.10,0.09,0.49}{##1}}}
+\expandafter\def\csname PY@tok@sa\endcsname{\def\PY@tc##1{\textcolor[rgb]{0.73,0.13,0.13}{##1}}}
+\expandafter\def\csname PY@tok@sb\endcsname{\def\PY@tc##1{\textcolor[rgb]{0.73,0.13,0.13}{##1}}}
+\expandafter\def\csname PY@tok@sc\endcsname{\def\PY@tc##1{\textcolor[rgb]{0.73,0.13,0.13}{##1}}}
+\expandafter\def\csname PY@tok@dl\endcsname{\def\PY@tc##1{\textcolor[rgb]{0.73,0.13,0.13}{##1}}}
+\expandafter\def\csname PY@tok@s2\endcsname{\def\PY@tc##1{\textcolor[rgb]{0.73,0.13,0.13}{##1}}}
+\expandafter\def\csname PY@tok@sh\endcsname{\def\PY@tc##1{\textcolor[rgb]{0.73,0.13,0.13}{##1}}}
+\expandafter\def\csname PY@tok@s1\endcsname{\def\PY@tc##1{\textcolor[rgb]{0.73,0.13,0.13}{##1}}}
+\expandafter\def\csname PY@tok@mb\endcsname{\def\PY@tc##1{\textcolor[rgb]{0.40,0.40,0.40}{##1}}}
+\expandafter\def\csname PY@tok@mf\endcsname{\def\PY@tc##1{\textcolor[rgb]{0.40,0.40,0.40}{##1}}}
+\expandafter\def\csname PY@tok@mh\endcsname{\def\PY@tc##1{\textcolor[rgb]{0.40,0.40,0.40}{##1}}}
+\expandafter\def\csname PY@tok@mi\endcsname{\def\PY@tc##1{\textcolor[rgb]{0.40,0.40,0.40}{##1}}}
+\expandafter\def\csname PY@tok@il\endcsname{\def\PY@tc##1{\textcolor[rgb]{0.40,0.40,0.40}{##1}}}
+\expandafter\def\csname PY@tok@mo\endcsname{\def\PY@tc##1{\textcolor[rgb]{0.40,0.40,0.40}{##1}}}
+\expandafter\def\csname PY@tok@ch\endcsname{\let\PY@it=\textit\def\PY@tc##1{\textcolor[rgb]{0.25,0.50,0.50}{##1}}}
+\expandafter\def\csname PY@tok@cm\endcsname{\let\PY@it=\textit\def\PY@tc##1{\textcolor[rgb]{0.25,0.50,0.50}{##1}}}
+\expandafter\def\csname PY@tok@cpf\endcsname{\let\PY@it=\textit\def\PY@tc##1{\textcolor[rgb]{0.25,0.50,0.50}{##1}}}
+\expandafter\def\csname PY@tok@c1\endcsname{\let\PY@it=\textit\def\PY@tc##1{\textcolor[rgb]{0.25,0.50,0.50}{##1}}}
+\expandafter\def\csname PY@tok@cs\endcsname{\let\PY@it=\textit\def\PY@tc##1{\textcolor[rgb]{0.25,0.50,0.50}{##1}}}
+
+\def\PYZbs{\char`\\}
+\def\PYZus{\char`\_}
+\def\PYZob{\char`\{}
+\def\PYZcb{\char`\}}
+\def\PYZca{\char`\^}
+\def\PYZam{\char`\&}
+\def\PYZlt{\char`\<}
+\def\PYZgt{\char`\>}
+\def\PYZsh{\char`\#}
+\def\PYZpc{\char`\%}
+\def\PYZdl{\char`\$}
+\def\PYZhy{\char`\-}
+\def\PYZsq{\char`\'}
+\def\PYZdq{\char`\"}
+\def\PYZti{\char`\~}
+% for compatibility with earlier versions
+\def\PYZat{@}
+\def\PYZlb{[}
+\def\PYZrb{]}
+\makeatother
+
+
+    % Exact colors from NB
+    \definecolor{incolor}{rgb}{0.0, 0.0, 0.5}
+    \definecolor{outcolor}{rgb}{0.545, 0.0, 0.0}
+
+
+
+    
+    % Prevent overflowing lines due to hard-to-break entities
+    \sloppy 
+    % Setup hyperref package
+    \hypersetup{
+      breaklinks=true,  % so long urls are correctly broken across lines
+      colorlinks=true,
+      urlcolor=urlcolor,
+      linkcolor=linkcolor,
+      citecolor=citecolor,
+      }
+    % Slightly bigger margins than the latex defaults
+    
+    \geometry{verbose,tmargin=1in,bmargin=1in,lmargin=1in,rmargin=1in}
+    
+    
+
+    \begin{document}
+    
+    
+    \maketitle
+    
+    
+
+    
+    \section{Vector space, subspaces}\label{vector-space-subspaces}
+
+\begin{itemize}
+\tightlist
+\item
+  A vector space is a set that is closed under finite vector addition
+  and scalar multiplication.
+\end{itemize}
+
+\subsection{Four subspaces}\label{four-subspaces}
+
+For \(m \times n\) matrix \(A\)，\(rank(A)=r\), we have:
+
+\begin{itemize}
+\item
+  row space \(C(A^T) \in \mathbb{R}^n, dim C(A^T)=r\)
+\item
+  null space \(N(A) \in \mathbb{R}^n, dim N(A)=n-r\)
+\item
+  column \(C(A) \in \mathbb{R}^m, dim C(A)=r\)
+\item
+  left null \(N(A^T) \in \mathbb{R}^m, dim N(A^T)=m-r\). The reason why
+  it is called left null space:
+  \(A^Ty=0 \rightarrow (A^Ty)^T=0^T\rightarrow y^TA=0^T\)
+\item
+  For \(A_{mn}\), column space is the subspace of \(R^{m}\) and null
+  space is the subspace of \(R^{n}\).
+\item
+  A null space example. For a particular matrix
+  \(A_{mn} \equiv A_{24}\), we obtain a system of two equations but four
+  variables (more variables than equations). For example
+  \(x+2y-z+s = 2\) and \(2x+46-2z+2s = 4\). We have two free variables z
+  and s and can be set with two independent values (z,s) = (0,1) or
+  (1,0). Whenever, we have free variables, we have non-zero dimension
+  null space. This happens when \(m>n\).
+\item
+  We have now two ways of creating a subspace. (1) First we use the
+  linear combination of columns of a matrix and obtain the so called
+  column space \(C(A)\). Second we can use the solutions to \(Ax = 0\)
+  for form a null space, which is a subspace. The key point is that the
+  two ways both guarantee that the zero vector is included. For row
+  space and left null space, it is similar.
+\item
+  Note we cannot use the solution of \(Ax = b, b\neq 0\) to form a
+  subspace. (1) In this case \(x=0\) is not necessarily the solution to
+  the equation. However, we require any vector subspace must have zero
+  vector. (2) The solution to \(Ax = b\) is \(x=x_{n}+x_{p} = x_{p}\),
+  which is given by a null subspace vector shifted by a particular
+  vector, and thus no longer is a subspace (not going through zero
+  vector anymore).
+\item
+  \begin{enumerate}
+  \def\labelenumi{(\roman{enumi})}
+  \tightlist
+  \item
+    row operations (such as eliminations) do not change the row space
+    and null space (see the link below); (ii) column operations do not
+    change the column space (and left-null space?). But how to
+    understand row operations does not affect null space.
+    https://math.stackexchange.com/questions/108041/linear-algebra-preserving-the-null-space.\\
+  \end{enumerate}
+\item
+  The sum dimensions \(C(A)\) and \(N(A)\) is \(n\) for the
+  \(m\times n\) matrix.
+\item
+  A vectors such as \(v\in\mathbb{R}^4\), called a 4-dimensional vector.
+  However, we cannot call a matrix contains such vectors as a
+  four-dimensional space. As studied earlier, the dimension of four
+  subspaces for this matrix can be very different.\\
+\item
+  When plotting two vectors \(a\) and \(b\) on a paper, NEVER think that
+  they must be 2D vectors (\(a or b \in \mathbb{R}^2\)). In fact, they
+  might be true that \(a or b \in \mathbb{R}^4\), etc.
+\item
+  A very important relation: \(dim C(A) = dim C(A^T)\). This means that
+  the rank or dimension of column space is equal to that of row space.
+  Be careful, never judge whether a matrix is a basis or invertible only
+  from relations of columns.
+\item
+  Full rank matrix is not necessarily a square matrix. We need separate
+  column full rank, row full rank, and both row and column full rank.
+\end{itemize}
+
+\subsection{\texorpdfstring{Solution structure of
+\(Ax = b\)}{Solution structure of Ax = b}}\label{solution-structure-of-ax-b}
+
+\begin{itemize}
+\tightlist
+\item
+  \(Ax = b\) has solution if and only if \(b\in C(A)\)
+\end{itemize}
+
+\[\begin{array}{c|c|c|c}r=m=n&r=n\lt m&r=m\lt n&r\lt m,r\lt n\\R=I&R=\begin{bmatrix}I\\0\end{bmatrix}&R=\begin{bmatrix}I&F\end{bmatrix}&R=\begin{bmatrix}I&F\\0&0\end{bmatrix}\\1\ solution&0\ or\ 1\ solution&\infty\ solution&0\ or\ \infty\ solution\end{array}\]
+
+\begin{itemize}
+\tightlist
+\item
+  There are two major groups: (1) Both column and row full rank. (2)
+  Other case which include 2-a: full-column rank, 2-b: full-row rank,
+  2-c: both row and column are not full rank. All these cases can be
+  understood with geometric interpretation.
+\item
+  1-a. \(r=m=n\): \(Ax = 0\) only have a solution \(x=0\). Or we can
+  understand as the number of free variable is zero and thus null space
+  is only \(x=0\). So the complete solution is
+  \(x=x_{n}+x_{p} = x_{p}\). In other words, we have solution and only
+  one particular solution. I focused on only this type of solution for
+  many years. The unique solution is \(x=A^{-1}b\). The reason why we
+  must have a unique solution is that \(b\) and column space are with
+  the same dimension, and thus \(b\) can sure be expanded in the column
+  space.
+\item
+  2-a. Only column full rank (memorize as tall matrix). Imagine a
+  \(4\times2\) matrix. Full column rank indicates two independent column
+  vectors in \(\mathbb{R}^4\) and thus \(Ax=0\) has only \(x=0\)
+  solution. If \(Ax=b\) has solution, then it requires that the \(b\)
+  must lie in the \(C(A)\). If this is the case, then we have ONE
+  solution. However, it is possible that two column vectors of \(A\)
+  cannot linearly combine to any four-dimensional vector \(b\). In this
+  later case, there is no solution.
+\item
+  2-b. Only row full rank (memorize as fat matrix). Imagine a
+  \(2\times4\) matrix. We thus know \(C(A)\in \mathbb{R}^2\). As shown
+  in lecture 10, \(dim C(A) = dim C(A^T)\), so if there are two
+  independent rows, then there must be two independent columns.
+  Therefore the four columns (two of them are independent) in \(A\) can
+  linearly combine into any \(b\) vector in \(\mathbb{R}^2\). In other
+  words, we can always find at least one particular solution \(x_p\) to
+  \(Ax = b\). Now we turn to the solution to \(Ax = 0\), i.e., the
+  \(N(A)\). The null space dimension is 4-2 = 2 and thus we have two
+  free variables, or have two independent vector in null space. We can
+  obtain the \(x_n\), which is linear combination of two
+  \(\mathbb{R}^4\) vectors. Then the final solution will be
+  \(x = x_n+x_p\). The key is this fat matrix case, in 2-dimensional
+  space, there are at least two independent column vectors, and thus we
+  can expand any vector \(b\), and thus we have at least one particular
+  solution. By the way, the \(N(A)\) is a combination of two independent
+  vectors, and thus is a plane in \(\mathbb{R}^4\) space. Finally, from
+  above, the non-zero \(N(A)\) and the existing \(x_p\) give infinite
+  number of solutions.
+\item
+  2-c If column is not full rank, it is like the case of 2-b and we may
+  have a particular solution if \(b \in C(A)\). Otherwise no nonzero
+  \(x_p\). If row is not full rank, it is like the case of 2-a, we have
+  nonzero \(N(A)\) and thus may have infinity number of solution. So in
+  this case, there might be no solution or \(\infty\) solutions.
+\end{itemize}
+
+    \section{Orthogonality}\label{orthogonality}
+
+\subsection{Orthogonality of four
+subspaces}\label{orthogonality-of-four-subspaces}
+
+For \(m \times n\) matrix \(A\) with rank \(r\), the row space
+(\(dim C(A^T)=r\)) and null space (\(dim N(A)=n-r\)) are orthogonal to
+each other and both belong to \(\mathbb{R}^n\). The column space
+(\(dim C(A)=r\)) and left null space (\(dim N(A^T)\)=m-r) are also
+orthogonal to each other and belong to \(\mathbb{R}^m\).
+
+A best imagination to understand the orthogonality of the four
+subspaces. (A) in the matrix form of \(Ax = 0\), note the rows of \(A\)
+(horizontal direction) are perpendicular to the \(x\) vector (vertical
+direction). Thus the \(N(A)\) where \(x\) resides is orthogonal to the
+row space of \(A\). (B)In the matrix form of \(x^TA = 0\), the \(x\) is
+perpendicular to the column vector. So left null space is equal to
+column space of \(A\).
+
+When subspace \(S\) and subspace \(T\) are orthogonal, then any vector
+in \(S\) is orthogonal to any vectors in \(T\). Two walls cannot be two
+orthogonal spaces.
+
+Example: For \(A=\begin{bmatrix}1&2&5\\2&4&10\end{bmatrix}\), we have
+\(m=2, n=3, rank(A)=1, dim N(A)=2\). From
+\(Ax=\begin{bmatrix}1&2&5\\2&4&10\end{bmatrix}\begin{bmatrix}x_1\\x_2\\x_3\end{bmatrix}=\begin{bmatrix}0\\0\end{bmatrix}\),
+we obtain a basis of null space:
+\(x_1=\begin{bmatrix}-2\\1\\0\end{bmatrix}\quad x_2=\begin{bmatrix}-5\\0\\1\end{bmatrix}\).
+The basis in row space is \(r=\begin{bmatrix}1\\2\\5\end{bmatrix}\). The
+null space is orthogonal to the row space. In this example, row space is
+the normal vector to the null space.
+
+Row space and null space are orthogonal complement in \(n\) dimensional
+space, i.e., null space contains all the vectors that are perpendicular
+to row space. Similarly, column space and left null space are orthogonal
+complement in \(m\) dimensional space.
+
+    \subsection{Projection to subspaces}\label{projection-to-subspaces}
+
+\subsubsection{General picture}\label{general-picture}
+
+\begin{itemize}
+\tightlist
+\item
+  First have a clear picture on how column space \(C(A)\bot N(A^T)\).
+  Review the imagination picture earlier.
+\item
+  We want to solve \(Ax = b\), where \(A\) is a tall matrix. We do not
+  have a solution because \(C(A)\) cannot expand vector \(b\). For tall
+  matrix, \(b\) might be a four-dimensional vector but \(C(A)\) has a
+  dimension of three. Note even for fat matrix, \(C(A)\) might not
+  expand vector \(b\). \textbf{So it is not just for tall matrix that
+  \(Ax = b\) might have no solution.}
+\item
+  Because there are no solution in \(C(A)\), we want an approximate
+  solution \(\hat{x}\). From the projection picture, \(b\)'s projection
+  to \(C(A)\) is \(p = A\hat{x}\).
+\item
+  The error or difference between \(b\) and \(p\) is
+  \(e = b-p = b - A\hat{x}\).
+\item
+  Also from the projection picture, \(e\) is normal to all the columns
+  of \(A\). Thus we have \(a_1^T(b-p) = a_1^Te = 0\),
+  \(a_2^T(b-p) = a_2^Te = 0\)... These can be written as
+  \(A^T e = A^T(b-A\hat{x}) = 0\), or \(e\) is in the \(N(A^T)\), the
+  left null space of \(A\). From this we can obtain
+  \(\hat{x} = (A^TA)^{-1}A^Tb\), which is the approximate solution of
+  \(Ax = b\).
+\item
+  The above picture of \(e\) perpendicular to \(C(A)\) is extremely
+  important. All the ideas of introducing normal matrix, normal
+  equation, etc. are all from this geometric picture.
+\end{itemize}
+
+\subsubsection{2D Projection}\label{d-projection}
+
+In projection, vector \(e\) is the error between two vectors\(b, p\),
+\(e=b-p, e \bot p\). Projection \(p\) is on \(a\) and \(p=ax\). Thus we
+have \(a^Te=a^T(b-p)=a^T(b-ax)=0\). We have the very important
+equation,\$ a\^{}T(b-xa)=0, xa\textsuperscript{Ta=a}Tb,
+x=\frac{a^Tb}{a^Ta}, p=a\frac{a^Tb}{a^Ta}\$.
+
+\(P=\frac{aa^T}{a^Ta}\). If \(a\) is \(n\) dimensional column vector,
+then \(P\) is a \(n \times n\) matrix. The column space of projection
+matrix \(C(P)\) is a line going through \(a\) with \(rank(P)=1\). \(a\)
+is the basis of this matrix.
+
+Projection is a symmetric matrix \(P=P^T\) and thus can always be
+diagonalizable. Also we have \(P^2=P\).
+
+    \subsubsection{3D projection}\label{d-projection}
+
+The projection matrix in 3D can be derived with the similar way in 2D
+case (see details in course notes). However, here we will use a simple
+way to understand. The 2D case \(P=\frac{aa^T}{a^Ta}\) becomes
+\(P=aa^T\) when \(a\) is a unit vector. Then \(Px = aa^Tx = a_ia\),
+where \(a_i\) is the projection of vector \(x\) on the vector \(a\).
+This is exactly same as the projection operator in physics which usually
+described by Dirac notation.\\
+Extending to 3D case \(P=AA^T\) gives \(Px = AA^Tx\). Each row of
+\(A^T\) dot multiply with vector \(x\) give the value, which is the
+projection of \(x\) on this row vector of \(A^T\) or column vector of
+\(A\). This gives all the projections of \(x\) on all the column vectors
+of \(A\). The projections is denoted by a vector \(y\) and thus
+\(Px = Ay\). From the column picture of matrix multiplication, \(Ay\) is
+just expand with the columns of \(A\). In other words, \(Px\) projects
+\(x\) into the column space of \(A\). If the column vectors of \(A\) is
+not unit vectors, then \(P = A(A^TA)^{-1}A^T\).\\
+\textbf{Important conclusion}: * If \(A\) contains \textbf{unit column
+vectors}, then \(AA^Tx\) projects \(x\) onto the column space of \(A\).
+* If \(A\) contains \textbf{unit row vectors } (required?), then
+\(A^TAx\) projects \(x\) onto the row space of \(A\). So \(Ax\) may have
+interpreted as: (1) column expansion with coefficients in \(x\). (2).
+\(Ax = y\), then \(y\) is the projections of \(x\) on the row space (the
+row vectors need to be unit vector).
+
+    \subsubsection{A summary to memorize}\label{a-summary-to-memorize}
+
+\begin{itemize}
+\tightlist
+\item
+  \(Ax = b \Rightarrow A\hat{x} = p \Rightarrow A\hat{x} = Pb = A(A^TA)^{-1}A^Tb \Rightarrow \hat{x} = (A^TA)^{-1}A^Tb\).
+  From the pseudo-inverse part, we know that the projection matrix here
+  projecting \(\mathbb{R}^m\) to column space \(C(A)\). The projection
+  matrix can be written as \(A\) multiplied by left inverse matrix
+  \(A_{left}^{-1} = (A^TA)^{-1}A^T\). Also from \(Ax = b\) we know that
+  the linear transformation \(A\) transform a vector \(x\) in row space
+  \(C(A^T)\) to column space \(C(A)\).
+\item
+  \(A\) left multiplying left inverse gives projection matrix which
+  projects \(\mathbb{R}^m\) to \(C(A)\). If we right multiply A to right
+  inverse, then it will give a projection matrix projecting
+  \(\mathbb{R}^n\) to row space \(C(A^T)\).
+  \(A_{right}^{-1} = A^T(AA^T)^{-1}\). Thus the projecting matrix is
+  \(p = A^T(AA^T)^{-1}A\).
+\end{itemize}
+
+    \subsubsection{Minimum Least Square}\label{minimum-least-square}
+
+The minimum least square method is exactly mapped to the problem of
+solving \(Ax = b\). So I can understand everything here with the
+conclusions arrived earlier. In the following results, we need find the
+clear geometric significance of terms such as \(p, e, \hat{x}\). Also
+what is \(C(A), N(A^T)\), etc.
+
+We will find a line \(b=C+Dt\) that has minimum deviation from three
+points \((1, 1), (2, 2), (3, 2)\). From this we have the following
+equations \$
+
+\begin{cases}
+C+D&=1 \\
+C+2D&=2 \\
+C+3D&=2 \\
+\end{cases}
+
+\$. The matrix form is
+\(\begin{bmatrix}1&1 \\1&2 \\1&3\\\end{bmatrix}\begin{bmatrix}C\\D\\\end{bmatrix}=\begin{bmatrix}1\\2\\2\\\end{bmatrix}\).
+That is \(Ax=b\). Obviously, there is no solution to the system of
+equations. However, there is solution to \(A^TA\hat x=A^Tb\).
+Multiplying \(A^T\) in both sides gives \(A^TA\hat x=A^Tb\), which is
+the fundamental equation for minimum least square.
+
+    Now we are finding the solutions
+\(\hat x=\begin{bmatrix}\hat C\\ \hat D\end{bmatrix}\)与\(p=\begin{bmatrix}p_1\\p_2\\p_3\end{bmatrix}\).
+
+\[
+A^TA\hat x=A^Tb\\
+A^TA=
+\begin{bmatrix}3&6\\6&14\end{bmatrix}\qquad
+A^Tb=
+\begin{bmatrix}5\\11\end{bmatrix}\\
+\begin{bmatrix}3&6\\6&14\end{bmatrix}
+\begin{bmatrix}\hat C\\\hat D\end{bmatrix}=
+\begin{bmatrix}5\\11\end{bmatrix}\\
+\]
+
+Converting to equations gives
+\(\begin{cases}3\hat C+16\hat D&=5\\6\hat C+14\hat D&=11\\\end{cases}\),
+which are also called normal equations. The solutions are
+\(\hat C=\frac{2}{3}, \hat D=\frac{1}{2}\), corresponding to the 'best
+line' \(y=\frac{2}{3}+\frac{1}{2}t\). Plugging into the original
+equations gives \(p_1=\frac{7}{6}, p_2=\frac{5}{3}, p_3=\frac{13}{6}\).
+That is, \(e_1=-\frac{1}{6}, e_2=\frac{1}{3}, e_3=-\frac{1}{6}\).
+
+Thus we have
+\(p=\begin{bmatrix}\frac{7}{6}\\\frac{5}{3}\\\frac{13}{6}\end{bmatrix}, e=\begin{bmatrix}-\frac{1}{6}\\\frac{1}{3}\\-\frac{1}{6}\end{bmatrix}\).
+Obviously, \(b=p+e\) and \(p\cdot e=0\), i.e., \(p\bot e\). The error
+vector \(e\) is not only perpendicular to \(p\) but also to the whole
+column space. For example,
+\(\begin{bmatrix}1\\1\\1\end{bmatrix}, \begin{bmatrix}1\\2\\3\end{bmatrix}\).
+
+    \subsubsection{Why projection is
+introduced?}\label{why-projection-is-introduced}
+
+\begin{itemize}
+\tightlist
+\item
+  Projection is strongly related to orthogonality.
+\item
+  Projection is also strongly related to optimization, i.e. minimization
+  or maximization. From the geometrical picture, we know a that a
+  projection is automatically the optimal solution is the space
+  projected into. The key reason is as follows: \(e\) is the error
+  between two vectors, and \(e\) is minimized when vertically
+  (orthogonally) projected to another space.
+\item
+  To let the normal equations solvable, we need the \(A\) is full column
+  rank, as shown below.
+\end{itemize}
+
+If the columns of matrix \(A\) are linearly independent, then \(A^TA\)
+is invertible.
+
+First assume \(A^TAx=0\), and then multiplying \(x^T\) in both sides
+gives \(x^TA^TAx=0\), i.e., \((Ax)^T(Ax)=0\). Thus \(Ax=0\). Because
+columns of \(A\) are independent, thus the null space of \(A\) only has
+zero vector.
+
+    \subsection{Orthonormal matrix and
+Gram-Schmidt}\label{orthonormal-matrix-and-gram-schmidt}
+
+orthonormal：\(q_i^Tq_j=\begin{cases}0\quad i\neq j\\1\quad i=j\end{cases}\)\\
+\(Q=\Bigg[q_1 q_2 \cdots q_n\Bigg]\)\\
+\(Q^TQ=I\) \(Q^T=Q^{-1}\)
+
+Advantage of orthonormal matrix:\\
+For ordinary matrix, the projection matrix to its column space is
+complicated. For orthonormal matrix, if we want to project vector \(b\)
+to the column space of matrix \(Q\), then we have a much simpler
+projection matrix, \(P=Q(Q^TQ)^{-1}Q^T = QQ^T\). Therefore, when columns
+of a matrix is orthonormal, then \(QQ^T\) is the projection matrix. In
+special case of square matrix, then if its columns are orthonormal, then
+its column space is the whole vector space, and the projection matrix to
+this whole space is identity matrix, i.e., \(QQ^T=I\).
+
+Steps of Gram-Schmidt:
+
+For two linearly independent vectors \(a, b\), first transfer them into
+two perpendicular vectors \(A, B\), and then normalize them with
+\(q_1=\frac{A}{\left\|A\right\|}, q_2=\frac{B}{\left\|B\right\|}\):
+
+\begin{itemize}
+\tightlist
+\item
+  Let \(a=A\)\\
+\item
+  Projecting \(b\) onto the direction of normal vector of \(A\) gives
+  vector \(B\). This is just the error vector introduced earlier
+  \(e=b-p\). That is \(B=b-\frac{A^Tb}{A^TA}A\). Now verify whether
+  \(A\bot B\) is true.
+  \(A^TB=A^Tb-A^T\frac{A^Tb}{A^TA}A=A^Tb-\frac{A^TA}{A^TA}A^Tb=0\).
+  (\(\frac{A^Tb}{A^TA}A\) is \(A\hat x=p\)).
+\end{itemize}
+
+For three independent vectors \(a, b, c\), we need first find their
+corresponding orthogonal vectors \(A, B, C\) and then normalize them
+with
+\(q_1=\frac{A}{\left\|A\right\|}, q_2=\frac{B}{\left\|B\right\|}, q_3=\frac{C}{\left\|C\right\|}\):
+
+\begin{itemize}
+\tightlist
+\item
+  We have shown how to obtain the first two orthogonal vectors. Now we
+  need find the third vector which is orthogonal to both \(A, B\).\\
+\item
+  Following the similar approach, we first calculate the projection of
+  \(c\) on \(A, B\), and then subtract this projection from \(c\).
+  \(C=c-\frac{A^Tc}{A^TA}A-\frac{B^Tc}{B^TB}B\).
+\end{itemize}
+
+    \subsection{Properties of orthogonal matrix (unitary
+matrix)}\label{properties-of-orthogonal-matrix-unitary-matrix}
+
+\begin{itemize}
+\tightlist
+\item
+  It preserves the norm of a vector. An example is rotational matrix.
+  This is easy to prove:\\
+  \(\left\|Ux\right\|^2 = (Ux)^T(Ux) = x^TU^TUx = x^Tx = \left\|x\right\|^2\)
+\end{itemize}
+
+
+    % Add a bibliography block to the postdoc
+    
+    
+    
+    \end{document}
