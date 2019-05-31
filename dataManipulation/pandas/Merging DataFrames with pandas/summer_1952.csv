@@ -1,0 +1,890 @@
+,City,Edition,Sport,Discipline,Athlete,NOC,Gender,Event,Event_gender,Medal
+8018,Helsinki,1952,Aquatics,Diving,"HAASE, Günther",GER,Men,10m platform,M,Bronze
+8019,Helsinki,1952,Aquatics,Diving,"LEE, Samuel",USA,Men,10m platform,M,Gold
+8020,Helsinki,1952,Aquatics,Diving,"CAPILLA PEREZ, Joaquin",MEX,Men,10m platform,M,Silver
+8021,Helsinki,1952,Aquatics,Diving,"STOVER-IRWIN, Juno Roslays",USA,Women,10m platform,W,Bronze
+8022,Helsinki,1952,Aquatics,Diving,"MCCORMICK, Patricia",USA,Women,10m platform,W,Gold
+8023,Helsinki,1952,Aquatics,Diving,"MYERS-POPE, Paula Jean",USA,Women,10m platform,W,Silver
+8024,Helsinki,1952,Aquatics,Diving,"CLOTWORTHY, Robert Lynn",USA,Men,3m springboard,M,Bronze
+8025,Helsinki,1952,Aquatics,Diving,"BROWNING, David Grieg Jr.",USA,Men,3m springboard,M,Gold
+8026,Helsinki,1952,Aquatics,Diving,"ANDERSON, Miller Altman",USA,Men,3m springboard,M,Silver
+8027,Helsinki,1952,Aquatics,Diving,"OLSEN-JENSEN, Zoe-Ann",USA,Women,3m springboard,W,Bronze
+8028,Helsinki,1952,Aquatics,Diving,"MCCORMICK, Patricia",USA,Women,3m springboard,W,Gold
+8029,Helsinki,1952,Aquatics,Diving,"MOREAU, Madeleine",FRA,Women,3m springboard,W,Silver
+8030,Helsinki,1952,Aquatics,Swimming,"TAYLOR, Jack George Neil",USA,Men,100m backstroke,M,Bronze
+8031,Helsinki,1952,Aquatics,Swimming,"OYAKAWA, Yoshinobu",USA,Men,100m backstroke,M,Gold
+8032,Helsinki,1952,Aquatics,Swimming,"BOZON, Gilbert",FRA,Men,100m backstroke,M,Silver
+8033,Helsinki,1952,Aquatics,Swimming,"STEWART, Jean",NZL,Women,100m backstroke,W,Bronze
+8034,Helsinki,1952,Aquatics,Swimming,"HARRISON, Joan Cynthia",RSA,Women,100m backstroke,W,Gold
+8035,Helsinki,1952,Aquatics,Swimming,"WIELEMA, Geertje",NED,Women,100m backstroke,W,Silver
+8036,Helsinki,1952,Aquatics,Swimming,"LARSSON, Göran",SWE,Men,100m freestyle,M,Bronze
+8037,Helsinki,1952,Aquatics,Swimming,"SCHOLES, Clark Currie",USA,Men,100m freestyle,M,Gold
+8038,Helsinki,1952,Aquatics,Swimming,"SUZUKI, Hiroshi",JPN,Men,100m freestyle,M,Silver
+8039,Helsinki,1952,Aquatics,Swimming,"TEMES, Judith",HUN,Women,100m freestyle,W,Bronze
+8040,Helsinki,1952,Aquatics,Swimming,"SZÖKE, Katalin",HUN,Women,100m freestyle,W,Gold
+8041,Helsinki,1952,Aquatics,Swimming,"TERMEULEN, Johanna Maria",NED,Women,100m freestyle,W,Silver
+8042,Helsinki,1952,Aquatics,Swimming,"OKAMOTO, Tetsuo",BRA,Men,1500m freestyle,M,Bronze
+8043,Helsinki,1952,Aquatics,Swimming,"KONNO, Ford Hiroshi",USA,Men,1500m freestyle,M,Gold
+8044,Helsinki,1952,Aquatics,Swimming,"HASHIZUME, Shiro",JPN,Men,1500m freestyle,M,Silver
+8045,Helsinki,1952,Aquatics,Swimming,"KLEIN, Herbert",GER,Men,200m breaststroke,M,Bronze
+8046,Helsinki,1952,Aquatics,Swimming,"DAVIES, John Griffith",AUS,Men,200m breaststroke,M,Gold
+8047,Helsinki,1952,Aquatics,Swimming,"STASSFORTH, Bowen Dow",USA,Men,200m breaststroke,M,Silver
+8048,Helsinki,1952,Aquatics,Swimming,"GORDON-MCKAY, Helen Orr",GBR,Women,200m breaststroke,W,Bronze
+8049,Helsinki,1952,Aquatics,Swimming,"SZEKELY, Eva",HUN,Women,200m breaststroke,W,Gold
+8050,Helsinki,1952,Aquatics,Swimming,"NOVAK-GERARD, Eva",HUN,Women,200m breaststroke,W,Silver
+8051,Helsinki,1952,Aquatics,Swimming,"ÖSTRAND, Per-Olof",SWE,Men,400m freestyle,M,Bronze
+8052,Helsinki,1952,Aquatics,Swimming,"BOITEUX, Jean",FRA,Men,400m freestyle,M,Gold
+8053,Helsinki,1952,Aquatics,Swimming,"KONNO, Ford Hiroshi",USA,Men,400m freestyle,M,Silver
+8054,Helsinki,1952,Aquatics,Swimming,"KAWAMOTO, Evelyn Tokue",USA,Women,400m freestyle,W,Bronze
+8055,Helsinki,1952,Aquatics,Swimming,"GYENGE, Valeria",HUN,Women,400m freestyle,W,Gold
+8056,Helsinki,1952,Aquatics,Swimming,"NOVAK-GERARD, Eva",HUN,Women,400m freestyle,W,Silver
+8057,Helsinki,1952,Aquatics,Swimming,"ALDERSON-ROSAZZA, Joan Ann",USA,Women,4x100m freestyle relay,W,Bronze
+8058,Helsinki,1952,Aquatics,Swimming,"KAWAMOTO, Evelyn Tokue",USA,Women,4x100m freestyle relay,W,Bronze
+8059,Helsinki,1952,Aquatics,Swimming,"LA VINE, Jacqueline Carol",USA,Women,4x100m freestyle relay,W,Bronze
+8060,Helsinki,1952,Aquatics,Swimming,"STEPAN, Mary Louise",USA,Women,4x100m freestyle relay,W,Bronze
+8061,Helsinki,1952,Aquatics,Swimming,"NOVAK, Ilona",HUN,Women,4x100m freestyle relay,W,Gold
+8062,Helsinki,1952,Aquatics,Swimming,"NOVAK-GERARD, Eva",HUN,Women,4x100m freestyle relay,W,Gold
+8063,Helsinki,1952,Aquatics,Swimming,"SZÖKE, Katalin",HUN,Women,4x100m freestyle relay,W,Gold
+8064,Helsinki,1952,Aquatics,Swimming,"TEMES, Judith",HUN,Women,4x100m freestyle relay,W,Gold
+8065,Helsinki,1952,Aquatics,Swimming,"HEIJTING-SCHUHMACHER, Irma",NED,Women,4x100m freestyle relay,W,Silver
+8066,Helsinki,1952,Aquatics,Swimming,"LINSSEN-VAESSEN, Marie-Louise Jean",NED,Women,4x100m freestyle relay,W,Silver
+8067,Helsinki,1952,Aquatics,Swimming,"TERMEULEN, Johanna Maria",NED,Women,4x100m freestyle relay,W,Silver
+8068,Helsinki,1952,Aquatics,Swimming,"VAN VOORN, Cornelia (Koosje)",NED,Women,4x100m freestyle relay,W,Silver
+8069,Helsinki,1952,Aquatics,Swimming,"BERNARDO, Joseph",FRA,Men,4x200m freestyle relay,M,Bronze
+8070,Helsinki,1952,Aquatics,Swimming,"BOITEUX, Jean",FRA,Men,4x200m freestyle relay,M,Bronze
+8071,Helsinki,1952,Aquatics,Swimming,"EMINENTE, Aldo",FRA,Men,4x200m freestyle relay,M,Bronze
+8072,Helsinki,1952,Aquatics,Swimming,"JANY, Alexandre",FRA,Men,4x200m freestyle relay,M,Bronze
+8073,Helsinki,1952,Aquatics,Swimming,"KONNO, Ford Hiroshi",USA,Men,4x200m freestyle relay,M,Gold
+8074,Helsinki,1952,Aquatics,Swimming,"MCLANE, James Price Jr.",USA,Men,4x200m freestyle relay,M,Gold
+8075,Helsinki,1952,Aquatics,Swimming,"MOORE, Wayne Richard",USA,Men,4x200m freestyle relay,M,Gold
+8076,Helsinki,1952,Aquatics,Swimming,"WOOLSEY, William Tripp",USA,Men,4x200m freestyle relay,M,Gold
+8077,Helsinki,1952,Aquatics,Swimming,"GOTO, Toru",JPN,Men,4x200m freestyle relay,M,Silver
+8078,Helsinki,1952,Aquatics,Swimming,"HAMAGUCHI, Yoshihiro",JPN,Men,4x200m freestyle relay,M,Silver
+8079,Helsinki,1952,Aquatics,Swimming,"SUZUKI, Hiroshi",JPN,Men,4x200m freestyle relay,M,Silver
+8080,Helsinki,1952,Aquatics,Swimming,"TANIKAWA, Teijiro",JPN,Men,4x200m freestyle relay,M,Silver
+8081,Helsinki,1952,Aquatics,Water polo,"ARENA, Ermenegildo",ITA,Men,water polo,M,Bronze
+8082,Helsinki,1952,Aquatics,Water polo,"CECCARINI, Lucio",ITA,Men,water polo,M,Bronze
+8083,Helsinki,1952,Aquatics,Water polo,"DE SANZUANE, Renato",ITA,Men,water polo,M,Bronze
+8084,Helsinki,1952,Aquatics,Water polo,"GAMBINO, Raffaello",ITA,Men,water polo,M,Bronze
+8085,Helsinki,1952,Aquatics,Water polo,"GIONTA, Salvatore",ITA,Men,water polo,M,Bronze
+8086,Helsinki,1952,Aquatics,Water polo,"MANNELLI, Maurizio",ITA,Men,water polo,M,Bronze
+8087,Helsinki,1952,Aquatics,Water polo,"OGNIO, Geminio",ITA,Men,water polo,M,Bronze
+8088,Helsinki,1952,Aquatics,Water polo,"PERETTI, Carlo",ITA,Men,water polo,M,Bronze
+8089,Helsinki,1952,Aquatics,Water polo,"POLITO, Vincenzo",ITA,Men,water polo,M,Bronze
+8090,Helsinki,1952,Aquatics,Water polo,"RUBINI, Cesare",ITA,Men,water polo,M,Bronze
+8091,Helsinki,1952,Aquatics,Water polo,"TRAIOLA, Renato",ITA,Men,water polo,M,Bronze
+8092,Helsinki,1952,Aquatics,Water polo,"ANTAL, Robert",HUN,Men,water polo,M,Gold
+8093,Helsinki,1952,Aquatics,Water polo,"BOLVARI, Antal",HUN,Men,water polo,M,Gold
+8094,Helsinki,1952,Aquatics,Water polo,"FABIAN, Dezsö",HUN,Men,water polo,M,Gold
+8095,Helsinki,1952,Aquatics,Water polo,"GYARMATI, Dezso",HUN,Men,water polo,M,Gold
+8096,Helsinki,1952,Aquatics,Water polo,"HASZNOS, Istvan",HUN,Men,water polo,M,Gold
+8097,Helsinki,1952,Aquatics,Water polo,"JENEI, Laszlo",HUN,Men,water polo,M,Gold
+8098,Helsinki,1952,Aquatics,Water polo,"KARPATI, György",HUN,Men,water polo,M,Gold
+8099,Helsinki,1952,Aquatics,Water polo,"LEMHENYI, DezsÃ¶",HUN,Men,water polo,M,Gold
+8100,Helsinki,1952,Aquatics,Water polo,"MARKOVICS, Kalman",HUN,Men,water polo,M,Gold
+8101,Helsinki,1952,Aquatics,Water polo,"MARTIN, Miklos",HUN,Men,water polo,M,Gold
+8102,Helsinki,1952,Aquatics,Water polo,"SZITTYA, Karoly",HUN,Men,water polo,M,Gold
+8103,Helsinki,1952,Aquatics,Water polo,"SZIVOS, Istvan",HUN,Men,water polo,M,Gold
+8104,Helsinki,1952,Aquatics,Water polo,"VIZVARI, György",HUN,Men,water polo,M,Gold
+8105,Helsinki,1952,Aquatics,Water polo,"BAKASUN, Veljko",YUG,Men,water polo,M,Silver
+8106,Helsinki,1952,Aquatics,Water polo,"BRAINOVIC, Marko",YUG,Men,water polo,M,Silver
+8107,Helsinki,1952,Aquatics,Water polo,"IVKOVIC, Vladimir",YUG,Men,water polo,M,Silver
+8108,Helsinki,1952,Aquatics,Water polo,"JEZIC, Zdravko",YUG,Men,water polo,M,Silver
+8109,Helsinki,1952,Aquatics,Water polo,"KOVACIC, Zdravko",YUG,Men,water polo,M,Silver
+8110,Helsinki,1952,Aquatics,Water polo,"KURTINI, Ivo",YUG,Men,water polo,M,Silver
+8111,Helsinki,1952,Aquatics,Water polo,"RADONIC, Lovro",YUG,Men,water polo,M,Silver
+8112,Helsinki,1952,Aquatics,Water polo,"STAKULA, Ivo",YUG,Men,water polo,M,Silver
+8113,Helsinki,1952,Aquatics,Water polo,"VUKSANOVIC, Bosko",YUG,Men,water polo,M,Silver
+8114,Helsinki,1952,Athletics,Athletics,"ANUFRIYEV, Aleksandr",URS,Men,10000m,M,Bronze
+8115,Helsinki,1952,Athletics,Athletics,"ZATOPEK, Emil",TCH,Men,10000m,M,Gold
+8116,Helsinki,1952,Athletics,Athletics,"MIMOUN, Alain",FRA,Men,10000m,M,Silver
+8117,Helsinki,1952,Athletics,Athletics,"JUNK, Bruno",URS,Men,10000m walk,M,Bronze
+8118,Helsinki,1952,Athletics,Athletics,"MIKAELSSON, John",SWE,Men,10000m walk,M,Gold
+8119,Helsinki,1952,Athletics,Athletics,"SCHWAB, Erich Arthur Fritz",SUI,Men,10000m walk,M,Silver
+8120,Helsinki,1952,Athletics,Athletics,"BAILEY, Emmanuel Mcdonald",GBR,Men,100m,M,Bronze
+8121,Helsinki,1952,Athletics,Athletics,"REMIGINO, Lindy",USA,Men,100m,M,Gold
+8122,Helsinki,1952,Athletics,Athletics,"MCKENLEY, Herbert",JAM,Men,100m,M,Silver
+8123,Helsinki,1952,Athletics,Athletics,"STRICKLAND-DE LA HUNTY, Shirley",AUS,Women,100m,W,Bronze
+8124,Helsinki,1952,Athletics,Athletics,"JACKSON, Marjorie",AUS,Women,100m,W,Gold
+8125,Helsinki,1952,Athletics,Athletics,"ROBB-HASENJÄGER, Daphne Lilian Evelyn",RSA,Women,100m,W,Silver
+8126,Helsinki,1952,Athletics,Athletics,"BARNARD, Arthur",USA,Men,110m hurdles,M,Bronze
+8127,Helsinki,1952,Athletics,Athletics,"DILLARD, Harrison",USA,Men,110m hurdles,M,Gold
+8128,Helsinki,1952,Athletics,Athletics,"DAVIS, Jack",USA,Men,110m hurdles,M,Silver
+8129,Helsinki,1952,Athletics,Athletics,"LUEG, Werner",GER,Men,1500m,M,Bronze
+8130,Helsinki,1952,Athletics,Athletics,"BARTHEL, Joseph",LUX,Men,1500m,M,Gold
+8131,Helsinki,1952,Athletics,Athletics,"MCMILLEN, Robert",USA,Men,1500m,M,Silver
+8132,Helsinki,1952,Athletics,Athletics,"GATHERS, James",USA,Men,200m,M,Bronze
+8133,Helsinki,1952,Athletics,Athletics,"STANFIELD, Andrew William",USA,Men,200m,M,Gold
+8134,Helsinki,1952,Athletics,Athletics,"BAKER, Walter Thane",USA,Men,200m,M,Silver
+8135,Helsinki,1952,Athletics,Athletics,"KHNYKINA-DVALISHVILI, Nadezhda",URS,Women,200m,W,Bronze
+8136,Helsinki,1952,Athletics,Athletics,"JACKSON, Marjorie",AUS,Women,200m,W,Gold
+8137,Helsinki,1952,Athletics,Athletics,"BROUWER, Bertha",NED,Women,200m,W,Silver
+8138,Helsinki,1952,Athletics,Athletics,"DISLEY, John Ivor",GBR,Men,3000m steeplechase,M,Bronze
+8139,Helsinki,1952,Athletics,Athletics,"ASHENFELTER, Horace III",USA,Men,3000m steeplechase,M,Gold
+8140,Helsinki,1952,Athletics,Athletics,"KAZANTSEV, Vladimir",URS,Men,3000m steeplechase,M,Silver
+8141,Helsinki,1952,Athletics,Athletics,"MATSON, Oliver Adrian",USA,Men,400m,M,Bronze
+8142,Helsinki,1952,Athletics,Athletics,"RHODEN, Vincent George",JAM,Men,400m,M,Gold
+8143,Helsinki,1952,Athletics,Athletics,"MCKENLEY, Herbert",JAM,Men,400m,M,Silver
+8144,Helsinki,1952,Athletics,Athletics,"HOLLAND, John Macfarlane",NZL,Men,400m hurdles,M,Bronze
+8145,Helsinki,1952,Athletics,Athletics,"MOORE, Charles Hewes Jr.",USA,Men,400m hurdles,M,Gold
+8146,Helsinki,1952,Athletics,Athletics,"LITUEV, Yuri",URS,Men,400m hurdles,M,Silver
+8147,Helsinki,1952,Athletics,Athletics,"CSANYI, György",HUN,Men,4x100m relay,M,Bronze
+8148,Helsinki,1952,Athletics,Athletics,"GOLDOVANYI, Bela",HUN,Men,4x100m relay,M,Bronze
+8149,Helsinki,1952,Athletics,Athletics,"VARASDI, Geza",HUN,Men,4x100m relay,M,Bronze
+8150,Helsinki,1952,Athletics,Athletics,"ZARANDI, Laszlo",HUN,Men,4x100m relay,M,Bronze
+8151,Helsinki,1952,Athletics,Athletics,"DILLARD, Harrison",USA,Men,4x100m relay,M,Gold
+8152,Helsinki,1952,Athletics,Athletics,"REMIGINO, Lindy",USA,Men,4x100m relay,M,Gold
+8153,Helsinki,1952,Athletics,Athletics,"SMITH, Finis Dean",USA,Men,4x100m relay,M,Gold
+8154,Helsinki,1952,Athletics,Athletics,"STANFIELD, Andrew William",USA,Men,4x100m relay,M,Gold
+8155,Helsinki,1952,Athletics,Athletics,"KALYAEV, Lev",URS,Men,4x100m relay,M,Silver
+8156,Helsinki,1952,Athletics,Athletics,"SANADZE, Levan",URS,Men,4x100m relay,M,Silver
+8157,Helsinki,1952,Athletics,Athletics,"SUKHAREV, Vladimir",URS,Men,4x100m relay,M,Silver
+8158,Helsinki,1952,Athletics,Athletics,"TOKAREV, Boris",URS,Men,4x100m relay,M,Silver
+8159,Helsinki,1952,Athletics,Athletics,"ARMITAGE, Heather Joy",GBR,Women,4x100m relay,W,Bronze
+8160,Helsinki,1952,Athletics,Athletics,"CHEESEMAN, Sylvia",GBR,Women,4x100m relay,W,Bronze
+8161,Helsinki,1952,Athletics,Athletics,"DESFORGES, Jean Catherine",GBR,Women,4x100m relay,W,Bronze
+8162,Helsinki,1952,Athletics,Athletics,"FOULDS-PAUL, June Florence",GBR,Women,4x100m relay,W,Bronze
+8163,Helsinki,1952,Athletics,Athletics,"FAGGS, Mae Heriwentha",USA,Women,4x100m relay,W,Gold
+8164,Helsinki,1952,Athletics,Athletics,"HARDY, Catherine",USA,Women,4x100m relay,W,Gold
+8165,Helsinki,1952,Athletics,Athletics,"JONES, Barbara Pearl",USA,Women,4x100m relay,W,Gold
+8166,Helsinki,1952,Athletics,Athletics,"MOREAU, Janet Theresa",USA,Women,4x100m relay,W,Gold
+8167,Helsinki,1952,Athletics,Athletics,"KLEIN, Helga",GER,Women,4x100m relay,W,Silver
+8168,Helsinki,1952,Athletics,Athletics,"KNAB, Ulla",GER,Women,4x100m relay,W,Silver
+8169,Helsinki,1952,Athletics,Athletics,"PETERSEN-KALLENSEE, Marga",GER,Women,4x100m relay,W,Silver
+8170,Helsinki,1952,Athletics,Athletics,"SANDER-DOMAGELLA, Maria",GER,Women,4x100m relay,W,Silver
+8171,Helsinki,1952,Athletics,Athletics,"GEISTER, Hans",GER,Men,4x400m relay,M,Bronze
+8172,Helsinki,1952,Athletics,Athletics,"HAAS, Karl-Friedrich",GER,Men,4x400m relay,M,Bronze
+8173,Helsinki,1952,Athletics,Athletics,"STEINES, Günther",GER,Men,4x400m relay,M,Bronze
+8174,Helsinki,1952,Athletics,Athletics,"ULZHEIMER, Heinz",GER,Men,4x400m relay,M,Bronze
+8175,Helsinki,1952,Athletics,Athletics,"LAING, Leslie",JAM,Men,4x400m relay,M,Gold
+8176,Helsinki,1952,Athletics,Athletics,"MCKENLEY, Herbert",JAM,Men,4x400m relay,M,Gold
+8177,Helsinki,1952,Athletics,Athletics,"RHODEN, Vincent George",JAM,Men,4x400m relay,M,Gold
+8178,Helsinki,1952,Athletics,Athletics,"WINT, Arthur",JAM,Men,4x400m relay,M,Gold
+8179,Helsinki,1952,Athletics,Athletics,"COLE, Gerrard Eugene",USA,Men,4x400m relay,M,Silver
+8180,Helsinki,1952,Athletics,Athletics,"MATSON, Oliver Adrian",USA,Men,4x400m relay,M,Silver
+8181,Helsinki,1952,Athletics,Athletics,"MOORE, Charles Hewes Jr.",USA,Men,4x400m relay,M,Silver
+8182,Helsinki,1952,Athletics,Athletics,"WHITFIELD, Malvin Groston",USA,Men,4x400m relay,M,Silver
+8183,Helsinki,1952,Athletics,Athletics,"SCHADE, Herbert",GER,Men,5000m,M,Bronze
+8184,Helsinki,1952,Athletics,Athletics,"ZATOPEK, Emil",TCH,Men,5000m,M,Gold
+8185,Helsinki,1952,Athletics,Athletics,"MIMOUN, Alain",FRA,Men,5000m,M,Silver
+8186,Helsinki,1952,Athletics,Athletics,"ROKA, Antal",HUN,Men,50km walk,M,Bronze
+8187,Helsinki,1952,Athletics,Athletics,"DORDONI, Giuseppe",ITA,Men,50km walk,M,Gold
+8188,Helsinki,1952,Athletics,Athletics,"DOLEZAL, Josef",TCH,Men,50km walk,M,Silver
+8189,Helsinki,1952,Athletics,Athletics,"ULZHEIMER, Heinz",GER,Men,800m,M,Bronze
+8190,Helsinki,1952,Athletics,Athletics,"WHITFIELD, Malvin Groston",USA,Men,800m,M,Gold
+8191,Helsinki,1952,Athletics,Athletics,"WINT, Arthur",JAM,Men,800m,M,Silver
+8192,Helsinki,1952,Athletics,Athletics,"SANDER-DOMAGELLA, Maria",GER,Women,80m hurdles,W,Bronze
+8193,Helsinki,1952,Athletics,Athletics,"STRICKLAND-DE LA HUNTY, Shirley",AUS,Women,80m hurdles,W,Gold
+8194,Helsinki,1952,Athletics,Athletics,"GOLUBNICHAYA, Mariya",URS,Women,80m hurdles,W,Silver
+8195,Helsinki,1952,Athletics,Athletics,"SIMMONS, Floyd Macon Jr.",USA,Men,decathlon,M,Bronze
+8196,Helsinki,1952,Athletics,Athletics,"MATHIAS, Robert",USA,Men,decathlon,M,Gold
+8197,Helsinki,1952,Athletics,Athletics,"CAMPBELL, Milton Gray",USA,Men,decathlon,M,Silver
+8198,Helsinki,1952,Athletics,Athletics,"DILLION, James Leo",USA,Men,discus throw,M,Bronze
+8199,Helsinki,1952,Athletics,Athletics,"INESS, Simeon Garland",USA,Men,discus throw,M,Gold
+8200,Helsinki,1952,Athletics,Athletics,"CONSOLINI, Adolfo",ITA,Men,discus throw,M,Silver
+8201,Helsinki,1952,Athletics,Athletics,"DUMBADZE, Nina",URS,Women,discus throw,W,Bronze
+8202,Helsinki,1952,Athletics,Athletics,"ROMASHKOVA-PONOMAREVA, Nina",URS,Women,discus throw,W,Gold
+8203,Helsinki,1952,Athletics,Athletics,"BAGRYANTSEVA, Elizaveta",URS,Women,discus throw,W,Silver
+8204,Helsinki,1952,Athletics,Athletics,"NEMETH, Imre",HUN,Men,hammer throw,M,Bronze
+8205,Helsinki,1952,Athletics,Athletics,"CSERMAK, Jozsef",HUN,Men,hammer throw,M,Gold
+8206,Helsinki,1952,Athletics,Athletics,"STORCH, Karl",GER,Men,hammer throw,M,Silver
+8207,Helsinki,1952,Athletics,Athletics,"TELLES DA CONCEICAO, Jose",BRA,Men,high jump,M,Bronze
+8208,Helsinki,1952,Athletics,Athletics,"DAVIS, Walter Francis",USA,Men,high jump,M,Gold
+8209,Helsinki,1952,Athletics,Athletics,"WIESNER, Kenneth George",USA,Men,high jump,M,Silver
+8210,Helsinki,1952,Athletics,Athletics,"CHUDINA, Aleksandra",URS,Women,high jump,W,Bronze
+8211,Helsinki,1952,Athletics,Athletics,"BRAND, Esther Cornelia",RSA,Women,high jump,W,Gold
+8212,Helsinki,1952,Athletics,Athletics,"LERWILL, Sheila",GBR,Women,high jump,W,Silver
+8213,Helsinki,1952,Athletics,Athletics,"HYYTIÄINEN, Toivo Armas",FIN,Men,javelin throw,M,Bronze
+8214,Helsinki,1952,Athletics,Athletics,"YOUNG, Cyrus C. Jr.",USA,Men,javelin throw,M,Gold
+8215,Helsinki,1952,Athletics,Athletics,"MILLER, William Preston",USA,Men,javelin throw,M,Silver
+8216,Helsinki,1952,Athletics,Athletics,"GORCHAKOVA, Elena",URS,Women,javelin throw,W,Bronze
+8217,Helsinki,1952,Athletics,Athletics,"INGROVA-ZATOPKOVA, Dana",TCH,Women,javelin throw,W,Gold
+8218,Helsinki,1952,Athletics,Athletics,"CHUDINA, Aleksandra",URS,Women,javelin throw,W,Silver
+8219,Helsinki,1952,Athletics,Athletics,"FÖLDESSY, Ödön",HUN,Men,long jump,M,Bronze
+8220,Helsinki,1952,Athletics,Athletics,"BIFFLE, Jerome Cousins",USA,Men,long jump,M,Gold
+8221,Helsinki,1952,Athletics,Athletics,"GOURDINE, Meredith Charles",USA,Men,long jump,M,Silver
+8222,Helsinki,1952,Athletics,Athletics,"CAWLEY, Shirley",GBR,Women,long jump,W,Bronze
+8223,Helsinki,1952,Athletics,Athletics,"WILLIAMS, Yvette Winefred",NZL,Women,long jump,W,Gold
+8224,Helsinki,1952,Athletics,Athletics,"CHUDINA, Aleksandra",URS,Women,long jump,W,Silver
+8225,Helsinki,1952,Athletics,Athletics,"JANSSON, Gustaf",SWE,Men,marathon,M,Bronze
+8226,Helsinki,1952,Athletics,Athletics,"ZATOPEK, Emil",TCH,Men,marathon,M,Gold
+8227,Helsinki,1952,Athletics,Athletics,"GORNO, Reinaldo",ARG,Men,marathon,M,Silver
+8228,Helsinki,1952,Athletics,Athletics,"LUNDBERG, Ragnar",SWE,Men,pole vault,M,Bronze
+8229,Helsinki,1952,Athletics,Athletics,"RICHARDS, Robert",USA,Men,pole vault,M,Gold
+8230,Helsinki,1952,Athletics,Athletics,"LAZ, Donald Robert",USA,Men,pole vault,M,Silver
+8231,Helsinki,1952,Athletics,Athletics,"FUCHS, James Emanuel",USA,Men,shot put,M,Bronze
+8232,Helsinki,1952,Athletics,Athletics,"O, William Patrick Jr.",USA,Men,shot put,M,Gold
+8233,Helsinki,1952,Athletics,Athletics,"HOOPER, Darrow Clarence",USA,Men,shot put,M,Silver
+8234,Helsinki,1952,Athletics,Athletics,"TOCHENOVA, Klavdiya",URS,Women,shot put,W,Bronze
+8235,Helsinki,1952,Athletics,Athletics,"ZYBINA, Galina",URS,Women,shot put,W,Gold
+8236,Helsinki,1952,Athletics,Athletics,"WERNER-SCHULZE-ENTRUP, Marianne",GER,Women,shot put,W,Silver
+8237,Helsinki,1952,Athletics,Athletics,"DEVONISH, Arnaldo",VEN,Men,triple jump,M,Bronze
+8238,Helsinki,1952,Athletics,Athletics,"FERREIRA DA SILVA, Adhemar",BRA,Men,triple jump,M,Gold
+8239,Helsinki,1952,Athletics,Athletics,"SHCHERBAKOV, Leonid",URS,Men,triple jump,M,Silver
+8240,Helsinki,1952,Basketball,Basketball,"ACOSTA Y LARA, Martin",URU,Men,basketball,M,Bronze
+8241,Helsinki,1952,Basketball,Basketball,"BALINO, Enrique",URU,Men,basketball,M,Bronze
+8242,Helsinki,1952,Basketball,Basketball,"CIESLINSKAS, Victorio",URU,Men,basketball,M,Bronze
+8243,Helsinki,1952,Basketball,Basketball,"COSTA, Hector J.",URU,Men,basketball,M,Bronze
+8244,Helsinki,1952,Basketball,Basketball,"DEMARCO, Nelson",URU,Men,basketball,M,Bronze
+8245,Helsinki,1952,Basketball,Basketball,"GARCIA OTERO, Hector",URU,Men,basketball,M,Bronze
+8246,Helsinki,1952,Basketball,Basketball,"LARRE BORGES, Tabare",URU,Men,basketball,M,Bronze
+8247,Helsinki,1952,Basketball,Basketball,"LOMBARDO, Adesio",URU,Men,basketball,M,Bronze
+8248,Helsinki,1952,Basketball,Basketball,"LOVERA, Roberto",URU,Men,basketball,M,Bronze
+8249,Helsinki,1952,Basketball,Basketball,"MATTO, Sergio A.",URU,Men,basketball,M,Bronze
+8250,Helsinki,1952,Basketball,Basketball,"PELAEZ, Wilfredo",URU,Men,basketball,M,Bronze
+8251,Helsinki,1952,Basketball,Basketball,"ROSSELLO, Carlos",URU,Men,basketball,M,Bronze
+8252,Helsinki,1952,Basketball,Basketball,"BONTEMPS, Ronald Yngve",USA,Men,basketball,M,Gold
+8253,Helsinki,1952,Basketball,Basketball,"FRIEBERGER, Marcus Ross",USA,Men,basketball,M,Gold
+8254,Helsinki,1952,Basketball,Basketball,"GLASGOW, Victor Wayne",USA,Men,basketball,M,Gold
+8255,Helsinki,1952,Basketball,Basketball,"HOAG, Charles Monroe",USA,Men,basketball,M,Gold
+8256,Helsinki,1952,Basketball,Basketball,"HOUGLAND, William Marion",USA,Men,basketball,M,Gold
+8257,Helsinki,1952,Basketball,Basketball,"KELLER, John Frederick",USA,Men,basketball,M,Gold
+8258,Helsinki,1952,Basketball,Basketball,"KELLEY, Melvin Dean",USA,Men,basketball,M,Gold
+8259,Helsinki,1952,Basketball,Basketball,"KENNEY, Robert Earl",USA,Men,basketball,M,Gold
+8260,Helsinki,1952,Basketball,Basketball,"KURLAND, Robert Albert",USA,Men,basketball,M,Gold
+8261,Helsinki,1952,Basketball,Basketball,"LIENHARD, William Barner",USA,Men,basketball,M,Gold
+8262,Helsinki,1952,Basketball,Basketball,"LOVELETTE, Clyde Edward",USA,Men,basketball,M,Gold
+8263,Helsinki,1952,Basketball,Basketball,"MCCABE, Frank Reilly",USA,Men,basketball,M,Gold
+8264,Helsinki,1952,Basketball,Basketball,"PIPPIN, Daniel Luther",USA,Men,basketball,M,Gold
+8265,Helsinki,1952,Basketball,Basketball,"WILLIAMS, Howard Earl",USA,Men,basketball,M,Gold
+8266,Helsinki,1952,Basketball,Basketball,"BUTAUTAS, Stiapas",URS,Men,basketball,M,Silver
+8267,Helsinki,1952,Basketball,Basketball,"DZHORDZHIKIYA, Nodar",URS,Men,basketball,M,Silver
+8268,Helsinki,1952,Basketball,Basketball,"KONYEV, Anatoli",URS,Men,basketball,M,Silver
+8269,Helsinki,1952,Basketball,Basketball,"KORKIYA, Otar Mikhailovich",URS,Men,basketball,M,Silver
+8270,Helsinki,1952,Basketball,Basketball,"KRUUS, Heino",URS,Men,basketball,M,Silver
+8271,Helsinki,1952,Basketball,Basketball,"KULLAM, Ilmar",URS,Men,basketball,M,Silver
+8272,Helsinki,1952,Basketball,Basketball,"LAGUNAVICHUS, Justinas",URS,Men,basketball,M,Silver
+8273,Helsinki,1952,Basketball,Basketball,"LYSOV, Iogan Fedorovich",URS,Men,basketball,M,Silver
+8274,Helsinki,1952,Basketball,Basketball,"MOISEEV, Aleksandr",URS,Men,basketball,M,Silver
+8275,Helsinki,1952,Basketball,Basketball,"OZEROV, Yuri",URS,Men,basketball,M,Silver
+8276,Helsinki,1952,Basketball,Basketball,"PETKYAVICHUS, Kasis",URS,Men,basketball,M,Silver
+8277,Helsinki,1952,Basketball,Basketball,"STONKUS, Stasis",URS,Men,basketball,M,Silver
+8278,Helsinki,1952,Basketball,Basketball,"VALDMANIS, Maigonis",URS,Men,basketball,M,Silver
+8279,Helsinki,1952,Basketball,Basketball,"VLASOV, Viktor",URS,Men,basketball,M,Silver
+8280,Helsinki,1952,Boxing,Boxing,"BULAKOV, Anatoli",URS,Men,- 51kg (flyweight),M,Bronze
+8281,Helsinki,1952,Boxing,Boxing,"TOWEEL, William Michael",RSA,Men,- 51kg (flyweight),M,Bronze
+8282,Helsinki,1952,Boxing,Boxing,"BROOKS, Nathan Eugene",USA,Men,- 51kg (flyweight),M,Gold
+8283,Helsinki,1952,Boxing,Boxing,"BASEL, Edgar",GER,Men,- 51kg (flyweight),M,Silver
+8284,Helsinki,1952,Boxing,Boxing,"KOSKI, Ilkka Rickhard",FIN,Men,+ 81kg (heavyweight),M,Bronze
+8285,Helsinki,1952,Boxing,Boxing,"NIEMAN, Andries C.",RSA,Men,+ 81kg (heavyweight),M,Bronze
+8286,Helsinki,1952,Boxing,Boxing,"SANDERS, Hayes Edward",USA,Men,+ 81kg (heavyweight),M,Gold
+8287,Helsinki,1952,Boxing,Boxing,"JOHANSSON, Ingemar (Ingo)",SWE,Men,+ 81kg (heavyweight),M,Silver
+8288,Helsinki,1952,Boxing,Boxing,"GARBUZOV, Gennadi",URS,Men,51 - 54kg (bantamweight),M,Bronze
+8289,Helsinki,1952,Boxing,Boxing,"KANG, Joon-Ho",KOR,Men,51 - 54kg (bantamweight),M,Bronze
+8290,Helsinki,1952,Boxing,Boxing,"HÄMÄLÄINEN, Pentti Olavi",FIN,Men,51 - 54kg (bantamweight),M,Gold
+8291,Helsinki,1952,Boxing,Boxing,"MCNALLY, John",IRL,Men,51 - 54kg (bantamweight),M,Silver
+8292,Helsinki,1952,Boxing,Boxing,"LEISCHING, Leonard John",RSA,Men,54 - 57kg (featherweight),M,Bronze
+8293,Helsinki,1952,Boxing,Boxing,"VENTAJA, Joseph",FRA,Men,54 - 57kg (featherweight),M,Bronze
+8294,Helsinki,1952,Boxing,Boxing,"ZACHARA, Jan",TCH,Men,54 - 57kg (featherweight),M,Gold
+8295,Helsinki,1952,Boxing,Boxing,"CAPRARI, Sergio",ITA,Men,54 - 57kg (featherweight),M,Silver
+8296,Helsinki,1952,Boxing,Boxing,"FIAT, Gheorghe",ROU,Men,57 - 60kg (lightweight),M,Bronze
+8297,Helsinki,1952,Boxing,Boxing,"PAKKANEN, Erkki Osvald",FIN,Men,57 - 60kg (lightweight),M,Bronze
+8298,Helsinki,1952,Boxing,Boxing,"BOLOGNESI, Aureliano",ITA,Men,57 - 60kg (lightweight),M,Gold
+8299,Helsinki,1952,Boxing,Boxing,"ANTKIEWICZ, Aleksy",POL,Men,57 - 60kg (lightweight),M,Silver
+8300,Helsinki,1952,Boxing,Boxing,"MALLENIUS, Erkki Aarno",FIN,Men,60 - 63.5kg (light-welterweight),M,Bronze
+8301,Helsinki,1952,Boxing,Boxing,"VISINTIN, Bruno",ITA,Men,60 - 63.5kg (light-welterweight),M,Bronze
+8302,Helsinki,1952,Boxing,Boxing,"ADKINS, Charles",USA,Men,60 - 63.5kg (light-welterweight),M,Gold
+8303,Helsinki,1952,Boxing,Boxing,"MEDNOV, Viktor",URS,Men,60 - 63.5kg (light-welterweight),M,Silver
+8304,Helsinki,1952,Boxing,Boxing,"HEIDEMANN, Günther",GER,Men,63.5 - 67kg (welterweight),M,Bronze
+8305,Helsinki,1952,Boxing,Boxing,"JÖRGENSEN, Viktor",DEN,Men,63.5 - 67kg (welterweight),M,Bronze
+8306,Helsinki,1952,Boxing,Boxing,"CHYCHLA, Zygmunt",POL,Men,63.5 - 67kg (welterweight),M,Gold
+8307,Helsinki,1952,Boxing,Boxing,"SHCHERBAKOV, Sergei",URS,Men,63.5 - 67kg (welterweight),M,Silver
+8308,Helsinki,1952,Boxing,Boxing,"HERRERA, Eladio Oscar",ARG,Men,67 - 71kg (light-middleweight),M,Bronze
+8309,Helsinki,1952,Boxing,Boxing,"TISHIN, Boris",URS,Men,67 - 71kg (light-middleweight),M,Bronze
+8310,Helsinki,1952,Boxing,Boxing,"PAPP, Laszlo",HUN,Men,67 - 71kg (light-middleweight),M,Gold
+8311,Helsinki,1952,Boxing,Boxing,"VAN SCHALKWYK, Theunis Jacobus",RSA,Men,67 - 71kg (light-middleweight),M,Silver
+8312,Helsinki,1952,Boxing,Boxing,"NIKOLOV, Boris Georgiev",BUL,Men,71-75kg,M,Bronze
+8313,Helsinki,1952,Boxing,Boxing,"SJÖLIN, Stig",SWE,Men,71-75kg,M,Bronze
+8314,Helsinki,1952,Boxing,Boxing,"PATTERSON, Floyd",USA,Men,71-75kg,M,Gold
+8315,Helsinki,1952,Boxing,Boxing,"TITA, Vasile",ROU,Men,71-75kg,M,Silver
+8316,Helsinki,1952,Boxing,Boxing,"PEROV, Anatoli",URS,Men,75 - 81kg (light-heavyweight),M,Bronze
+8317,Helsinki,1952,Boxing,Boxing,"SILJANDER, Harri Walfrid",FIN,Men,75 - 81kg (light-heavyweight),M,Bronze
+8318,Helsinki,1952,Boxing,Boxing,"LEE, Norvel Lafayette Ray",USA,Men,75 - 81kg (light-heavyweight),M,Gold
+8319,Helsinki,1952,Boxing,Boxing,"PACENZA, Antonio",ARG,Men,75 - 81kg (light-heavyweight),M,Silver
+8320,Helsinki,1952,Canoe / Kayak,Canoe / Kayak F,"JINDRA, Alfred",TCH,Men,C-1 10000m,M,Bronze
+8321,Helsinki,1952,Canoe / Kayak,Canoe / Kayak F,"HAVENS, Frank",USA,Men,C-1 10000m,M,Gold
+8322,Helsinki,1952,Canoe / Kayak,Canoe / Kayak F,"NOVAK, Gabor",HUN,Men,C-1 10000m,M,Silver
+8323,Helsinki,1952,Canoe / Kayak,Canoe / Kayak F,"OJANPERA, Arvo Kaarlo Olavi",FIN,Men,C-1 1000m (canoe single),M,Bronze
+8324,Helsinki,1952,Canoe / Kayak,Canoe / Kayak F,"HOLECEK, Josef",TCH,Men,C-1 1000m (canoe single),M,Gold
+8325,Helsinki,1952,Canoe / Kayak,Canoe / Kayak F,"PARTI, Janos",HUN,Men,C-1 1000m (canoe single),M,Silver
+8326,Helsinki,1952,Canoe / Kayak,Canoe / Kayak F,"DREWS, Egon",GER,Men,C-2 10000m,M,Bronze
+8327,Helsinki,1952,Canoe / Kayak,Canoe / Kayak F,"SOLTAU, Wilfried",GER,Men,C-2 10000m,M,Bronze
+8328,Helsinki,1952,Canoe / Kayak,Canoe / Kayak F,"LAUDET, Jean",FRA,Men,C-2 10000m,M,Gold
+8329,Helsinki,1952,Canoe / Kayak,Canoe / Kayak F,"TURLIER, Georges",FRA,Men,C-2 10000m,M,Gold
+8330,Helsinki,1952,Canoe / Kayak,Canoe / Kayak F,"HAWGOOD, Donald Trevor",CAN,Men,C-2 10000m,M,Silver
+8331,Helsinki,1952,Canoe / Kayak,Canoe / Kayak F,"LANE, Kenneth Ralph",CAN,Men,C-2 10000m,M,Silver
+8332,Helsinki,1952,Canoe / Kayak,Canoe / Kayak F,"DREWS, Egon",GER,Men,C-2 1000m (canoe double),M,Bronze
+8333,Helsinki,1952,Canoe / Kayak,Canoe / Kayak F,"SOLTAU, Wilfried",GER,Men,C-2 1000m (canoe double),M,Bronze
+8334,Helsinki,1952,Canoe / Kayak,Canoe / Kayak F,"HAUNSTOFT, Finn",DEN,Men,C-2 1000m (canoe double),M,Gold
+8335,Helsinki,1952,Canoe / Kayak,Canoe / Kayak F,"RASCH, Bent Peder Benjamin",DEN,Men,C-2 1000m (canoe double),M,Gold
+8336,Helsinki,1952,Canoe / Kayak,Canoe / Kayak F,"BRZAK-FELIX, Jan",TCH,Men,C-2 1000m (canoe double),M,Silver
+8337,Helsinki,1952,Canoe / Kayak,Canoe / Kayak F,"KUDRNA, Bohumil",TCH,Men,C-2 1000m (canoe double),M,Silver
+8338,Helsinki,1952,Canoe / Kayak,Canoe / Kayak F,"SCHEUER, Michael",GER,Men,K-1 10000m,M,Bronze
+8339,Helsinki,1952,Canoe / Kayak,Canoe / Kayak F,"STRÖMBERG, Thorvald Lennart",FIN,Men,K-1 10000m,M,Gold
+8340,Helsinki,1952,Canoe / Kayak,Canoe / Kayak F,"FREDRIKSSON, Gert",SWE,Men,K-1 10000m,M,Silver
+8341,Helsinki,1952,Canoe / Kayak,Canoe / Kayak F,"GANTOIS, Louis",FRA,Men,K-1 1000m (kayak single),M,Bronze
+8342,Helsinki,1952,Canoe / Kayak,Canoe / Kayak F,"FREDRIKSSON, Gert",SWE,Men,K-1 1000m (kayak single),M,Gold
+8343,Helsinki,1952,Canoe / Kayak,Canoe / Kayak F,"STRÖMBERG, Thorvald Lennart",FIN,Men,K-1 1000m (kayak single),M,Silver
+8344,Helsinki,1952,Canoe / Kayak,Canoe / Kayak F,"SAVINA, Nina",URS,Women,K-1 500m (kayak single),W,Bronze
+8345,Helsinki,1952,Canoe / Kayak,Canoe / Kayak F,"SAIMO, Sylvi Riitta",FIN,Women,K-1 500m (kayak single),W,Gold
+8346,Helsinki,1952,Canoe / Kayak,Canoe / Kayak F,"LIEBHART, Gertrude",AUT,Women,K-1 500m (kayak single),W,Silver
+8347,Helsinki,1952,Canoe / Kayak,Canoe / Kayak F,"GUROVICS, Jozsef",HUN,Men,K-2 10000m,M,Bronze
+8348,Helsinki,1952,Canoe / Kayak,Canoe / Kayak F,"VARGA, Ferenc",HUN,Men,K-2 10000m,M,Bronze
+8349,Helsinki,1952,Canoe / Kayak,Canoe / Kayak F,"HIETANEN, Yrjö Jalmari",FIN,Men,K-2 10000m,M,Gold
+8350,Helsinki,1952,Canoe / Kayak,Canoe / Kayak F,"WIRES, Kurt Oskar",FIN,Men,K-2 10000m,M,Gold
+8351,Helsinki,1952,Canoe / Kayak,Canoe / Kayak F,"AKERLUND, Gunnar",SWE,Men,K-2 10000m,M,Silver
+8352,Helsinki,1952,Canoe / Kayak,Canoe / Kayak F,"WETTERSTRÖM, Hans",SWE,Men,K-2 10000m,M,Silver
+8353,Helsinki,1952,Canoe / Kayak,Canoe / Kayak F,"RAUB, Maximilian",AUT,Men,K-2 1000m (kayak double),M,Bronze
+8354,Helsinki,1952,Canoe / Kayak,Canoe / Kayak F,"WIEDERMANN, Herbert",AUT,Men,K-2 1000m (kayak double),M,Bronze
+8355,Helsinki,1952,Canoe / Kayak,Canoe / Kayak F,"HIETANEN, Yrjö Jalmari",FIN,Men,K-2 1000m (kayak double),M,Gold
+8356,Helsinki,1952,Canoe / Kayak,Canoe / Kayak F,"WIRES, Kurt Oskar",FIN,Men,K-2 1000m (kayak double),M,Gold
+8357,Helsinki,1952,Canoe / Kayak,Canoe / Kayak F,"GLASSER, Lars",SWE,Men,K-2 1000m (kayak double),M,Silver
+8358,Helsinki,1952,Canoe / Kayak,Canoe / Kayak F,"HEDBERG, Ingemar",SWE,Men,K-2 1000m (kayak double),M,Silver
+8359,Helsinki,1952,Cycling,Cycling Road,"ZIEGLER, Edwin (Edy)",GER,Men,individual road race,M,Bronze
+8360,Helsinki,1952,Cycling,Cycling Road,"NOYELLE, Andre Alfons",BEL,Men,individual road race,M,Gold
+8361,Helsinki,1952,Cycling,Cycling Road,"GRONDELAERS, Robert",BEL,Men,individual road race,M,Silver
+8362,Helsinki,1952,Cycling,Cycling Road,"ANQUETIL, Jacques",FRA,Men,team time trial,M,Bronze
+8363,Helsinki,1952,Cycling,Cycling Road,"ROUER, Claude Paul Lucien",FRA,Men,team time trial,M,Bronze
+8364,Helsinki,1952,Cycling,Cycling Road,"TONELLO, Alfred",FRA,Men,team time trial,M,Bronze
+8365,Helsinki,1952,Cycling,Cycling Road,"GRONDELAERS, Robert",BEL,Men,team time trial,M,Gold
+8366,Helsinki,1952,Cycling,Cycling Road,"NOYELLE, Andre Alfons",BEL,Men,team time trial,M,Gold
+8367,Helsinki,1952,Cycling,Cycling Road,"VICTOR, Lucien Honore",BEL,Men,team time trial,M,Gold
+8368,Helsinki,1952,Cycling,Cycling Road,"BRUNI, Dino",ITA,Men,team time trial,M,Silver
+8369,Helsinki,1952,Cycling,Cycling Road,"GHIDINI, Gianni",ITA,Men,team time trial,M,Silver
+8370,Helsinki,1952,Cycling,Cycling Road,"ZUCCONELLI, Vincenzo",ITA,Men,team time trial,M,Silver
+8371,Helsinki,1952,Cycling,Cycling Track,"ROBINSON, Raymond Leonard",RSA,Men,1km time trial,M,Bronze
+8372,Helsinki,1952,Cycling,Cycling Track,"MOCKRIDGE, Russell",AUS,Men,1km time trial,M,Gold
+8373,Helsinki,1952,Cycling,Cycling Track,"MORETTINI, Marino",ITA,Men,1km time trial,M,Silver
+8374,Helsinki,1952,Cycling,Cycling Track,"MASPES, Antonio",ITA,Men,2000m tandem,M,Bronze
+8375,Helsinki,1952,Cycling,Cycling Track,"PINARELLO, Cesare",ITA,Men,2000m tandem,M,Bronze
+8376,Helsinki,1952,Cycling,Cycling Track,"COX, Lionel",AUS,Men,2000m tandem,M,Gold
+8377,Helsinki,1952,Cycling,Cycling Track,"MOCKRIDGE, Russell",AUS,Men,2000m tandem,M,Gold
+8378,Helsinki,1952,Cycling,Cycling Track,"ROBINSON, Raymond Leonard",RSA,Men,2000m tandem,M,Silver
+8379,Helsinki,1952,Cycling,Cycling Track,"SHARDELOW, Thomas Frederick",RSA,Men,2000m tandem,M,Silver
+8380,Helsinki,1952,Cycling,Cycling Track,"POTZERNHEIM, Werner",GER,Men,Sprint indivual,M,Bronze
+8381,Helsinki,1952,Cycling,Cycling Track,"SACCHI, Enzo",ITA,Men,Sprint indivual,M,Gold
+8382,Helsinki,1952,Cycling,Cycling Track,"COX, Lionel",AUS,Men,Sprint indivual,M,Silver
+8383,Helsinki,1952,Cycling,Cycling Track,"BURGESS, Donald Christopher",GBR,Men,Team Pursuit (4000m),M,Bronze
+8384,Helsinki,1952,Cycling,Cycling Track,"NEWBERRY, George Albert",GBR,Men,Team Pursuit (4000m),M,Bronze
+8385,Helsinki,1952,Cycling,Cycling Track,"NEWTON, Alan",GBR,Men,Team Pursuit (4000m),M,Bronze
+8386,Helsinki,1952,Cycling,Cycling Track,"STRETTON, Ronald Charles",GBR,Men,Team Pursuit (4000m),M,Bronze
+8387,Helsinki,1952,Cycling,Cycling Track,"CAMPANA, Loris",ITA,Men,Team Pursuit (4000m),M,Gold
+8388,Helsinki,1952,Cycling,Cycling Track,"DE ROSSI, Mino",ITA,Men,Team Pursuit (4000m),M,Gold
+8389,Helsinki,1952,Cycling,Cycling Track,"MESSINA, Guido",ITA,Men,Team Pursuit (4000m),M,Gold
+8390,Helsinki,1952,Cycling,Cycling Track,"MORETTINI, Marino",ITA,Men,Team Pursuit (4000m),M,Gold
+8391,Helsinki,1952,Cycling,Cycling Track,"ESTMAN, George",RSA,Men,Team Pursuit (4000m),M,Silver
+8392,Helsinki,1952,Cycling,Cycling Track,"FOWLER, Robert Gerald",RSA,Men,Team Pursuit (4000m),M,Silver
+8393,Helsinki,1952,Cycling,Cycling Track,"SHARDELOW, Thomas Frederick",RSA,Men,Team Pursuit (4000m),M,Silver
+8394,Helsinki,1952,Cycling,Cycling Track,"SWIFT, Alfred James",RSA,Men,Team Pursuit (4000m),M,Silver
+8395,Helsinki,1952,Equestrian,Dressage,"JOUSSEAUME, Andre Rene",FRA,Men,individual,X,Bronze
+8396,Helsinki,1952,Equestrian,Dressage,"SAINT CYR, Henri",SWE,Men,individual,X,Gold
+8397,Helsinki,1952,Equestrian,Dressage,"HARTEL, Lis",DEN,Women,individual,X,Silver
+8398,Helsinki,1952,Equestrian,Dressage,"POLLAY, Heinz",GER,Men,team,X,Bronze
+8399,Helsinki,1952,Equestrian,Dressage,"THIEDEMANN, Fritz",GER,Men,team,X,Bronze
+8400,Helsinki,1952,Equestrian,Dressage,"BOLTENSTERN JR., Gustaf Adolf",SWE,Men,team,X,Gold
+8401,Helsinki,1952,Equestrian,Dressage,"PERSSON, Gehnäll",SWE,Men,team,X,Gold
+8402,Helsinki,1952,Equestrian,Dressage,"SAINT CYR, Henri",SWE,Men,team,X,Gold
+8403,Helsinki,1952,Equestrian,Dressage,"CHAMMARTIN, Henri",SUI,Men,team,X,Silver
+8404,Helsinki,1952,Equestrian,Dressage,"FISCHER, Gustav",SUI,Men,team,X,Silver
+8405,Helsinki,1952,Equestrian,Dressage,"TRACHSEL, Gottfried",SUI,Men,team,X,Silver
+8406,Helsinki,1952,Equestrian,Dressage,"VON NAGEL, Ida",GER,Women,team,X,Bronze
+8407,Helsinki,1952,Equestrian,Eventing,"BÜSING, Wilhelm ""Willy""",GER,Men,individual,X,Bronze
+8408,Helsinki,1952,Equestrian,Eventing,"VON BLIXEN FINECKE JR., Hans",SWE,Men,individual,X,Gold
+8409,Helsinki,1952,Equestrian,Eventing,"LEFRANT, Guy Robert Marie",FRA,Men,individual,X,Silver
+8410,Helsinki,1952,Equestrian,Eventing,"HOUGH, Charles Gordon Jr.",USA,Men,team,X,Bronze
+8411,Helsinki,1952,Equestrian,Eventing,"STALEY, Walter Goodwin Jr.",USA,Men,team,X,Bronze
+8412,Helsinki,1952,Equestrian,Eventing,"WOFFORD, John Edwin Brown",USA,Men,team,X,Bronze
+8413,Helsinki,1952,Equestrian,Eventing,"FRÖLEN, Folke",SWE,Men,team,X,Gold
+8414,Helsinki,1952,Equestrian,Eventing,"STAHRE, Olof",SWE,Men,team,X,Gold
+8415,Helsinki,1952,Equestrian,Eventing,"VON BLIXEN FINECKE JR., Hans",SWE,Men,team,X,Gold
+8416,Helsinki,1952,Equestrian,Eventing,"BÜSING, Wilhelm ""Willy""",GER,Men,team,X,Silver
+8417,Helsinki,1952,Equestrian,Eventing,"ROTHE, Otto",GER,Men,team,X,Silver
+8418,Helsinki,1952,Equestrian,Eventing,"WAGNER, Klaus",GER,Men,team,X,Silver
+8419,Helsinki,1952,Equestrian,Jumping,"THIEDEMANN, Fritz",GER,Men,individual,X,Bronze
+8420,Helsinki,1952,Equestrian,Jumping,"JONQUERES D'ORIOLA, Pierre",FRA,Men,individual,X,Gold
+8421,Helsinki,1952,Equestrian,Jumping,"CRISTI-GALLO, Oscar",CHI,Men,individual,X,Silver
+8422,Helsinki,1952,Equestrian,Jumping,"MCCASHIN, Arthur Johan",USA,Men,team,X,Bronze
+8423,Helsinki,1952,Equestrian,Jumping,"RUSSELL, John William",USA,Men,team,X,Bronze
+8424,Helsinki,1952,Equestrian,Jumping,"STEINKRAUS, William Clark",USA,Men,team,X,Bronze
+8425,Helsinki,1952,Equestrian,Jumping,"LLEWELLYN, Harry Morton",GBR,Men,team,X,Gold
+8426,Helsinki,1952,Equestrian,Jumping,"STEWART, Douglas Norman",GBR,Men,team,X,Gold
+8427,Helsinki,1952,Equestrian,Jumping,"WHITE, Wilfred Harry",GBR,Men,team,X,Gold
+8428,Helsinki,1952,Equestrian,Jumping,"CRISTI-GALLO, Oscar",CHI,Men,team,X,Silver
+8429,Helsinki,1952,Equestrian,Jumping,"ECHEVERRIA, Ricardo",CHI,Men,team,X,Silver
+8430,Helsinki,1952,Equestrian,Jumping,"MENDOZA, Cesar",CHI,Men,team,X,Silver
+8431,Helsinki,1952,Fencing,Fencing,"ZAPPELLI, Oswald",SUI,Men,épée individual,M,Bronze
+8432,Helsinki,1952,Fencing,Fencing,"MANGIAROTTI, Edoardo",ITA,Men,épée individual,M,Gold
+8433,Helsinki,1952,Fencing,Fencing,"MANGIAROTTI, Dario",ITA,Men,épée individual,M,Silver
+8434,Helsinki,1952,Fencing,Fencing,"BARTH, Paul",SUI,Men,épée team,M,Bronze
+8435,Helsinki,1952,Fencing,Fencing,"FITTING, Willy",SUI,Men,épée team,M,Bronze
+8436,Helsinki,1952,Fencing,Fencing,"MEISTER, Paul",SUI,Men,épée team,M,Bronze
+8437,Helsinki,1952,Fencing,Fencing,"RÜFENACHT, Otto",SUI,Men,épée team,M,Bronze
+8438,Helsinki,1952,Fencing,Fencing,"VALOTA, Mario",SUI,Men,épée team,M,Bronze
+8439,Helsinki,1952,Fencing,Fencing,"ZAPPELLI, Oswald",SUI,Men,épée team,M,Bronze
+8440,Helsinki,1952,Fencing,Fencing,"BATTAGLIA, Roberto",ITA,Men,épée team,M,Gold
+8441,Helsinki,1952,Fencing,Fencing,"BERTINETTI, Franco",ITA,Men,épée team,M,Gold
+8442,Helsinki,1952,Fencing,Fencing,"DELFINO, Giuseppe",ITA,Men,épée team,M,Gold
+8443,Helsinki,1952,Fencing,Fencing,"MANGIAROTTI, Dario",ITA,Men,épée team,M,Gold
+8444,Helsinki,1952,Fencing,Fencing,"MANGIAROTTI, Edoardo",ITA,Men,épée team,M,Gold
+8445,Helsinki,1952,Fencing,Fencing,"PAVESI, Carlo",ITA,Men,épée team,M,Gold
+8446,Helsinki,1952,Fencing,Fencing,"CARLESON, Per Hjalmar",SWE,Men,épée team,M,Silver
+8447,Helsinki,1952,Fencing,Fencing,"FAHLMAN, Sven",SWE,Men,épée team,M,Silver
+8448,Helsinki,1952,Fencing,Fencing,"FORSSELL, Carl",SWE,Men,épée team,M,Silver
+8449,Helsinki,1952,Fencing,Fencing,"LJUNGQUIST, Bengt",SWE,Men,épée team,M,Silver
+8450,Helsinki,1952,Fencing,Fencing,"MAGNUSSON, Lennart",SWE,Men,épée team,M,Silver
+8451,Helsinki,1952,Fencing,Fencing,"REHBINDER, Berndt-Otto",SWE,Men,épée team,M,Silver
+8452,Helsinki,1952,Fencing,Fencing,"DI ROSA, Manlio",ITA,Men,foil individual,M,Bronze
+8453,Helsinki,1952,Fencing,Fencing,"D'ORIOLA, Christian",FRA,Men,foil individual,M,Gold
+8454,Helsinki,1952,Fencing,Fencing,"MANGIAROTTI, Edoardo",ITA,Men,foil individual,M,Silver
+8455,Helsinki,1952,Fencing,Fencing,"LACHMANN, Karen Vilhelmine",DEN,Women,foil individual,W,Bronze
+8456,Helsinki,1952,Fencing,Fencing,"CAMBER, Irene",ITA,Women,foil individual,W,Gold
+8457,Helsinki,1952,Fencing,Fencing,"ELEK, Ilona",HUN,Women,foil individual,W,Silver
+8458,Helsinki,1952,Fencing,Fencing,"BERCZELLY, Tibor",HUN,Men,foil team,M,Bronze
+8459,Helsinki,1952,Fencing,Fencing,"GEREVICH, Aladar",HUN,Men,foil team,M,Bronze
+8460,Helsinki,1952,Fencing,Fencing,"MASZLAY, Lajos",HUN,Men,foil team,M,Bronze
+8461,Helsinki,1952,Fencing,Fencing,"PALOCZ, Endre",HUN,Men,foil team,M,Bronze
+8462,Helsinki,1952,Fencing,Fencing,"SAKOVICS, Jozsef",HUN,Men,foil team,M,Bronze
+8463,Helsinki,1952,Fencing,Fencing,"TILLI, Endre",HUN,Men,foil team,M,Bronze
+8464,Helsinki,1952,Fencing,Fencing,"BUHAN, Jehan",FRA,Men,foil team,M,Gold
+8465,Helsinki,1952,Fencing,Fencing,"D'ORIOLA, Christian",FRA,Men,foil team,M,Gold
+8466,Helsinki,1952,Fencing,Fencing,"LATASTE, Jacques",FRA,Men,foil team,M,Gold
+8467,Helsinki,1952,Fencing,Fencing,"NETTER, Claude",FRA,Men,foil team,M,Gold
+8468,Helsinki,1952,Fencing,Fencing,"NOËL, Jacques",FRA,Men,foil team,M,Gold
+8469,Helsinki,1952,Fencing,Fencing,"ROMMEL, Adrien",FRA,Men,foil team,M,Gold
+8470,Helsinki,1952,Fencing,Fencing,"BERGAMINI, Giancarlo",ITA,Men,foil team,M,Silver
+8471,Helsinki,1952,Fencing,Fencing,"DI ROSA, Manlio",ITA,Men,foil team,M,Silver
+8472,Helsinki,1952,Fencing,Fencing,"MANGIAROTTI, Edoardo",ITA,Men,foil team,M,Silver
+8473,Helsinki,1952,Fencing,Fencing,"NOSTINI, Renzo",ITA,Men,foil team,M,Silver
+8474,Helsinki,1952,Fencing,Fencing,"PELLINI, Giorgio",ITA,Men,foil team,M,Silver
+8475,Helsinki,1952,Fencing,Fencing,"SPALLINO, Antonio",ITA,Men,foil team,M,Silver
+8476,Helsinki,1952,Fencing,Fencing,"BERCZELLY, Tibor",HUN,Men,sabre individual,M,Bronze
+8477,Helsinki,1952,Fencing,Fencing,"KOVACS, Pal Adam",HUN,Men,sabre individual,M,Gold
+8478,Helsinki,1952,Fencing,Fencing,"GEREVICH, Aladar",HUN,Men,sabre individual,M,Silver
+8479,Helsinki,1952,Fencing,Fencing,"LAROYENNE, Jean",FRA,Men,sabre team,M,Bronze
+8480,Helsinki,1952,Fencing,Fencing,"LEFEVRE, Jacques",FRA,Men,sabre team,M,Bronze
+8481,Helsinki,1952,Fencing,Fencing,"LEVAVASSEUR, Jean",FRA,Men,sabre team,M,Bronze
+8482,Helsinki,1952,Fencing,Fencing,"MOREL, Bernard",FRA,Men,sabre team,M,Bronze
+8483,Helsinki,1952,Fencing,Fencing,"PIOT, Maurice",FRA,Men,sabre team,M,Bronze
+8484,Helsinki,1952,Fencing,Fencing,"TOURNON, Jean Francois",FRA,Men,sabre team,M,Bronze
+8485,Helsinki,1952,Fencing,Fencing,"BERCZELLY, Tibor",HUN,Men,sabre team,M,Gold
+8486,Helsinki,1952,Fencing,Fencing,"GEREVICH, Aladar",HUN,Men,sabre team,M,Gold
+8487,Helsinki,1952,Fencing,Fencing,"KARPATI, Rudolf",HUN,Men,sabre team,M,Gold
+8488,Helsinki,1952,Fencing,Fencing,"KOVACS, Pal Adam",HUN,Men,sabre team,M,Gold
+8489,Helsinki,1952,Fencing,Fencing,"PAPP, Bertalan",HUN,Men,sabre team,M,Gold
+8490,Helsinki,1952,Fencing,Fencing,"RAJCSANYI, Laszlo",HUN,Men,sabre team,M,Gold
+8491,Helsinki,1952,Fencing,Fencing,"DARE, Gastone",ITA,Men,sabre team,M,Silver
+8492,Helsinki,1952,Fencing,Fencing,"FERRARI, Roberto",ITA,Men,sabre team,M,Silver
+8493,Helsinki,1952,Fencing,Fencing,"NOSTINI, Renzo",ITA,Men,sabre team,M,Silver
+8494,Helsinki,1952,Fencing,Fencing,"PELLINI, Giorgio",ITA,Men,sabre team,M,Silver
+8495,Helsinki,1952,Fencing,Fencing,"PINTON, Vincenzo",ITA,Men,sabre team,M,Silver
+8496,Helsinki,1952,Fencing,Fencing,"RACCA, Mauro",ITA,Men,sabre team,M,Silver
+8497,Helsinki,1952,Football,Football,"AHLUND, Olof ""Olle""",SWE,Men,football,M,Bronze
+8498,Helsinki,1952,Football,Football,"BENGTSSON, Sylve",SWE,Men,football,M,Bronze
+8499,Helsinki,1952,Football,Football,"BRODD, Yngve",SWE,Men,football,M,Bronze
+8500,Helsinki,1952,Football,Football,"GUSTAVSSON, Bengt",SWE,Men,football,M,Bronze
+8501,Helsinki,1952,Football,Football,"HANSSON, Holger",SWE,Men,football,M,Bronze
+8502,Helsinki,1952,Football,Football,"LINDH, Gösta Lennart",SWE,Men,football,M,Bronze
+8503,Helsinki,1952,Football,Football,"LÖFGREN, Gösta",SWE,Men,football,M,Bronze
+8504,Helsinki,1952,Football,Football,"NILSSON, Erik",SWE,Men,football,M,Bronze
+8505,Helsinki,1952,Football,Football,"RYDELL, Ingvar",SWE,Men,football,M,Bronze
+8506,Helsinki,1952,Football,Football,"SAMUELSSON, Lennart",SWE,Men,football,M,Bronze
+8507,Helsinki,1952,Football,Football,"SANDBERG, Gösta",SWE,Men,football,M,Bronze
+8508,Helsinki,1952,Football,Football,"SVENSSON, Karl",SWE,Men,football,M,Bronze
+8509,Helsinki,1952,Football,Football,"BOZSIK, Jozsef",HUN,Men,football,M,Gold
+8510,Helsinki,1952,Football,Football,"BUDAI, Laszlo",HUN,Men,football,M,Gold
+8511,Helsinki,1952,Football,Football,"BUZANSZKY, Jenö",HUN,Men,football,M,Gold
+8512,Helsinki,1952,Football,Football,"CSORDAS, Lajos",HUN,Men,football,M,Gold
+8513,Helsinki,1952,Football,Football,"CZIBOR, Zoltan",HUN,Men,football,M,Gold
+8514,Helsinki,1952,Football,Football,"DALNOKI, Jenö",HUN,Men,football,M,Gold
+8515,Helsinki,1952,Football,Football,"GROSICS, Gyula",HUN,Men,football,M,Gold
+8516,Helsinki,1952,Football,Football,"HIDEGKUTI, Nandor",HUN,Men,football,M,Gold
+8517,Helsinki,1952,Football,Football,"KOCSIS, Sandor",HUN,Men,football,M,Gold
+8518,Helsinki,1952,Football,Football,"KOVACS, Imre",HUN,Men,football,M,Gold
+8519,Helsinki,1952,Football,Football,"LANTOS, Mihaly",HUN,Men,football,M,Gold
+8520,Helsinki,1952,Football,Football,"LORANT, Gyula",HUN,Men,football,M,Gold
+8521,Helsinki,1952,Football,Football,"PALOTAS, Peter",HUN,Men,football,M,Gold
+8522,Helsinki,1952,Football,Football,"PUSKAS, Ferenc",HUN,Men,football,M,Gold
+8523,Helsinki,1952,Football,Football,"ZAKARIAS, Jozsef",HUN,Men,football,M,Gold
+8524,Helsinki,1952,Football,Football,"BEARA, Vladimir",YUG,Men,football,M,Silver
+8525,Helsinki,1952,Football,Football,"BOBEK, Stjepan",YUG,Men,football,M,Silver
+8526,Helsinki,1952,Football,Football,"BOSKOV, Vujadin",YUG,Men,football,M,Silver
+8527,Helsinki,1952,Football,Football,"CAJKOVSKI, Zlatko",YUG,Men,football,M,Silver
+8528,Helsinki,1952,Football,Football,"CRNKOVIC, Tomislav",YUG,Men,football,M,Silver
+8529,Helsinki,1952,Football,Football,"HORVAT, Ivan",YUG,Men,football,M,Silver
+8530,Helsinki,1952,Football,Football,"MITIC, Rajko",YUG,Men,football,M,Silver
+8531,Helsinki,1952,Football,Football,"OGNJANOV, Tihomir",YUG,Men,football,M,Silver
+8532,Helsinki,1952,Football,Football,"STANKOVIC, Branislav",YUG,Men,football,M,Silver
+8533,Helsinki,1952,Football,Football,"VUKAS, Bernard",YUG,Men,football,M,Silver
+8534,Helsinki,1952,Football,Football,"ZEBEC, Branko",YUG,Men,football,M,Silver
+8535,Helsinki,1952,Gymnastics,Artistic G.,"KORONDI, Margit",HUN,Women,balance beam,W,Bronze
+8536,Helsinki,1952,Gymnastics,Artistic G.,"BOCHAROVA, Nina",URS,Women,balance beam,W,Gold
+8537,Helsinki,1952,Gymnastics,Artistic G.,"GOROKHOVSKAYA, Mariya",URS,Women,balance beam,W,Silver
+8538,Helsinki,1952,Gymnastics,Artistic G.,"THORESSON, William",SWE,Men,floor exercises,M,Gold
+8539,Helsinki,1952,Gymnastics,Artistic G.,"JOKIEL, Jerzy",POL,Men,floor exercises,M,Silver
+8540,Helsinki,1952,Gymnastics,Artistic G.,"UESAKO, Tadao",JPN,Men,floor exercises,M,Silver
+8541,Helsinki,1952,Gymnastics,Artistic G.,"KORONDI, Margit",HUN,Women,floor exercises,W,Bronze
+8542,Helsinki,1952,Gymnastics,Artistic G.,"KELETI, Agnes",HUN,Women,floor exercises,W,Gold
+8543,Helsinki,1952,Gymnastics,Artistic G.,"GOROKHOVSKAYA, Mariya",URS,Women,floor exercises,W,Silver
+8544,Helsinki,1952,Gymnastics,Artistic G.,"GÜNTHARD, Jakob (Jack)",SUI,Men,horizontal bar,M,Gold
+8545,Helsinki,1952,Gymnastics,Artistic G.,"SCHWARZMANN, Karl-Alfred",GER,Men,horizontal bar,M,Silver
+8546,Helsinki,1952,Gymnastics,Artistic G.,"STALDER, Josef",SUI,Men,horizontal bar,M,Silver
+8547,Helsinki,1952,Gymnastics,Artistic G.,"STALDER, Josef",SUI,Men,individual all-round,M,Bronze
+8548,Helsinki,1952,Gymnastics,Artistic G.,"CHUKARIN, Viktor Ivanovich",URS,Men,individual all-round,M,Gold
+8549,Helsinki,1952,Gymnastics,Artistic G.,"SHAGINYAN, Grant",URS,Men,individual all-round,M,Silver
+8550,Helsinki,1952,Gymnastics,Artistic G.,"KORONDI, Margit",HUN,Women,individual all-round,W,Bronze
+8551,Helsinki,1952,Gymnastics,Artistic G.,"GOROKHOVSKAYA, Mariya",URS,Women,individual all-round,W,Gold
+8552,Helsinki,1952,Gymnastics,Artistic G.,"BOCHAROVA, Nina",URS,Women,individual all-round,W,Silver
+8553,Helsinki,1952,Gymnastics,Artistic G.,"STALDER, Josef",SUI,Men,parallel bars,M,Bronze
+8554,Helsinki,1952,Gymnastics,Artistic G.,"EUGSTER, Hans",SUI,Men,parallel bars,M,Gold
+8555,Helsinki,1952,Gymnastics,Artistic G.,"CHUKARIN, Viktor Ivanovich",URS,Men,parallel bars,M,Silver
+8556,Helsinki,1952,Gymnastics,Artistic G.,"CHUKARIN, Viktor Ivanovich",URS,Men,pommel horse,M,Gold
+8557,Helsinki,1952,Gymnastics,Artistic G.,"KOROLKOV, Yevgeni",URS,Men,pommel horse,M,Silver
+8558,Helsinki,1952,Gymnastics,Artistic G.,"SHAGINYAN, Grant",URS,Men,pommel horse,M,Silver
+8559,Helsinki,1952,Gymnastics,Artistic G.,"EUGSTER, Hans",SUI,Men,rings,M,Bronze
+8560,Helsinki,1952,Gymnastics,Artistic G.,"LEONKIN, Dmitri",URS,Men,rings,M,Bronze
+8561,Helsinki,1952,Gymnastics,Artistic G.,"SHAGINYAN, Grant",URS,Men,rings,M,Gold
+8562,Helsinki,1952,Gymnastics,Artistic G.,"CHUKARIN, Viktor Ivanovich",URS,Men,rings,M,Silver
+8563,Helsinki,1952,Gymnastics,Artistic G.,"AALTONEN, Paavo Johannes",FIN,Men,team competition,M,Bronze
+8564,Helsinki,1952,Gymnastics,Artistic G.,"LAITINEN, Kalevi Johannes",FIN,Men,team competition,M,Bronze
+8565,Helsinki,1952,Gymnastics,Artistic G.,"LAPPALAINEN, Onni Armas",FIN,Men,team competition,M,Bronze
+8566,Helsinki,1952,Gymnastics,Artistic G.,"LEMPINEN, Kaino Johannes",FIN,Men,team competition,M,Bronze
+8567,Helsinki,1952,Gymnastics,Artistic G.,"LINDFORS, Berndt Torbjörn",FIN,Men,team competition,M,Bronze
+8568,Helsinki,1952,Gymnastics,Artistic G.,"ROVE, Olavi Antero",FIN,Men,team competition,M,Bronze
+8569,Helsinki,1952,Gymnastics,Artistic G.,"SAVOLAINEN, Heikki",FIN,Men,team competition,M,Bronze
+8570,Helsinki,1952,Gymnastics,Artistic G.,"VISKARI, Kalevi",FIN,Men,team competition,M,Bronze
+8571,Helsinki,1952,Gymnastics,Artistic G.,"BELYAKOV, Vladimir",URS,Men,team competition,M,Gold
+8572,Helsinki,1952,Gymnastics,Artistic G.,"BERDIEV, Iosif",URS,Men,team competition,M,Gold
+8573,Helsinki,1952,Gymnastics,Artistic G.,"CHUKARIN, Viktor Ivanovich",URS,Men,team competition,M,Gold
+8574,Helsinki,1952,Gymnastics,Artistic G.,"KOROLKOV, Yevgeni",URS,Men,team competition,M,Gold
+8575,Helsinki,1952,Gymnastics,Artistic G.,"LEONKIN, Dmitri",URS,Men,team competition,M,Gold
+8576,Helsinki,1952,Gymnastics,Artistic G.,"MURATOV, Valentin",URS,Men,team competition,M,Gold
+8577,Helsinki,1952,Gymnastics,Artistic G.,"PERELMAN, Mikhail",URS,Men,team competition,M,Gold
+8578,Helsinki,1952,Gymnastics,Artistic G.,"SHAGINYAN, Grant",URS,Men,team competition,M,Gold
+8579,Helsinki,1952,Gymnastics,Artistic G.,"EUGSTER, Hans",SUI,Men,team competition,M,Silver
+8580,Helsinki,1952,Gymnastics,Artistic G.,"FIVIAN, Ernst",SUI,Men,team competition,M,Silver
+8581,Helsinki,1952,Gymnastics,Artistic G.,"GEBENDINGER, Ernst",SUI,Men,team competition,M,Silver
+8582,Helsinki,1952,Gymnastics,Artistic G.,"GÜNTHARD, Jakob (Jack)",SUI,Men,team competition,M,Silver
+8583,Helsinki,1952,Gymnastics,Artistic G.,"SCHWARZENTRUBER, Johannes (Hans)",SUI,Men,team competition,M,Silver
+8584,Helsinki,1952,Gymnastics,Artistic G.,"STALDER, Josef",SUI,Men,team competition,M,Silver
+8585,Helsinki,1952,Gymnastics,Artistic G.,"THALMANN, Melchior",SUI,Men,team competition,M,Silver
+8586,Helsinki,1952,Gymnastics,Artistic G.,"TSCHABOLD, Jean Louis",SUI,Men,team competition,M,Silver
+8587,Helsinki,1952,Gymnastics,Artistic G.,"BOBKOVA-MAREJKOVA, Hana",TCH,Women,team competition,W,Bronze
+8588,Helsinki,1952,Gymnastics,Artistic G.,"CHADIMOVA, Alena",TCH,Women,team competition,W,Bronze
+8589,Helsinki,1952,Gymnastics,Artistic G.,"RABASOVA, Jana",TCH,Women,team competition,W,Bronze
+8590,Helsinki,1952,Gymnastics,Artistic G.,"REICHOVA, Alena",TCH,Women,team competition,W,Bronze
+8591,Helsinki,1952,Gymnastics,Artistic G.,"SINOVA-MATOUSKOVA, Matylda",TCH,Women,team competition,W,Bronze
+8592,Helsinki,1952,Gymnastics,Artistic G.,"SRNCOVA, Bozena",TCH,Women,team competition,W,Bronze
+8593,Helsinki,1952,Gymnastics,Artistic G.,"VANCUROVA-DRAZDIKOVA, Vera",TCH,Women,team competition,W,Bronze
+8594,Helsinki,1952,Gymnastics,Artistic G.,"VECHTOVA-BOSAKOVA, Eva",TCH,Women,team competition,W,Bronze
+8595,Helsinki,1952,Gymnastics,Artistic G.,"BOCHAROVA, Nina",URS,Women,team competition,W,Gold
+8596,Helsinki,1952,Gymnastics,Artistic G.,"DANILOVA, Pelageya",URS,Women,team competition,W,Gold
+8597,Helsinki,1952,Gymnastics,Artistic G.,"DZUGELI, Medeya",URS,Women,team competition,W,Gold
+8598,Helsinki,1952,Gymnastics,Artistic G.,"GOROKHOVSKAYA, Mariya",URS,Women,team competition,W,Gold
+8599,Helsinki,1952,Gymnastics,Artistic G.,"KALINCHUK, Ekaterina",URS,Women,team competition,W,Gold
+8600,Helsinki,1952,Gymnastics,Artistic G.,"MINAICHEVA, Galina",URS,Women,team competition,W,Gold
+8601,Helsinki,1952,Gymnastics,Artistic G.,"SHAMRAI, Galina",URS,Women,team competition,W,Gold
+8602,Helsinki,1952,Gymnastics,Artistic G.,"URBANOVICH, Galina",URS,Women,team competition,W,Gold
+8603,Helsinki,1952,Gymnastics,Artistic G.,"BODO-MOLNAR, Andrea",HUN,Women,team competition,W,Silver
+8604,Helsinki,1952,Gymnastics,Artistic G.,"DARUHAZI, Laszlone",HUN,Women,team competition,W,Silver
+8605,Helsinki,1952,Gymnastics,Artistic G.,"GULYAS, Karolyne",HUN,Women,team competition,W,Silver
+8606,Helsinki,1952,Gymnastics,Artistic G.,"KELETI, Agnes",HUN,Women,team competition,W,Silver
+8607,Helsinki,1952,Gymnastics,Artistic G.,"KORONDI, Margit",HUN,Women,team competition,W,Silver
+8608,Helsinki,1952,Gymnastics,Artistic G.,"PERENYI, Karolyne",HUN,Women,team competition,W,Silver
+8609,Helsinki,1952,Gymnastics,Artistic G.,"TASS LEMHENYI, Olga",HUN,Women,team competition,W,Silver
+8610,Helsinki,1952,Gymnastics,Artistic G.,"ZALAI, Laszlone",HUN,Women,team competition,W,Silver
+8611,Helsinki,1952,Gymnastics,Artistic G.,"BODO-MOLNAR, Andrea",HUN,Women,"team, portable apparatus",W,Bronze
+8612,Helsinki,1952,Gymnastics,Artistic G.,"DARUHAZI, Laszlone",HUN,Women,"team, portable apparatus",W,Bronze
+8613,Helsinki,1952,Gymnastics,Artistic G.,"GULYAS, Karolyne",HUN,Women,"team, portable apparatus",W,Bronze
+8614,Helsinki,1952,Gymnastics,Artistic G.,"KELETI, Agnes",HUN,Women,"team, portable apparatus",W,Bronze
+8615,Helsinki,1952,Gymnastics,Artistic G.,"KORONDI, Margit",HUN,Women,"team, portable apparatus",W,Bronze
+8616,Helsinki,1952,Gymnastics,Artistic G.,"PERENYI, Karolyne",HUN,Women,"team, portable apparatus",W,Bronze
+8617,Helsinki,1952,Gymnastics,Artistic G.,"TASS LEMHENYI, Olga",HUN,Women,"team, portable apparatus",W,Bronze
+8618,Helsinki,1952,Gymnastics,Artistic G.,"ZALAI, Laszlone",HUN,Women,"team, portable apparatus",W,Bronze
+8619,Helsinki,1952,Gymnastics,Artistic G.,"BERGGREN, Evy",SWE,Women,"team, portable apparatus",W,Gold
+8620,Helsinki,1952,Gymnastics,Artistic G.,"BLOMBERG, Vanja",SWE,Women,"team, portable apparatus",W,Gold
+8621,Helsinki,1952,Gymnastics,Artistic G.,"COLLING-PETTERSSON, Ann-Sofi",SWE,Women,"team, portable apparatus",W,Gold
+8622,Helsinki,1952,Gymnastics,Artistic G.,"LINDBERG, Karin",SWE,Women,"team, portable apparatus",W,Gold
+8623,Helsinki,1952,Gymnastics,Artistic G.,"NORDIN, Hjördis",SWE,Women,"team, portable apparatus",W,Gold
+8624,Helsinki,1952,Gymnastics,Artistic G.,"PETTERSSON, Göta",SWE,Women,"team, portable apparatus",W,Gold
+8625,Helsinki,1952,Gymnastics,Artistic G.,"RÖRING, Gun",SWE,Women,"team, portable apparatus",W,Gold
+8626,Helsinki,1952,Gymnastics,Artistic G.,"SANDAHL, Ingrid",SWE,Women,"team, portable apparatus",W,Gold
+8627,Helsinki,1952,Gymnastics,Artistic G.,"BOCHAROVA, Nina",URS,Women,"team, portable apparatus",W,Silver
+8628,Helsinki,1952,Gymnastics,Artistic G.,"DANILOVA, Pelageya",URS,Women,"team, portable apparatus",W,Silver
+8629,Helsinki,1952,Gymnastics,Artistic G.,"DZUGELI, Medeya",URS,Women,"team, portable apparatus",W,Silver
+8630,Helsinki,1952,Gymnastics,Artistic G.,"GOROKHOVSKAYA, Mariya",URS,Women,"team, portable apparatus",W,Silver
+8631,Helsinki,1952,Gymnastics,Artistic G.,"KALINCHUK, Ekaterina",URS,Women,"team, portable apparatus",W,Silver
+8632,Helsinki,1952,Gymnastics,Artistic G.,"MINAICHEVA, Galina",URS,Women,"team, portable apparatus",W,Silver
+8633,Helsinki,1952,Gymnastics,Artistic G.,"SHAMRAI, Galina",URS,Women,"team, portable apparatus",W,Silver
+8634,Helsinki,1952,Gymnastics,Artistic G.,"URBANOVICH, Galina",URS,Women,"team, portable apparatus",W,Silver
+8635,Helsinki,1952,Gymnastics,Artistic G.,"KELETI, Agnes",HUN,Women,uneven bars,W,Bronze
+8636,Helsinki,1952,Gymnastics,Artistic G.,"KORONDI, Margit",HUN,Women,uneven bars,W,Gold
+8637,Helsinki,1952,Gymnastics,Artistic G.,"GOROKHOVSKAYA, Mariya",URS,Women,uneven bars,W,Silver
+8638,Helsinki,1952,Gymnastics,Artistic G.,"ONO, Takashi",JPN,Men,vault,M,Bronze
+8639,Helsinki,1952,Gymnastics,Artistic G.,"UESAKO, Tadao",JPN,Men,vault,M,Bronze
+8640,Helsinki,1952,Gymnastics,Artistic G.,"CHUKARIN, Viktor Ivanovich",URS,Men,vault,M,Gold
+8641,Helsinki,1952,Gymnastics,Artistic G.,"TAKEMOTO, Masao",JPN,Men,vault,M,Silver
+8642,Helsinki,1952,Gymnastics,Artistic G.,"MINAICHEVA, Galina",URS,Women,vault,W,Bronze
+8643,Helsinki,1952,Gymnastics,Artistic G.,"KALINCHUK, Ekaterina",URS,Women,vault,W,Gold
+8644,Helsinki,1952,Gymnastics,Artistic G.,"GOROKHOVSKAYA, Mariya",URS,Women,vault,W,Silver
+8645,Helsinki,1952,Hockey,Hockey,"CARNILL, Denys John",GBR,Men,hockey,M,Bronze
+8646,Helsinki,1952,Hockey,Hockey,"COCKETT, John Ashley",GBR,Men,hockey,M,Bronze
+8647,Helsinki,1952,Hockey,Hockey,"CONROY, John Valentine",GBR,Men,hockey,M,Bronze
+8648,Helsinki,1952,Hockey,Hockey,"DADDS, Graham Bassett",GBR,Men,hockey,M,Bronze
+8649,Helsinki,1952,Hockey,Hockey,"DAY, Derek Malcolm",GBR,Men,hockey,M,Bronze
+8650,Helsinki,1952,Hockey,Hockey,"EAGAN, Dennis Michael Royal",GBR,Men,hockey,M,Bronze
+8651,Helsinki,1952,Hockey,Hockey,"FLETCHER, Robin Anthony",GBR,Men,hockey,M,Bronze
+8652,Helsinki,1952,Hockey,Hockey,"MIDGLEY, Roger Keith",GBR,Men,hockey,M,Bronze
+8653,Helsinki,1952,Hockey,Hockey,"NORRIS, Richard Owen Alfred",GBR,Men,hockey,M,Bronze
+8654,Helsinki,1952,Hockey,Hockey,"NUGENT, Nigel Algernon D.",GBR,Men,hockey,M,Bronze
+8655,Helsinki,1952,Hockey,Hockey,"NUNN, Anthony Stuart",GBR,Men,hockey,M,Bronze
+8656,Helsinki,1952,Hockey,Hockey,"ROBINSON, Anthony John Backh.",GBR,Men,hockey,M,Bronze
+8657,Helsinki,1952,Hockey,Hockey,"TAYLOR, John Paskin",GBR,Men,hockey,M,Bronze
+8658,Helsinki,1952,Hockey,Hockey,"CLAUDIUS, Leslie Walter",IND,Men,hockey,M,Gold
+8659,Helsinki,1952,Hockey,Hockey,"DALUZ, Meldric St.Clair",IND,Men,hockey,M,Gold
+8660,Helsinki,1952,Hockey,Hockey,"DATT, Keshava",IND,Men,hockey,M,Gold
+8661,Helsinki,1952,Hockey,Hockey,"DESMUTHU, Chinadorai",IND,Men,hockey,M,Gold
+8662,Helsinki,1952,Hockey,Hockey,"FRANCIS, Ranganandhan",IND,Men,hockey,M,Gold
+8663,Helsinki,1952,Hockey,Hockey,"LAL SHARMA, Raghbir",IND,Men,hockey,M,Gold
+8664,Helsinki,1952,Hockey,Hockey,"PERUMAL, Govind",IND,Men,hockey,M,Gold
+8665,Helsinki,1952,Hockey,Hockey,"RAJAGOPAL, Muniswamy",IND,Men,hockey,M,Gold
+8666,Helsinki,1952,Hockey,Hockey,"SINGH DOSANJH, Balbir",IND,Men,hockey,M,Gold
+8667,Helsinki,1952,Hockey,Hockey,"SINGH GENTLE, Randhir",IND,Men,hockey,M,Gold
+8668,Helsinki,1952,Hockey,Hockey,"SINGH KULLAR, Udham",IND,Men,hockey,M,Gold
+8669,Helsinki,1952,Hockey,Hockey,"SINGH, Dharam",IND,Men,hockey,M,Gold
+8670,Helsinki,1952,Hockey,Hockey,"SINGH, Grahanandan Nandy",IND,Men,hockey,M,Gold
+8671,Helsinki,1952,Hockey,Hockey,"SINGH, Kunwar Digvijai",IND,Men,hockey,M,Gold
+8672,Helsinki,1952,Hockey,Hockey,"ANCION, Julius Theodoor",NED,Men,hockey,M,Silver
+8673,Helsinki,1952,Hockey,Hockey,"BOERSTRA, Andries Cornelis Dirk",NED,Men,hockey,M,Silver
+8674,Helsinki,1952,Hockey,Hockey,"DERCKX, Henri Jean Joseph",NED,Men,hockey,M,Silver
+8675,Helsinki,1952,Hockey,Hockey,"DRIJVER, Johan Frederik",NED,Men,hockey,M,Silver
+8676,Helsinki,1952,Hockey,Hockey,"ESSER, Rius Theo",NED,Men,hockey,M,Silver
+8677,Helsinki,1952,Hockey,Hockey,"KRUIZE, Jan Hendrik",NED,Men,hockey,M,Silver
+8678,Helsinki,1952,Hockey,Hockey,"LOGGERE, Hermanus Pieter",NED,Men,hockey,M,Silver
+8679,Helsinki,1952,Hockey,Hockey,"MULDER, Laurentz Siebrand",NED,Men,hockey,M,Silver
+8680,Helsinki,1952,Hockey,Hockey,"TIEL, Edouard Herbert",NED,Men,hockey,M,Silver
+8681,Helsinki,1952,Hockey,Hockey,"VAN HEEL, Willem",NED,Men,hockey,M,Silver
+8682,Helsinki,1952,Hockey,Hockey,"WERY, Leonard Hugo",NED,Men,hockey,M,Silver
+8683,Helsinki,1952,Modern Pentathlon,Modern Pentath.,"SZONDI, Istvan",HUN,Men,Individual competition,M,Bronze
+8684,Helsinki,1952,Modern Pentathlon,Modern Pentath.,"HALL, Lars",SWE,Men,Individual competition,M,Gold
+8685,Helsinki,1952,Modern Pentathlon,Modern Pentath.,"BENEDEK, Gabor",HUN,Men,Individual competition,M,Silver
+8686,Helsinki,1952,Modern Pentathlon,Modern Pentath.,"MANNONEN, Olavi Aleksanteri",FIN,Men,Team competition,M,Bronze
+8687,Helsinki,1952,Modern Pentathlon,Modern Pentath.,"ROKKA, Olavi Antero",FIN,Men,Team competition,M,Bronze
+8688,Helsinki,1952,Modern Pentathlon,Modern Pentath.,"VILKKO, Lauri Johannes",FIN,Men,Team competition,M,Bronze
+8689,Helsinki,1952,Modern Pentathlon,Modern Pentath.,"BENEDEK, Gabor",HUN,Men,Team competition,M,Gold
+8690,Helsinki,1952,Modern Pentathlon,Modern Pentath.,"KOVACSI, Aladar",HUN,Men,Team competition,M,Gold
+8691,Helsinki,1952,Modern Pentathlon,Modern Pentath.,"SZONDI, Istvan",HUN,Men,Team competition,M,Gold
+8692,Helsinki,1952,Modern Pentathlon,Modern Pentath.,"EGNELL, Claes",SWE,Men,Team competition,M,Silver
+8693,Helsinki,1952,Modern Pentathlon,Modern Pentath.,"HALL, Lars",SWE,Men,Team competition,M,Silver
+8694,Helsinki,1952,Modern Pentathlon,Modern Pentath.,"LINDQVIST, Thorsten",SWE,Men,Team competition,M,Silver
+8695,Helsinki,1952,Rowing,Rowing,"KALT, Hans",SUI,Men,coxless pair (2-),M,Bronze
+8696,Helsinki,1952,Rowing,Rowing,"SCHMID, Kurt",SUI,Men,coxless pair (2-),M,Bronze
+8697,Helsinki,1952,Rowing,Rowing,"LOGG, Charles Paul Jr.",USA,Men,coxless pair (2-),M,Gold
+8698,Helsinki,1952,Rowing,Rowing,"PRICE, Thomas Steele",USA,Men,coxless pair (2-),M,Gold
+8699,Helsinki,1952,Rowing,Rowing,"BAETENS, Robert Frederik",BEL,Men,coxless pair (2-),M,Silver
+8700,Helsinki,1952,Rowing,Rowing,"KNUYSEN, Michel Jules L.",BEL,Men,coxless pair (2-),M,Silver
+8701,Helsinki,1952,Rowing,Rowing,"RODRIGUEZ, Juan A.",URU,Men,double sculls (2x),M,Bronze
+8702,Helsinki,1952,Rowing,Rowing,"SEIJAS, Miguel",URU,Men,double sculls (2x),M,Bronze
+8703,Helsinki,1952,Rowing,Rowing,"CAPPOZZO, Tranquilo",ARG,Men,double sculls (2x),M,Gold
+8704,Helsinki,1952,Rowing,Rowing,"GUERRERO, Eduardo",ARG,Men,double sculls (2x),M,Gold
+8705,Helsinki,1952,Rowing,Rowing,"EMCHUK, Igor",URS,Men,double sculls (2x),M,Silver
+8706,Helsinki,1952,Rowing,Rowing,"ZHILIN, Georgi",URS,Men,double sculls (2x),M,Silver
+8707,Helsinki,1952,Rowing,Rowing,"ANDERSON, David Rollo",AUS,Men,eight with coxswain (8+),M,Bronze
+8708,Helsinki,1952,Rowing,Rowing,"CAYZER, Phillip Arthur",AUS,Men,eight with coxswain (8+),M,Bronze
+8709,Helsinki,1952,Rowing,Rowing,"CHAPMAN, Ernest William",AUS,Men,eight with coxswain (8+),M,Bronze
+8710,Helsinki,1952,Rowing,Rowing,"CHESSELL, Thomas Edmund",AUS,Men,eight with coxswain (8+),M,Bronze
+8711,Helsinki,1952,Rowing,Rowing,"FINLAY, Merwyn David",AUS,Men,eight with coxswain (8+),M,Bronze
+8712,Helsinki,1952,Rowing,Rowing,"GREENWOOD, Nimrod",AUS,Men,eight with coxswain (8+),M,Bronze
+8713,Helsinki,1952,Rowing,Rowing,"PAIN, Edward Oscar",AUS,Men,eight with coxswain (8+),M,Bronze
+8714,Helsinki,1952,Rowing,Rowing,"TINNING, Robert Noel",AUS,Men,eight with coxswain (8+),M,Bronze
+8715,Helsinki,1952,Rowing,Rowing,"WILLIAMSON, Geoffrey",AUS,Men,eight with coxswain (8+),M,Bronze
+8716,Helsinki,1952,Rowing,Rowing,"DETWEILER, Robert Milan",USA,Men,eight with coxswain (8+),M,Gold
+8717,Helsinki,1952,Rowing,Rowing,"DUNBAR, James Ralph",USA,Men,eight with coxswain (8+),M,Gold
+8718,Helsinki,1952,Rowing,Rowing,"FIELDS, William Beauford",USA,Men,eight with coxswain (8+),M,Gold
+8719,Helsinki,1952,Rowing,Rowing,"FRYE, Wayne Thomas",USA,Men,eight with coxswain (8+),M,Gold
+8720,Helsinki,1952,Rowing,Rowing,"MANNING, Charles David",USA,Men,eight with coxswain (8+),M,Gold
+8721,Helsinki,1952,Rowing,Rowing,"MURPHY, Richard Frederick",USA,Men,eight with coxswain (8+),M,Gold
+8722,Helsinki,1952,Rowing,Rowing,"PROCTOR, Henry Arthur",USA,Men,eight with coxswain (8+),M,Gold
+8723,Helsinki,1952,Rowing,Rowing,"SHAKESPEARE, Franklin Bradford",USA,Men,eight with coxswain (8+),M,Gold
+8724,Helsinki,1952,Rowing,Rowing,"STEVENS, Edward Glenister",USA,Men,eight with coxswain (8+),M,Gold
+8725,Helsinki,1952,Rowing,Rowing,"AMIRAGOV, Slava",URS,Men,eight with coxswain (8+),M,Silver
+8726,Helsinki,1952,Rowing,Rowing,"BORISOV, Igor",URS,Men,eight with coxswain (8+),M,Silver
+8727,Helsinki,1952,Rowing,Rowing,"BRAGO, Yevgeni",URS,Men,eight with coxswain (8+),M,Silver
+8728,Helsinki,1952,Rowing,Rowing,"GISSEN, Leonid",URS,Men,eight with coxswain (8+),M,Silver
+8729,Helsinki,1952,Rowing,Rowing,"KOMAROV, Aleksei",URS,Men,eight with coxswain (8+),M,Silver
+8730,Helsinki,1952,Rowing,Rowing,"KRYUKOV, Vladimir",URS,Men,eight with coxswain (8+),M,Silver
+8731,Helsinki,1952,Rowing,Rowing,"POLYAKOV, Igor",URS,Men,eight with coxswain (8+),M,Silver
+8732,Helsinki,1952,Rowing,Rowing,"RODIMUSHKIN, Vladimir",URS,Men,eight with coxswain (8+),M,Silver
+8733,Helsinki,1952,Rowing,Rowing,"SAMSONOV, Yevgeni",URS,Men,eight with coxswain (8+),M,Silver
+8734,Helsinki,1952,Rowing,Rowing,"LOMMI, Oiva",FIN,Men,four without coxswain (4-),M,Bronze
+8735,Helsinki,1952,Rowing,Rowing,"LOMMI, Veikko Kristian",FIN,Men,four without coxswain (4-),M,Bronze
+8736,Helsinki,1952,Rowing,Rowing,"NEVALAINEN, Lauri Armas",FIN,Men,four without coxswain (4-),M,Bronze
+8737,Helsinki,1952,Rowing,Rowing,"WAHLSTEN, Kauko Wilhelm",FIN,Men,four without coxswain (4-),M,Bronze
+8738,Helsinki,1952,Rowing,Rowing,"BONACIC, Duje",YUG,Men,four without coxswain (4-),M,Gold
+8739,Helsinki,1952,Rowing,Rowing,"SEGVIC, Petar",YUG,Men,four without coxswain (4-),M,Gold
+8740,Helsinki,1952,Rowing,Rowing,"TROJANOVIC, Mate",YUG,Men,four without coxswain (4-),M,Gold
+8741,Helsinki,1952,Rowing,Rowing,"VALENTA, Velimir",YUG,Men,four without coxswain (4-),M,Gold
+8742,Helsinki,1952,Rowing,Rowing,"BLONDIAUX, Pierre Auguste",FRA,Men,four without coxswain (4-),M,Silver
+8743,Helsinki,1952,Rowing,Rowing,"BOUISSOU, Marc Emile",FRA,Men,four without coxswain (4-),M,Silver
+8744,Helsinki,1952,Rowing,Rowing,"GAUTIER, Roger",FRA,Men,four without coxswain (4-),M,Silver
+8745,Helsinki,1952,Rowing,Rowing,"GUISSART, Jacques Jean",FRA,Men,four without coxswain (4-),M,Silver
+8746,Helsinki,1952,Rowing,Rowing,"LEANDERSON, Matthew Fillip",USA,Men,four-oared shell with coxswain (4-),M,Bronze
+8747,Helsinki,1952,Rowing,Rowing,"LOVESTED, Carl Martin",USA,Men,four-oared shell with coxswain (4-),M,Bronze
+8748,Helsinki,1952,Rowing,Rowing,"ROSSI, Albert",USA,Men,four-oared shell with coxswain (4-),M,Bronze
+8749,Helsinki,1952,Rowing,Rowing,"ULBRICKSON, Alvin Edmund",USA,Men,four-oared shell with coxswain (4-),M,Bronze
+8750,Helsinki,1952,Rowing,Rowing,"WAHLSTROM, Richard Wayne",USA,Men,four-oared shell with coxswain (4-),M,Bronze
+8751,Helsinki,1952,Rowing,Rowing,"HAVLIS, Jiri",TCH,Men,four-oared shell with coxswain (4-),M,Gold
+8752,Helsinki,1952,Rowing,Rowing,"JINDRA, Jan",TCH,Men,four-oared shell with coxswain (4-),M,Gold
+8753,Helsinki,1952,Rowing,Rowing,"KORANDA, Miroslav",TCH,Men,four-oared shell with coxswain (4-),M,Gold
+8754,Helsinki,1952,Rowing,Rowing,"LUSK, Stanislav",TCH,Men,four-oared shell with coxswain (4-),M,Gold
+8755,Helsinki,1952,Rowing,Rowing,"MEJTA SR., Karel",TCH,Men,four-oared shell with coxswain (4-),M,Gold
+8756,Helsinki,1952,Rowing,Rowing,"BIANCHI, Enrico",SUI,Men,four-oared shell with coxswain (4-),M,Silver
+8757,Helsinki,1952,Rowing,Rowing,"ESS, Emile",SUI,Men,four-oared shell with coxswain (4-),M,Silver
+8758,Helsinki,1952,Rowing,Rowing,"LEISER, Walter",SUI,Men,four-oared shell with coxswain (4-),M,Silver
+8759,Helsinki,1952,Rowing,Rowing,"SCHELLER, Heinrich",SUI,Men,four-oared shell with coxswain (4-),M,Silver
+8760,Helsinki,1952,Rowing,Rowing,"WEIDMANN, Karl",SUI,Men,four-oared shell with coxswain (4-),M,Silver
+8761,Helsinki,1952,Rowing,Rowing,"FRANTZEN, Jörgen Nagel",DEN,Men,pair-oared shell with coxswain (2+),M,Bronze
+8762,Helsinki,1952,Rowing,Rowing,"PETERSEN, Svend Ove",DEN,Men,pair-oared shell with coxswain (2+),M,Bronze
+8763,Helsinki,1952,Rowing,Rowing,"SVENDSEN, Poul Verner",DEN,Men,pair-oared shell with coxswain (2+),M,Bronze
+8764,Helsinki,1952,Rowing,Rowing,"MALIVOIRE, Bernard Robert",FRA,Men,pair-oared shell with coxswain (2+),M,Gold
+8765,Helsinki,1952,Rowing,Rowing,"MERCIER, Gaston Antoine",FRA,Men,pair-oared shell with coxswain (2+),M,Gold
+8766,Helsinki,1952,Rowing,Rowing,"SALLES, Raymond Julien",FRA,Men,pair-oared shell with coxswain (2+),M,Gold
+8767,Helsinki,1952,Rowing,Rowing,"HEINHOLD, Helmut",GER,Men,pair-oared shell with coxswain (2+),M,Silver
+8768,Helsinki,1952,Rowing,Rowing,"MANCHEN, Heinz Joachim",GER,Men,pair-oared shell with coxswain (2+),M,Silver
+8769,Helsinki,1952,Rowing,Rowing,"NOLL, Helmut",GER,Men,pair-oared shell with coxswain (2+),M,Silver
+8770,Helsinki,1952,Rowing,Rowing,"KOCERKA, Teodor",POL,Men,single sculls (1x),M,Bronze
+8771,Helsinki,1952,Rowing,Rowing,"TYUKALOV, Yuri",URS,Men,single sculls (1x),M,Gold
+8772,Helsinki,1952,Rowing,Rowing,"WOOD, Merwyn Thomas",AUS,Men,single sculls (1x),M,Silver
+8773,Helsinki,1952,Sailing,Sailing,"OHLSON, Carl-Erik",SWE,Men,5.5m,X,Bronze
+8774,Helsinki,1952,Sailing,Sailing,"WASSEN, Folke",SWE,Men,5.5m,X,Bronze
+8775,Helsinki,1952,Sailing,Sailing,"WASSEN, Magnus",SWE,Men,5.5m,X,Bronze
+8776,Helsinki,1952,Sailing,Sailing,"CHANCE, Britton Jr.",USA,Men,5.5m,X,Gold
+8777,Helsinki,1952,Sailing,Sailing,"SCHOETTLE, Michael Beaver",USA,Men,5.5m,X,Gold
+8778,Helsinki,1952,Sailing,Sailing,"WHITE, Edgar Pardee Earle",USA,Men,5.5m,X,Gold
+8779,Helsinki,1952,Sailing,Sailing,"WHITE, Sumner Wheeler III",USA,Men,5.5m,X,Gold
+8780,Helsinki,1952,Sailing,Sailing,"FALKUM-HANSEN, Börre",NOR,Men,5.5m,X,Silver
+8781,Helsinki,1952,Sailing,Sailing,"LUNDE, Peder Eugen",NOR,Men,5.5m,X,Silver
+8782,Helsinki,1952,Sailing,Sailing,"LUNDE, Vibeke",NOR,Women,5.5m,X,Silver
+8783,Helsinki,1952,Sailing,Sailing,"JANSSON, Ragnar Rafael",FIN,Men,6m,X,Bronze
+8784,Helsinki,1952,Sailing,Sailing,"KONTO, Jonas Leo Adolf",FIN,Men,6m,X,Bronze
+8785,Helsinki,1952,Sailing,Sailing,"SJÖBERG, Paul Leonard",FIN,Men,6m,X,Bronze
+8786,Helsinki,1952,Sailing,Sailing,"TURKKA, Rolf Fredrik",FIN,Men,6m,X,Bronze
+8787,Helsinki,1952,Sailing,Sailing,"WESTERLUND, Ernst Theodor",FIN,Men,6m,X,Bronze
+8788,Helsinki,1952,Sailing,Sailing,"ENDT, Everard C.",USA,Men,6m,X,Gold
+8789,Helsinki,1952,Sailing,Sailing,"MORGAN, John Adams",USA,Men,6m,X,Gold
+8790,Helsinki,1952,Sailing,Sailing,"RIDDER, Eric",USA,Men,6m,X,Gold
+8791,Helsinki,1952,Sailing,Sailing,"ROOSEVELT, Julius Kean",USA,Men,6m,X,Gold
+8792,Helsinki,1952,Sailing,Sailing,"WHITON, Herman Frasch",USA,Men,6m,X,Gold
+8793,Helsinki,1952,Sailing,Sailing,"ARNEBERG, Tor Birger",NOR,Men,6m,X,Silver
+8794,Helsinki,1952,Sailing,Sailing,"FERNER, Finn Christian",NOR,Men,6m,X,Silver
+8795,Helsinki,1952,Sailing,Sailing,"FERNER, Johan Martin",NOR,Men,6m,X,Silver
+8796,Helsinki,1952,Sailing,Sailing,"HEIBERG, Erik Oscar",NOR,Men,6m,X,Silver
+8797,Helsinki,1952,Sailing,Sailing,"MORTENSEN, Carl Lauritz",NOR,Men,6m,X,Silver
+8798,Helsinki,1952,Sailing,Sailing,"WHITON, Emelyn Thatcher Leonard",USA,Women,6m,X,Gold
+8799,Helsinki,1952,Sailing,Sailing,"NATUSCH, Erich Friedrich Wilhelm",GER,Men,dragon,X,Bronze
+8800,Helsinki,1952,Sailing,Sailing,"NOWKA, Georg",GER,Men,dragon,X,Bronze
+8801,Helsinki,1952,Sailing,Sailing,"THOMSEN, Theodor",GER,Men,dragon,X,Bronze
+8802,Helsinki,1952,Sailing,Sailing,"BARFOD, Haakon",NOR,Men,dragon,X,Gold
+8803,Helsinki,1952,Sailing,Sailing,"LIE, Sigve",NOR,Men,dragon,X,Gold
+8804,Helsinki,1952,Sailing,Sailing,"THORVALDSEN, Thor",NOR,Men,dragon,X,Gold
+8805,Helsinki,1952,Sailing,Sailing,"ALMKVIST, Erland",SWE,Men,dragon,X,Silver
+8806,Helsinki,1952,Sailing,Sailing,"BOLDT-CHRISTMAS, Sidney",SWE,Men,dragon,X,Silver
+8807,Helsinki,1952,Sailing,Sailing,"GEDDA, Per",SWE,Men,dragon,X,Silver
+8808,Helsinki,1952,Sailing,Sailing,"SARBY, Rickard",SWE,Men,single-handed dinghy (Finn),M,Bronze
+8809,Helsinki,1952,Sailing,Sailing,"ELVSTROM, Paul",DEN,Men,single-handed dinghy (Finn),M,Gold
+8810,Helsinki,1952,Sailing,Sailing,"CURREY, Charles Norman",GBR,Men,single-handed dinghy (Finn),M,Silver
+8811,Helsinki,1952,Sailing,Sailing,"ANDRADE, Francisco Rebello De",POR,Men,two-person keelboat open (Star),X,Bronze
+8812,Helsinki,1952,Sailing,Sailing,"FIUZA, Joaquim Mascarenhas De M.",POR,Men,two-person keelboat open (Star),X,Bronze
+8813,Helsinki,1952,Sailing,Sailing,"RODE, Nicolo",ITA,Men,two-person keelboat open (Star),X,Gold
+8814,Helsinki,1952,Sailing,Sailing,"STRAULINO, Agostino",ITA,Men,two-person keelboat open (Star),X,Gold
+8815,Helsinki,1952,Sailing,Sailing,"PRICE, John Wesley",USA,Men,two-person keelboat open (Star),X,Silver
+8816,Helsinki,1952,Sailing,Sailing,"REID, John S.",USA,Men,two-person keelboat open (Star),X,Silver
+8817,Helsinki,1952,Shooting,Shooting,"MÄKI, Tauno Vilhelmi",FIN,Men,"100m running deer, single/double shots",M,Bronze
+8818,Helsinki,1952,Shooting,Shooting,"LARSEN, John Harry",NOR,Men,"100m running deer, single/double shots",M,Gold
+8819,Helsinki,1952,Shooting,Shooting,"SKÖLDBERG, Olof",SWE,Men,"100m running deer, single/double shots",M,Silver
+8820,Helsinki,1952,Shooting,Shooting,"LICHIARDOPOL, Gheorghe",ROU,Men,25m rapid fire pistol (60 shots),M,Bronze
+8821,Helsinki,1952,Shooting,Shooting,"TAKACS, Karoly",HUN,Men,25m rapid fire pistol (60 shots),M,Gold
+8822,Helsinki,1952,Shooting,Shooting,"KUN, Szilard",HUN,Men,25m rapid fire pistol (60 shots),M,Silver
+8823,Helsinki,1952,Shooting,Shooting,"VAINSHTEIN, Lev",URS,Men,300m free rifle 3 positions (3x40 shots),M,Bronze
+8824,Helsinki,1952,Shooting,Shooting,"BOGDANOV, Anatoli",URS,Men,300m free rifle 3 positions (3x40 shots),M,Gold
+8825,Helsinki,1952,Shooting,Shooting,"BÜRCHLER-MESSER, Robert",SUI,Men,300m free rifle 3 positions (3x40 shots),M,Silver
+8826,Helsinki,1952,Shooting,Shooting,"BALOGH, Ambrus",HUN,Men,50m pistol (60 shots),M,Bronze
+8827,Helsinki,1952,Shooting,Shooting,"BENNER, Huelet Leo",USA,Men,50m pistol (60 shots),M,Gold
+8828,Helsinki,1952,Shooting,Shooting,"LEON GOZALO, Angel",ESP,Men,50m pistol (60 shots),M,Silver
+8829,Helsinki,1952,Shooting,Shooting,"ANDREEV, Boris",URS,Men,50m rifle 3 positions (3x40 shots),M,Bronze
+8830,Helsinki,1952,Shooting,Shooting,"KONGSHAUG, Erling Asbjörn",NOR,Men,50m rifle 3 positions (3x40 shots),M,Gold
+8831,Helsinki,1952,Shooting,Shooting,"YLÖNEN, Vilho Ilmari",FIN,Men,50m rifle 3 positions (3x40 shots),M,Silver
+8832,Helsinki,1952,Shooting,Shooting,"JACKSON, Arthur Charles",USA,Men,50m rifle prone (60 shots),M,Bronze
+8833,Helsinki,1952,Shooting,Shooting,"SIRBU, Iosif",ROU,Men,50m rifle prone (60 shots),M,Gold
+8834,Helsinki,1952,Shooting,Shooting,"ANDREEV, Boris",URS,Men,50m rifle prone (60 shots),M,Silver
+8835,Helsinki,1952,Shooting,Shooting,"LILJEDAHL, Hans",SWE,Men,trap (125 targets),M,Bronze
+8836,Helsinki,1952,Shooting,Shooting,"GENEREUX, George Patrick",CAN,Men,trap (125 targets),M,Gold
+8837,Helsinki,1952,Shooting,Shooting,"HOLMQVIST, Knut",SWE,Men,trap (125 targets),M,Silver
+8838,Helsinki,1952,Weightlifting,Weightlifting,"MIRZAI, Ali",IRI,Men,"- 56kg, total (bantamweight)",M,Bronze
+8839,Helsinki,1952,Weightlifting,Weightlifting,"UDODOV, Ivan",URS,Men,"- 56kg, total (bantamweight)",M,Gold
+8840,Helsinki,1952,Weightlifting,Weightlifting,"NAMDJOU, Mahmoud",IRI,Men,"- 56kg, total (bantamweight)",M,Silver
+8841,Helsinki,1952,Weightlifting,Weightlifting,"SELVETTI, Humberto",ARG,Men,"+ 90kg, total (heavyweight)",M,Bronze
+8842,Helsinki,1952,Weightlifting,Weightlifting,"DAVIS, John Henry Jr.",USA,Men,"+ 90kg, total (heavyweight)",M,Gold
+8843,Helsinki,1952,Weightlifting,Weightlifting,"BRADFORD, James Edward",USA,Men,"+ 90kg, total (heavyweight)",M,Silver
+8844,Helsinki,1952,Weightlifting,Weightlifting,"WILKES, Rodney Adolphus",TRI,Men,"56 - 60kg, total (featherweight)",M,Bronze
+8845,Helsinki,1952,Weightlifting,Weightlifting,"CHIMISHKYAN, Rafael",URS,Men,"56 - 60kg, total (featherweight)",M,Gold
+8846,Helsinki,1952,Weightlifting,Weightlifting,"SAKSONOV, Nikolai",URS,Men,"56 - 60kg, total (featherweight)",M,Silver
+8847,Helsinki,1952,Weightlifting,Weightlifting,"BARBERIS, Verdi",AUS,Men,"60 - 67.5kg, total (lightweight)",M,Bronze
+8848,Helsinki,1952,Weightlifting,Weightlifting,"KONO, Thomas Tamio",USA,Men,"60 - 67.5kg, total (lightweight)",M,Gold
+8849,Helsinki,1952,Weightlifting,Weightlifting,"LOPATIN, Yevgeni",URS,Men,"60 - 67.5kg, total (lightweight)",M,Silver
+8850,Helsinki,1952,Weightlifting,Weightlifting,"KIM, Sung-Jip",KOR,Men,"67.5 - 75kg, total (middleweight)",M,Bronze
+8851,Helsinki,1952,Weightlifting,Weightlifting,"GEORGE, Peter T.",USA,Men,"67.5 - 75kg, total (middleweight)",M,Gold
+8852,Helsinki,1952,Weightlifting,Weightlifting,"GRATTON, Gerald A.",CAN,Men,"67.5 - 75kg, total (middleweight)",M,Silver
+8853,Helsinki,1952,Weightlifting,Weightlifting,"VOROBYEV, Arkadi",URS,Men,"75 - 82.5kg, total (light-heavyweight)",M,Bronze
+8854,Helsinki,1952,Weightlifting,Weightlifting,"LOMAKIN, Trofim",URS,Men,"75 - 82.5kg, total (light-heavyweight)",M,Gold
+8855,Helsinki,1952,Weightlifting,Weightlifting,"STANCZYK, Stanley Anthony",USA,Men,"75 - 82.5kg, total (light-heavyweight)",M,Silver
+8856,Helsinki,1952,Weightlifting,Weightlifting,"KILGOUR, Lennox",TRI,Men,"82.5 - 90kg, total (middle-heavyweight)",M,Bronze
+8857,Helsinki,1952,Weightlifting,Weightlifting,"SCHEMANSKY, Norbert",USA,Men,"82.5 - 90kg, total (middle-heavyweight)",M,Gold
+8858,Helsinki,1952,Weightlifting,Weightlifting,"NOVAK, Grigori",URS,Men,"82.5 - 90kg, total (middle-heavyweight)",M,Silver
+8859,Helsinki,1952,Wrestling,Wrestling Free.,"MOLLAGHASSEMI, Mahmoud",IRI,Men,- 52kg (flyweight),M,Bronze
+8860,Helsinki,1952,Wrestling,Wrestling Free.,"GEMICI, Hasan",TUR,Men,- 52kg (flyweight),M,Gold
+8861,Helsinki,1952,Wrestling,Wrestling Free.,"KITANO, Yushi",JPN,Men,- 52kg (flyweight),M,Silver
+8862,Helsinki,1952,Wrestling,Wrestling Free.,"RICHMOND, Kenneth Alan",GBR,Men,+ 87kg (heavyweight),M,Bronze
+8863,Helsinki,1952,Wrestling,Wrestling Free.,"MEKOKISHVILI, Arsen",URS,Men,+ 87kg (heavyweight),M,Gold
+8864,Helsinki,1952,Wrestling,Wrestling Free.,"ANTONSSON, Bertil",SWE,Men,+ 87kg (heavyweight),M,Silver
+8865,Helsinki,1952,Wrestling,Wrestling Free.,"JADAV, Kha-Shaba Digvijai",IND,Men,52 - 57kg (bantamweight),M,Bronze
+8866,Helsinki,1952,Wrestling,Wrestling Free.,"ISHII, Shohashi",JPN,Men,52 - 57kg (bantamweight),M,Gold
+8867,Helsinki,1952,Wrestling,Wrestling Free.,"MAMEDBEKOV, Rashid",URS,Men,52 - 57kg (bantamweight),M,Silver
+8868,Helsinki,1952,Wrestling,Wrestling Free.,"HENSON, Josiah",USA,Men,57 - 63kg (featherweight),M,Bronze
+8869,Helsinki,1952,Wrestling,Wrestling Free.,"SIT, Bayram",TUR,Men,57 - 63kg (featherweight),M,Gold
+8870,Helsinki,1952,Wrestling,Wrestling Free.,"GUIVEGTCHI, Nasser",IRI,Men,57 - 63kg (featherweight),M,Silver
+8871,Helsinki,1952,Wrestling,Wrestling Free.,"TOVFIGHE, Djahanbakte",IRI,Men,63 - 67kg (lightweight),M,Bronze
+8872,Helsinki,1952,Wrestling,Wrestling Free.,"ANDERBERG, Olle",SWE,Men,63 - 67kg (lightweight),M,Gold
+8873,Helsinki,1952,Wrestling,Wrestling Free.,"EVANS, Jay Thomas",USA,Men,63 - 67kg (lightweight),M,Silver
+8874,Helsinki,1952,Wrestling,Wrestling Free.,"MODJTABAVI, Abdollah",IRI,Men,67 - 73kg (welterweight),M,Bronze
+8875,Helsinki,1952,Wrestling,Wrestling Free.,"SMITH, William Thomas",USA,Men,67 - 73kg (welterweight),M,Gold
+8876,Helsinki,1952,Wrestling,Wrestling Free.,"BERLIN, Per Gunnar",SWE,Men,67 - 73kg (welterweight),M,Silver
+8877,Helsinki,1952,Wrestling,Wrestling Free.,"GURICS, György",HUN,Men,73 - 79kg (middleweight),M,Bronze
+8878,Helsinki,1952,Wrestling,Wrestling Free.,"TSIMAKURIDZE, David",URS,Men,73 - 79kg (middleweight),M,Gold
+8879,Helsinki,1952,Wrestling,Wrestling Free.,"TAKHTI, Gholam Reza",IRI,Men,73 - 79kg (middleweight),M,Silver
+8880,Helsinki,1952,Wrestling,Wrestling Free.,"ATAN, Adil",TUR,Men,79 - 87kg (light-heavyweight),M,Bronze
+8881,Helsinki,1952,Wrestling,Wrestling Free.,"PALM, Viking",SWE,Men,79 - 87kg (light-heavyweight),M,Gold
+8882,Helsinki,1952,Wrestling,Wrestling Free.,"WITTENBERG, Henry",USA,Men,79 - 87kg (light-heavyweight),M,Silver
+8883,Helsinki,1952,Wrestling,Wrestling Gre-R,"HONKALA, Leo Ilmo",FIN,Men,- 52kg (flyweight),M,Bronze
+8884,Helsinki,1952,Wrestling,Wrestling Gre-R,"GUREVICH, Boris",URS,Men,- 52kg (flyweight),M,Gold
+8885,Helsinki,1952,Wrestling,Wrestling Gre-R,"FABRA, Ignazio",ITA,Men,- 52kg (flyweight),M,Silver
+8886,Helsinki,1952,Wrestling,Wrestling Gre-R,"KOVANEN, Tauno Into",FIN,Men,+ 87kg (super heavyweight),M,Bronze
+8887,Helsinki,1952,Wrestling,Wrestling Gre-R,"KOTKAS, Johannes",URS,Men,+ 87kg (super heavyweight),M,Gold
+8888,Helsinki,1952,Wrestling,Wrestling Gre-R,"RUZICKA, Josef",TCH,Men,+ 87kg (super heavyweight),M,Silver
+8889,Helsinki,1952,Wrestling,Wrestling Gre-R,"TERYAN, Artem",URS,Men,52 - 57kg (bantamweight),M,Bronze
+8890,Helsinki,1952,Wrestling,Wrestling Gre-R,"HODOS, Imre",HUN,Men,52 - 57kg (bantamweight),M,Gold
+8891,Helsinki,1952,Wrestling,Wrestling Gre-R,"CHIHAB, Zakaria",LIB,Men,52 - 57kg (bantamweight),M,Silver
+8892,Helsinki,1952,Wrestling,Wrestling Gre-R,"RASHED, Abdel Aal Ahmed",EGY,Men,57 - 61kg (featherweight),M,Bronze
+8893,Helsinki,1952,Wrestling,Wrestling Gre-R,"PUNKIN, Yakov",URS,Men,57 - 61kg (featherweight),M,Gold
+8894,Helsinki,1952,Wrestling,Wrestling Gre-R,"POLYAK, Imre",HUN,Men,57 - 61kg (featherweight),M,Silver
+8895,Helsinki,1952,Wrestling,Wrestling Gre-R,"ATANASOV, Mikulas",TCH,Men,61 - 67kg (lightweight),M,Bronze
+8896,Helsinki,1952,Wrestling,Wrestling Gre-R,"SAFIN, Chasame",URS,Men,61 - 67kg (lightweight),M,Gold
+8897,Helsinki,1952,Wrestling,Wrestling Gre-R,"FREIJ, Gustav",SWE,Men,61 - 67kg (lightweight),M,Silver
+8898,Helsinki,1952,Wrestling,Wrestling Gre-R,"TAHA, Khalil",LIB,Men,67 - 73kg (welterweight),M,Bronze
+8899,Helsinki,1952,Wrestling,Wrestling Gre-R,"SZILVASI, Miklos",HUN,Men,67 - 73kg (welterweight),M,Gold
+8900,Helsinki,1952,Wrestling,Wrestling Gre-R,"ANDERSSON, Gösta",SWE,Men,67 - 73kg (welterweight),M,Silver
+8901,Helsinki,1952,Wrestling,Wrestling Gre-R,"BELOV, Nikolai",URS,Men,73 - 79kg (middleweight),M,Bronze
+8902,Helsinki,1952,Wrestling,Wrestling Gre-R,"GRÖNBERG, Axel",SWE,Men,73 - 79kg (middleweight),M,Gold
+8903,Helsinki,1952,Wrestling,Wrestling Gre-R,"RAUHALA, Kalervo Juhani",FIN,Men,73 - 79kg (middleweight),M,Silver
+8904,Helsinki,1952,Wrestling,Wrestling Gre-R,"NILSSON, Karl-Erik",SWE,Men,79 - 87kg (light-heavyweight),M,Bronze
+8905,Helsinki,1952,Wrestling,Wrestling Gre-R,"GRÖNDAHL, Kelpo Olavi",FIN,Men,79 - 87kg (light-heavyweight),M,Gold
+8906,Helsinki,1952,Wrestling,Wrestling Gre-R,"CHIKHLADZE, Shalva",URS,Men,79 - 87kg (light-heavyweight),M,Silver

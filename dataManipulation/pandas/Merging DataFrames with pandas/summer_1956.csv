@@ -1,0 +1,886 @@
+,City,Edition,Sport,Discipline,Athlete,NOC,Gender,Event,Event_gender,Medal
+8907,Melbourne / Stockholm,1956,Aquatics,Diving,"CONNER, Richard Carroll",USA,Men,10m platform,M,Bronze
+8908,Melbourne / Stockholm,1956,Aquatics,Diving,"CAPILLA PEREZ, Joaquin",MEX,Men,10m platform,M,Gold
+8909,Melbourne / Stockholm,1956,Aquatics,Diving,"TOBIAN, Gary Milburn",USA,Men,10m platform,M,Silver
+8910,Melbourne / Stockholm,1956,Aquatics,Diving,"MYERS-POPE, Paula Jean",USA,Women,10m platform,W,Bronze
+8911,Melbourne / Stockholm,1956,Aquatics,Diving,"MCCORMICK, Patricia",USA,Women,10m platform,W,Gold
+8912,Melbourne / Stockholm,1956,Aquatics,Diving,"STOVER-IRWIN, Juno Roslays",USA,Women,10m platform,W,Silver
+8913,Melbourne / Stockholm,1956,Aquatics,Diving,"CAPILLA PEREZ, Joaquin",MEX,Men,3m springboard,M,Bronze
+8914,Melbourne / Stockholm,1956,Aquatics,Diving,"CLOTWORTHY, Robert Lynn",USA,Men,3m springboard,M,Gold
+8915,Melbourne / Stockholm,1956,Aquatics,Diving,"HARPER, Donald De Wayne",USA,Men,3m springboard,M,Silver
+8916,Melbourne / Stockholm,1956,Aquatics,Diving,"MAC DONALD, Irene Margaret",CAN,Women,3m springboard,W,Bronze
+8917,Melbourne / Stockholm,1956,Aquatics,Diving,"MCCORMICK, Patricia",USA,Women,3m springboard,W,Gold
+8918,Melbourne / Stockholm,1956,Aquatics,Diving,"STUNYO, Jeanne Georgetta",USA,Women,3m springboard,W,Silver
+8919,Melbourne / Stockholm,1956,Aquatics,Swimming,"MCKINNEY, Frank Edward Jr.",USA,Men,100m backstroke,M,Bronze
+8920,Melbourne / Stockholm,1956,Aquatics,Swimming,"THEILE, David Egmont",AUS,Men,100m backstroke,M,Gold
+8921,Melbourne / Stockholm,1956,Aquatics,Swimming,"MONCKTON, John James",AUS,Men,100m backstroke,M,Silver
+8922,Melbourne / Stockholm,1956,Aquatics,Swimming,"EDWARDS, Margaret",GBR,Women,100m backstroke,W,Bronze
+8923,Melbourne / Stockholm,1956,Aquatics,Swimming,"GRINHAM, Judith Brenda",GBR,Women,100m backstroke,W,Gold
+8924,Melbourne / Stockholm,1956,Aquatics,Swimming,"CONE, Carin Alice",USA,Women,100m backstroke,W,Silver
+8925,Melbourne / Stockholm,1956,Aquatics,Swimming,"SEARS, Mary Jane",USA,Women,100m butterfly,W,Bronze
+8926,Melbourne / Stockholm,1956,Aquatics,Swimming,"MANN, Shelley Isabel",USA,Women,100m butterfly,W,Gold
+8927,Melbourne / Stockholm,1956,Aquatics,Swimming,"RAMEY, Nancy Jane",USA,Women,100m butterfly,W,Silver
+8928,Melbourne / Stockholm,1956,Aquatics,Swimming,"CHAPMAN, Gary",AUS,Men,100m freestyle,M,Bronze
+8929,Melbourne / Stockholm,1956,Aquatics,Swimming,"HENRICKS, Jon Malcolm",AUS,Men,100m freestyle,M,Gold
+8930,Melbourne / Stockholm,1956,Aquatics,Swimming,"DEVITT, John",AUS,Men,100m freestyle,M,Silver
+8931,Melbourne / Stockholm,1956,Aquatics,Swimming,"LEECH, Faith Yvonne",AUS,Women,100m freestyle,W,Bronze
+8932,Melbourne / Stockholm,1956,Aquatics,Swimming,"FRASER, Dawn",AUS,Women,100m freestyle,W,Gold
+8933,Melbourne / Stockholm,1956,Aquatics,Swimming,"CRAPP, Lorraine Joyce",AUS,Women,100m freestyle,W,Silver
+8934,Melbourne / Stockholm,1956,Aquatics,Swimming,"BREEN, George Thomas",USA,Men,1500m freestyle,M,Bronze
+8935,Melbourne / Stockholm,1956,Aquatics,Swimming,"ROSE, Murray",AUS,Men,1500m freestyle,M,Gold
+8936,Melbourne / Stockholm,1956,Aquatics,Swimming,"YAMANAKA, Tsuyoshi",JPN,Men,1500m freestyle,M,Silver
+8937,Melbourne / Stockholm,1956,Aquatics,Swimming,"YUNICHEV, Kharis",URS,Men,200m breaststroke,M,Bronze
+8938,Melbourne / Stockholm,1956,Aquatics,Swimming,"FURUKAWA, Masaru",JPN,Men,200m breaststroke,M,Gold
+8939,Melbourne / Stockholm,1956,Aquatics,Swimming,"YOSHIMURA, Masahiro",JPN,Men,200m breaststroke,M,Silver
+8940,Melbourne / Stockholm,1956,Aquatics,Swimming,"TEN ELSEN, Eva-Maria",EUA,Women,200m breaststroke,W,Bronze
+8941,Melbourne / Stockholm,1956,Aquatics,Swimming,"HAPPE-KREY, Ursula",EUA,Women,200m breaststroke,W,Gold
+8942,Melbourne / Stockholm,1956,Aquatics,Swimming,"SZEKELY, Eva",HUN,Women,200m breaststroke,W,Silver
+8943,Melbourne / Stockholm,1956,Aquatics,Swimming,"TUMPEK, György",HUN,Men,200m butterfly,M,Bronze
+8944,Melbourne / Stockholm,1956,Aquatics,Swimming,"YORZYK, William Albert Jr.",USA,Men,200m butterfly,M,Gold
+8945,Melbourne / Stockholm,1956,Aquatics,Swimming,"ISHIMOTO, Takashi",JPN,Men,200m butterfly,M,Silver
+8946,Melbourne / Stockholm,1956,Aquatics,Swimming,"BREEN, George Thomas",USA,Men,400m freestyle,M,Bronze
+8947,Melbourne / Stockholm,1956,Aquatics,Swimming,"ROSE, Murray",AUS,Men,400m freestyle,M,Gold
+8948,Melbourne / Stockholm,1956,Aquatics,Swimming,"YAMANAKA, Tsuyoshi",JPN,Men,400m freestyle,M,Silver
+8949,Melbourne / Stockholm,1956,Aquatics,Swimming,"RUUSKA, Sylvia Eliina",USA,Women,400m freestyle,W,Bronze
+8950,Melbourne / Stockholm,1956,Aquatics,Swimming,"CRAPP, Lorraine Joyce",AUS,Women,400m freestyle,W,Gold
+8951,Melbourne / Stockholm,1956,Aquatics,Swimming,"FRASER, Dawn",AUS,Women,400m freestyle,W,Silver
+8952,Melbourne / Stockholm,1956,Aquatics,Swimming,"ABERNETHY, Moira",RSA,Women,4x100m freestyle relay,W,Bronze
+8953,Melbourne / Stockholm,1956,Aquatics,Swimming,"MYBURGH, Jeanette Evelyn",RSA,Women,4x100m freestyle relay,W,Bronze
+8954,Melbourne / Stockholm,1956,Aquatics,Swimming,"MYBURGH, Natalie Ann",RSA,Women,4x100m freestyle relay,W,Bronze
+8955,Melbourne / Stockholm,1956,Aquatics,Swimming,"ROBERTS, Susan Elizabeth",RSA,Women,4x100m freestyle relay,W,Bronze
+8956,Melbourne / Stockholm,1956,Aquatics,Swimming,"CRAPP, Lorraine Joyce",AUS,Women,4x100m freestyle relay,W,Gold
+8957,Melbourne / Stockholm,1956,Aquatics,Swimming,"FRASER, Dawn",AUS,Women,4x100m freestyle relay,W,Gold
+8958,Melbourne / Stockholm,1956,Aquatics,Swimming,"LEECH, Faith Yvonne",AUS,Women,4x100m freestyle relay,W,Gold
+8959,Melbourne / Stockholm,1956,Aquatics,Swimming,"MORGAN, Sandra Anne",AUS,Women,4x100m freestyle relay,W,Gold
+8960,Melbourne / Stockholm,1956,Aquatics,Swimming,"ALDERSON-ROSAZZA, Joan Ann",USA,Women,4x100m freestyle relay,W,Silver
+8961,Melbourne / Stockholm,1956,Aquatics,Swimming,"MANN, Shelley Isabel",USA,Women,4x100m freestyle relay,W,Silver
+8962,Melbourne / Stockholm,1956,Aquatics,Swimming,"RUUSKA, Sylvia Eliina",USA,Women,4x100m freestyle relay,W,Silver
+8963,Melbourne / Stockholm,1956,Aquatics,Swimming,"SIMONS, Nancy Joan",USA,Women,4x100m freestyle relay,W,Silver
+8964,Melbourne / Stockholm,1956,Aquatics,Swimming,"NIKITIN, Boris",URS,Men,4x200m freestyle relay,M,Bronze
+8965,Melbourne / Stockholm,1956,Aquatics,Swimming,"NIKOLAEV, Gennadi",URS,Men,4x200m freestyle relay,M,Bronze
+8966,Melbourne / Stockholm,1956,Aquatics,Swimming,"SOROKIN, Vitali",URS,Men,4x200m freestyle relay,M,Bronze
+8967,Melbourne / Stockholm,1956,Aquatics,Swimming,"STRUZHANOV, Vladimir",URS,Men,4x200m freestyle relay,M,Bronze
+8968,Melbourne / Stockholm,1956,Aquatics,Swimming,"DEVITT, John",AUS,Men,4x200m freestyle relay,M,Gold
+8969,Melbourne / Stockholm,1956,Aquatics,Swimming,"HENRICKS, Jon Malcolm",AUS,Men,4x200m freestyle relay,M,Gold
+8970,Melbourne / Stockholm,1956,Aquatics,Swimming,"O'HALLORAN, Kevin",AUS,Men,4x200m freestyle relay,M,Gold
+8971,Melbourne / Stockholm,1956,Aquatics,Swimming,"ROSE, Murray",AUS,Men,4x200m freestyle relay,M,Gold
+8972,Melbourne / Stockholm,1956,Aquatics,Swimming,"BREEN, George Thomas",USA,Men,4x200m freestyle relay,M,Silver
+8973,Melbourne / Stockholm,1956,Aquatics,Swimming,"HANLEY, Richard Dennis",USA,Men,4x200m freestyle relay,M,Silver
+8974,Melbourne / Stockholm,1956,Aquatics,Swimming,"KONNO, Ford Hiroshi",USA,Men,4x200m freestyle relay,M,Silver
+8975,Melbourne / Stockholm,1956,Aquatics,Swimming,"WOOLSEY, William Tripp",USA,Men,4x200m freestyle relay,M,Silver
+8976,Melbourne / Stockholm,1956,Aquatics,Water polo,"AGEEV, Viktor",URS,Men,water polo,M,Bronze
+8977,Melbourne / Stockholm,1956,Aquatics,Water polo,"BREUS, Pyotr",URS,Men,water polo,M,Bronze
+8978,Melbourne / Stockholm,1956,Aquatics,Water polo,"GOIKHMAN, Boris",URS,Men,water polo,M,Bronze
+8979,Melbourne / Stockholm,1956,Aquatics,Water polo,"GVAKHARIYA, Nodar",URS,Men,water polo,M,Bronze
+8980,Melbourne / Stockholm,1956,Aquatics,Water polo,"KURENNOI, Vyacheslav",URS,Men,water polo,M,Bronze
+8981,Melbourne / Stockholm,1956,Aquatics,Water polo,"MARKAROV, Boris",URS,Men,water polo,M,Bronze
+8982,Melbourne / Stockholm,1956,Aquatics,Water polo,"MSHVENIERADZE, Pyotr",URS,Men,water polo,M,Bronze
+8983,Melbourne / Stockholm,1956,Aquatics,Water polo,"PROKOPOV, Valentin",URS,Men,water polo,M,Bronze
+8984,Melbourne / Stockholm,1956,Aquatics,Water polo,"RYZHAK, Mikhail",URS,Men,water polo,M,Bronze
+8985,Melbourne / Stockholm,1956,Aquatics,Water polo,"SHLYAPIN, Yuri",URS,Men,water polo,M,Bronze
+8986,Melbourne / Stockholm,1956,Aquatics,Water polo,"BOLVARI, Antal",HUN,Men,water polo,M,Gold
+8987,Melbourne / Stockholm,1956,Aquatics,Water polo,"BOROS, Otto",HUN,Men,water polo,M,Gold
+8988,Melbourne / Stockholm,1956,Aquatics,Water polo,"GYARMATI, Dezso",HUN,Men,water polo,M,Gold
+8989,Melbourne / Stockholm,1956,Aquatics,Water polo,"HEVESI, Istvan",HUN,Men,water polo,M,Gold
+8990,Melbourne / Stockholm,1956,Aquatics,Water polo,"JENEI, Laszlo",HUN,Men,water polo,M,Gold
+8991,Melbourne / Stockholm,1956,Aquatics,Water polo,"KANIZSA, Tivadar",HUN,Men,water polo,M,Gold
+8992,Melbourne / Stockholm,1956,Aquatics,Water polo,"KARPATI, György",HUN,Men,water polo,M,Gold
+8993,Melbourne / Stockholm,1956,Aquatics,Water polo,"MARKOVICS, Kalman",HUN,Men,water polo,M,Gold
+8994,Melbourne / Stockholm,1956,Aquatics,Water polo,"MAYER, Mihaly",HUN,Men,water polo,M,Gold
+8995,Melbourne / Stockholm,1956,Aquatics,Water polo,"SZIVOS, Istvan",HUN,Men,water polo,M,Gold
+8996,Melbourne / Stockholm,1956,Aquatics,Water polo,"ZADOR, Ervin",HUN,Men,water polo,M,Gold
+8997,Melbourne / Stockholm,1956,Aquatics,Water polo,"CIPCI, Ivo",YUG,Men,water polo,M,Silver
+8998,Melbourne / Stockholm,1956,Aquatics,Water polo,"FRANJKOVIC, Tomislav",YUG,Men,water polo,M,Silver
+8999,Melbourne / Stockholm,1956,Aquatics,Water polo,"IVKOVIC, Vladimir",YUG,Men,water polo,M,Silver
+9000,Melbourne / Stockholm,1956,Aquatics,Water polo,"JEZIC, Zdravko",YUG,Men,water polo,M,Silver
+9001,Melbourne / Stockholm,1956,Aquatics,Water polo,"KACIC, Horivoje",YUG,Men,water polo,M,Silver
+9002,Melbourne / Stockholm,1956,Aquatics,Water polo,"KOVACIC, Zdravko",YUG,Men,water polo,M,Silver
+9003,Melbourne / Stockholm,1956,Aquatics,Water polo,"RADONIC, Lovro",YUG,Men,water polo,M,Silver
+9004,Melbourne / Stockholm,1956,Aquatics,Water polo,"ZUZEJ, Marjan",YUG,Men,water polo,M,Silver
+9005,Melbourne / Stockholm,1956,Athletics,Athletics,"LAWRENCE, Allan",AUS,Men,10000m,M,Bronze
+9006,Melbourne / Stockholm,1956,Athletics,Athletics,"KUTS, Vladimir",URS,Men,10000m,M,Gold
+9007,Melbourne / Stockholm,1956,Athletics,Athletics,"KOVACS, Jozsef",HUN,Men,10000m,M,Silver
+9008,Melbourne / Stockholm,1956,Athletics,Athletics,"HOGAN, Hector",AUS,Men,100m,M,Bronze
+9009,Melbourne / Stockholm,1956,Athletics,Athletics,"MORROW, Robert Joseph",USA,Men,100m,M,Gold
+9010,Melbourne / Stockholm,1956,Athletics,Athletics,"BAKER, Walter Thane",USA,Men,100m,M,Silver
+9011,Melbourne / Stockholm,1956,Athletics,Athletics,"MATHEWS-O'SHEA, Marlene Judith",AUS,Women,100m,W,Bronze
+9012,Melbourne / Stockholm,1956,Athletics,Athletics,"CUTHBERT, Betty",AUS,Women,100m,W,Gold
+9013,Melbourne / Stockholm,1956,Athletics,Athletics,"STUBNICK, Christa",EUA,Women,100m,W,Silver
+9014,Melbourne / Stockholm,1956,Athletics,Athletics,"SHANKLE, Joel",USA,Men,110m hurdles,M,Bronze
+9015,Melbourne / Stockholm,1956,Athletics,Athletics,"CALHOUN, Lee",USA,Men,110m hurdles,M,Gold
+9016,Melbourne / Stockholm,1956,Athletics,Athletics,"DAVIS, Jack",USA,Men,110m hurdles,M,Silver
+9017,Melbourne / Stockholm,1956,Athletics,Athletics,"LANDY, John",AUS,Men,1500m,M,Bronze
+9018,Melbourne / Stockholm,1956,Athletics,Athletics,"DELANY, Ronald Michael",IRL,Men,1500m,M,Gold
+9019,Melbourne / Stockholm,1956,Athletics,Athletics,"RICHTZENHAIN, Klaus",EUA,Men,1500m,M,Silver
+9020,Melbourne / Stockholm,1956,Athletics,Athletics,"BAKER, Walter Thane",USA,Men,200m,M,Bronze
+9021,Melbourne / Stockholm,1956,Athletics,Athletics,"MORROW, Robert Joseph",USA,Men,200m,M,Gold
+9022,Melbourne / Stockholm,1956,Athletics,Athletics,"STANFIELD, Andrew William",USA,Men,200m,M,Silver
+9023,Melbourne / Stockholm,1956,Athletics,Athletics,"MATHEWS-O'SHEA, Marlene Judith",AUS,Women,200m,W,Bronze
+9024,Melbourne / Stockholm,1956,Athletics,Athletics,"CUTHBERT, Betty",AUS,Women,200m,W,Gold
+9025,Melbourne / Stockholm,1956,Athletics,Athletics,"STUBNICK, Christa",EUA,Women,200m,W,Silver
+9026,Melbourne / Stockholm,1956,Athletics,Athletics,"JUNK, Bruno",URS,Men,20km walk,M,Bronze
+9027,Melbourne / Stockholm,1956,Athletics,Athletics,"SPIRIN, Leonid",URS,Men,20km walk,M,Gold
+9028,Melbourne / Stockholm,1956,Athletics,Athletics,"MIKENAS, Antanas",URS,Men,20km walk,M,Silver
+9029,Melbourne / Stockholm,1956,Athletics,Athletics,"LARSEN, Ernst",NOR,Men,3000m steeplechase,M,Bronze
+9030,Melbourne / Stockholm,1956,Athletics,Athletics,"BRASHER, Christopher William",GBR,Men,3000m steeplechase,M,Gold
+9031,Melbourne / Stockholm,1956,Athletics,Athletics,"ROZSNYOI, Sandor",HUN,Men,3000m steeplechase,M,Silver
+9032,Melbourne / Stockholm,1956,Athletics,Athletics,"HELLSTEN, Voitto Valdemar",FIN,Men,400m,M,Bronze
+9033,Melbourne / Stockholm,1956,Athletics,Athletics,"IGNATYEV, Ardalion",URS,Men,400m,M,Bronze
+9034,Melbourne / Stockholm,1956,Athletics,Athletics,"JENKINS, Charles Lamont",USA,Men,400m,M,Gold
+9035,Melbourne / Stockholm,1956,Athletics,Athletics,"HAAS, Karl-Friedrich",EUA,Men,400m,M,Silver
+9036,Melbourne / Stockholm,1956,Athletics,Athletics,"CULBREATH, Joshua",USA,Men,400m hurdles,M,Bronze
+9037,Melbourne / Stockholm,1956,Athletics,Athletics,"DAVIS, Glenn Ashby",USA,Men,400m hurdles,M,Gold
+9038,Melbourne / Stockholm,1956,Athletics,Athletics,"SOUTHERN, Silas Edward",USA,Men,400m hurdles,M,Silver
+9039,Melbourne / Stockholm,1956,Athletics,Athletics,"FÜTTERER, Heinz",EUA,Men,4x100m relay,M,Bronze
+9040,Melbourne / Stockholm,1956,Athletics,Athletics,"GERMAR, Manfred",EUA,Men,4x100m relay,M,Bronze
+9041,Melbourne / Stockholm,1956,Athletics,Athletics,"KNÖRZER, Lothar",EUA,Men,4x100m relay,M,Bronze
+9042,Melbourne / Stockholm,1956,Athletics,Athletics,"POHL, Leonard (Leo)",EUA,Men,4x100m relay,M,Bronze
+9043,Melbourne / Stockholm,1956,Athletics,Athletics,"BAKER, Walter Thane",USA,Men,4x100m relay,M,Gold
+9044,Melbourne / Stockholm,1956,Athletics,Athletics,"KING, Leamon",USA,Men,4x100m relay,M,Gold
+9045,Melbourne / Stockholm,1956,Athletics,Athletics,"MORROW, Robert Joseph",USA,Men,4x100m relay,M,Gold
+9046,Melbourne / Stockholm,1956,Athletics,Athletics,"MURCHISON, Ira James",USA,Men,4x100m relay,M,Gold
+9047,Melbourne / Stockholm,1956,Athletics,Athletics,"BARTENEV, Leonid",URS,Men,4x100m relay,M,Silver
+9048,Melbourne / Stockholm,1956,Athletics,Athletics,"KONOVALOV, Yuri",URS,Men,4x100m relay,M,Silver
+9049,Melbourne / Stockholm,1956,Athletics,Athletics,"SUKHAREV, Vladimir",URS,Men,4x100m relay,M,Silver
+9050,Melbourne / Stockholm,1956,Athletics,Athletics,"TOKAREV, Boris",URS,Men,4x100m relay,M,Silver
+9051,Melbourne / Stockholm,1956,Athletics,Athletics,"DANIELS, Isabelle Francis",USA,Women,4x100m relay,W,Bronze
+9052,Melbourne / Stockholm,1956,Athletics,Athletics,"FAGGS, Mae Heriwentha",USA,Women,4x100m relay,W,Bronze
+9053,Melbourne / Stockholm,1956,Athletics,Athletics,"MATTHEWS, Margaret Rejean",USA,Women,4x100m relay,W,Bronze
+9054,Melbourne / Stockholm,1956,Athletics,Athletics,"RUDOLPH, Wilma",USA,Women,4x100m relay,W,Bronze
+9055,Melbourne / Stockholm,1956,Athletics,Athletics,"CROOKER-FLEMING, Norma Wilson",AUS,Women,4x100m relay,W,Gold
+9056,Melbourne / Stockholm,1956,Athletics,Athletics,"CUTHBERT, Betty",AUS,Women,4x100m relay,W,Gold
+9057,Melbourne / Stockholm,1956,Athletics,Athletics,"MELLOR-WENHAM, Fluer Northey",AUS,Women,4x100m relay,W,Gold
+9058,Melbourne / Stockholm,1956,Athletics,Athletics,"STRICKLAND-DE LA HUNTY, Shirley",AUS,Women,4x100m relay,W,Gold
+9059,Melbourne / Stockholm,1956,Athletics,Athletics,"ARMITAGE, Heather Joy",GBR,Women,4x100m relay,W,Silver
+9060,Melbourne / Stockholm,1956,Athletics,Athletics,"FOULDS-PAUL, June Florence",GBR,Women,4x100m relay,W,Silver
+9061,Melbourne / Stockholm,1956,Athletics,Athletics,"PASHLEY, Anne",GBR,Women,4x100m relay,W,Silver
+9062,Melbourne / Stockholm,1956,Athletics,Athletics,"SCRIVENS, Jean Eileen",GBR,Women,4x100m relay,W,Silver
+9063,Melbourne / Stockholm,1956,Athletics,Athletics,"HIGGINS, Francis Peter",GBR,Men,4x400m relay,M,Bronze
+9064,Melbourne / Stockholm,1956,Athletics,Athletics,"JOHNSON, Derek James Neville",GBR,Men,4x400m relay,M,Bronze
+9065,Melbourne / Stockholm,1956,Athletics,Athletics,"SALISBURY, John Edward",GBR,Men,4x400m relay,M,Bronze
+9066,Melbourne / Stockholm,1956,Athletics,Athletics,"WHEELER, Michael Keith Valentine",GBR,Men,4x400m relay,M,Bronze
+9067,Melbourne / Stockholm,1956,Athletics,Athletics,"COURTNEY, Thomas William",USA,Men,4x400m relay,M,Gold
+9068,Melbourne / Stockholm,1956,Athletics,Athletics,"JENKINS, Charles Lamont",USA,Men,4x400m relay,M,Gold
+9069,Melbourne / Stockholm,1956,Athletics,Athletics,"JONES, Louis Woodard III",USA,Men,4x400m relay,M,Gold
+9070,Melbourne / Stockholm,1956,Athletics,Athletics,"MASHBURN, Jesse William",USA,Men,4x400m relay,M,Gold
+9071,Melbourne / Stockholm,1956,Athletics,Athletics,"GIPSON, Graham Chater",AUS,Men,4x400m relay,M,Silver
+9072,Melbourne / Stockholm,1956,Athletics,Athletics,"GOSPER, Richard Kevan",AUS,Men,4x400m relay,M,Silver
+9073,Melbourne / Stockholm,1956,Athletics,Athletics,"GREGORY, Leonard Stuart",AUS,Men,4x400m relay,M,Silver
+9074,Melbourne / Stockholm,1956,Athletics,Athletics,"LEAN, David Francis",AUS,Men,4x400m relay,M,Silver
+9075,Melbourne / Stockholm,1956,Athletics,Athletics,"IBBOTSON, George Derek",GBR,Men,5000m,M,Bronze
+9076,Melbourne / Stockholm,1956,Athletics,Athletics,"KUTS, Vladimir",URS,Men,5000m,M,Gold
+9077,Melbourne / Stockholm,1956,Athletics,Athletics,"PIRIE, Douglas A.Gordon",GBR,Men,5000m,M,Silver
+9078,Melbourne / Stockholm,1956,Athletics,Athletics,"LJUNGGREN, John Artur",SWE,Men,50km walk,M,Bronze
+9079,Melbourne / Stockholm,1956,Athletics,Athletics,"READ, Norman Richard",NZL,Men,50km walk,M,Gold
+9080,Melbourne / Stockholm,1956,Athletics,Athletics,"MASKINSKOV, Yevgeni",URS,Men,50km walk,M,Silver
+9081,Melbourne / Stockholm,1956,Athletics,Athletics,"BOYSEN, Audun",NOR,Men,800m,M,Bronze
+9082,Melbourne / Stockholm,1956,Athletics,Athletics,"COURTNEY, Thomas William",USA,Men,800m,M,Gold
+9083,Melbourne / Stockholm,1956,Athletics,Athletics,"JOHNSON, Derek James Neville",GBR,Men,800m,M,Silver
+9084,Melbourne / Stockholm,1956,Athletics,Athletics,"THROWER-AUSTIN, Norma Claire",AUS,Women,80m hurdles,W,Bronze
+9085,Melbourne / Stockholm,1956,Athletics,Athletics,"STRICKLAND-DE LA HUNTY, Shirley",AUS,Women,80m hurdles,W,Gold
+9086,Melbourne / Stockholm,1956,Athletics,Athletics,"KÖHLER-BIRKEMEYER, Gisela",EUA,Women,80m hurdles,W,Silver
+9087,Melbourne / Stockholm,1956,Athletics,Athletics,"KUZNETSOV, Vasili",URS,Men,decathlon,M,Bronze
+9088,Melbourne / Stockholm,1956,Athletics,Athletics,"CAMPBELL, Milton Gray",USA,Men,decathlon,M,Gold
+9089,Melbourne / Stockholm,1956,Athletics,Athletics,"JOHNSON, Rafer Lewis",USA,Men,decathlon,M,Silver
+9090,Melbourne / Stockholm,1956,Athletics,Athletics,"KOCH, Desmond Dalworth",USA,Men,discus throw,M,Bronze
+9091,Melbourne / Stockholm,1956,Athletics,Athletics,"OERTER, Alfred",USA,Men,discus throw,M,Gold
+9092,Melbourne / Stockholm,1956,Athletics,Athletics,"GORDIEN, Fortune Edward",USA,Men,discus throw,M,Silver
+9093,Melbourne / Stockholm,1956,Athletics,Athletics,"ROMASHKOVA-PONOMAREVA, Nina",URS,Women,discus throw,W,Bronze
+9094,Melbourne / Stockholm,1956,Athletics,Athletics,"FIKOTOVA-CONNOLLY, Olga",TCH,Women,discus throw,W,Gold
+9095,Melbourne / Stockholm,1956,Athletics,Athletics,"BEGLYAKOVA, Irina",URS,Women,discus throw,W,Silver
+9096,Melbourne / Stockholm,1956,Athletics,Athletics,"SAMOTSVETOV, Anatoli",URS,Men,hammer throw,M,Bronze
+9097,Melbourne / Stockholm,1956,Athletics,Athletics,"CONNOLLY, Harold Vincent",USA,Men,hammer throw,M,Gold
+9098,Melbourne / Stockholm,1956,Athletics,Athletics,"KRIVONOSOV, Mikhail",URS,Men,hammer throw,M,Silver
+9099,Melbourne / Stockholm,1956,Athletics,Athletics,"KASHKAROV, Igor",URS,Men,high jump,M,Bronze
+9100,Melbourne / Stockholm,1956,Athletics,Athletics,"DUMAS, Charles Everett",USA,Men,high jump,M,Gold
+9101,Melbourne / Stockholm,1956,Athletics,Athletics,"PORTER, Charles Michael",AUS,Men,high jump,M,Silver
+9102,Melbourne / Stockholm,1956,Athletics,Athletics,"MCDANIEL, Mildred Louise",USA,Women,high jump,W,Gold
+9103,Melbourne / Stockholm,1956,Athletics,Athletics,"HOPKINS, Thelma Elizabeth",GBR,Women,high jump,W,Silver
+9104,Melbourne / Stockholm,1956,Athletics,Athletics,"PISSAREVA, Mariya",URS,Women,high jump,W,Silver
+9105,Melbourne / Stockholm,1956,Athletics,Athletics,"TSYBULENKO, Viktor",URS,Men,javelin throw,M,Bronze
+9106,Melbourne / Stockholm,1956,Athletics,Athletics,"DANIELSEN, Egil",NOR,Men,javelin throw,M,Gold
+9107,Melbourne / Stockholm,1956,Athletics,Athletics,"SIDLO, Janusz",POL,Men,javelin throw,M,Silver
+9108,Melbourne / Stockholm,1956,Athletics,Athletics,"KONYAEVA, Nadezhda",URS,Women,javelin throw,W,Bronze
+9109,Melbourne / Stockholm,1956,Athletics,Athletics,"YAUNZEME, Inese",URS,Women,javelin throw,W,Gold
+9110,Melbourne / Stockholm,1956,Athletics,Athletics,"AHRENS, Marlene",CHI,Women,javelin throw,W,Silver
+9111,Melbourne / Stockholm,1956,Athletics,Athletics,"VALKAMA, Jorma Rainer",FIN,Men,long jump,M,Bronze
+9112,Melbourne / Stockholm,1956,Athletics,Athletics,"BELL, Gregory Curtis",USA,Men,long jump,M,Gold
+9113,Melbourne / Stockholm,1956,Athletics,Athletics,"BENNETT, John Dale",USA,Men,long jump,M,Silver
+9114,Melbourne / Stockholm,1956,Athletics,Athletics,"KHNYKINA-DVALISHVILI, Nadezhda",URS,Women,long jump,W,Bronze
+9115,Melbourne / Stockholm,1956,Athletics,Athletics,"DUNSKA-KRZESINSKA, Elzbieta",POL,Women,long jump,W,Gold
+9116,Melbourne / Stockholm,1956,Athletics,Athletics,"WHITE, Willie B.",USA,Women,long jump,W,Silver
+9117,Melbourne / Stockholm,1956,Athletics,Athletics,"KARVONEN, Veikko Leo",FIN,Men,marathon,M,Bronze
+9118,Melbourne / Stockholm,1956,Athletics,Athletics,"MIMOUN, Alain",FRA,Men,marathon,M,Gold
+9119,Melbourne / Stockholm,1956,Athletics,Athletics,"MIHALIC, Franjo",YUG,Men,marathon,M,Silver
+9120,Melbourne / Stockholm,1956,Athletics,Athletics,"ROUBANIS, Georgios",GRE,Men,pole vault,M,Bronze
+9121,Melbourne / Stockholm,1956,Athletics,Athletics,"RICHARDS, Robert",USA,Men,pole vault,M,Gold
+9122,Melbourne / Stockholm,1956,Athletics,Athletics,"GUTOWSKI, Robert Allen",USA,Men,pole vault,M,Silver
+9123,Melbourne / Stockholm,1956,Athletics,Athletics,"SKOBLA, Jiri",TCH,Men,shot put,M,Bronze
+9124,Melbourne / Stockholm,1956,Athletics,Athletics,"O, William Patrick Jr.",USA,Men,shot put,M,Gold
+9125,Melbourne / Stockholm,1956,Athletics,Athletics,"NIEDER, William Henry",USA,Men,shot put,M,Silver
+9126,Melbourne / Stockholm,1956,Athletics,Athletics,"WERNER-SCHULZE-ENTRUP, Marianne",EUA,Women,shot put,W,Bronze
+9127,Melbourne / Stockholm,1956,Athletics,Athletics,"TYSHKEVICH, Tamara",URS,Women,shot put,W,Gold
+9128,Melbourne / Stockholm,1956,Athletics,Athletics,"ZYBINA, Galina",URS,Women,shot put,W,Silver
+9129,Melbourne / Stockholm,1956,Athletics,Athletics,"KREER, Vitold",URS,Men,triple jump,M,Bronze
+9130,Melbourne / Stockholm,1956,Athletics,Athletics,"FERREIRA DA SILVA, Adhemar",BRA,Men,triple jump,M,Gold
+9131,Melbourne / Stockholm,1956,Athletics,Athletics,"EINARSSON, Vilhjalmur",ISL,Men,triple jump,M,Silver
+9132,Melbourne / Stockholm,1956,Basketball,Basketball,"BLIXEN, Carlos S.",URU,Men,basketball,M,Bronze
+9133,Melbourne / Stockholm,1956,Basketball,Basketball,"CHELLE, Nelson R.",URU,Men,basketball,M,Bronze
+9134,Melbourne / Stockholm,1956,Basketball,Basketball,"CORTES, Ramiro",URU,Men,basketball,M,Bronze
+9135,Melbourne / Stockholm,1956,Basketball,Basketball,"COSTA, Hector J.",URU,Men,basketball,M,Bronze
+9136,Melbourne / Stockholm,1956,Basketball,Basketball,"DEMARCO, Nelson",URU,Men,basketball,M,Bronze
+9137,Melbourne / Stockholm,1956,Basketball,Basketball,"GARCIA OTERO, Hector",URU,Men,basketball,M,Bronze
+9138,Melbourne / Stockholm,1956,Basketball,Basketball,"GONZALEZ, Carlos",URU,Men,basketball,M,Bronze
+9139,Melbourne / Stockholm,1956,Basketball,Basketball,"MATTO, Sergio A.",URU,Men,basketball,M,Bronze
+9140,Melbourne / Stockholm,1956,Basketball,Basketball,"MERA, Raul E.",URU,Men,basketball,M,Bronze
+9141,Melbourne / Stockholm,1956,Basketball,Basketball,"MOGLIA, Oscar",URU,Men,basketball,M,Bronze
+9142,Melbourne / Stockholm,1956,Basketball,Basketball,"OLASCOAGA, Ariel",URU,Men,basketball,M,Bronze
+9143,Melbourne / Stockholm,1956,Basketball,Basketball,"SCARON, Milton A.",URU,Men,basketball,M,Bronze
+9144,Melbourne / Stockholm,1956,Basketball,Basketball,"BOUSHKA, Richard James",USA,Men,basketball,M,Gold
+9145,Melbourne / Stockholm,1956,Basketball,Basketball,"CAIN, Carl Cecil",USA,Men,basketball,M,Gold
+9146,Melbourne / Stockholm,1956,Basketball,Basketball,"DARLING, Charles Frick",USA,Men,basketball,M,Gold
+9147,Melbourne / Stockholm,1956,Basketball,Basketball,"EVANS, William Best",USA,Men,basketball,M,Gold
+9148,Melbourne / Stockholm,1956,Basketball,Basketball,"FORD, Gilbert",USA,Men,basketball,M,Gold
+9149,Melbourne / Stockholm,1956,Basketball,Basketball,"HALDORSSON, Burdette Eliele",USA,Men,basketball,M,Gold
+9150,Melbourne / Stockholm,1956,Basketball,Basketball,"HOUGLAND, William Marion",USA,Men,basketball,M,Gold
+9151,Melbourne / Stockholm,1956,Basketball,Basketball,"JEANGERARD, Robert Eugene",USA,Men,basketball,M,Gold
+9152,Melbourne / Stockholm,1956,Basketball,Basketball,"JONES, Kenneth C.",USA,Men,basketball,M,Gold
+9153,Melbourne / Stockholm,1956,Basketball,Basketball,"RUSSELL, William Fenton",USA,Men,basketball,M,Gold
+9154,Melbourne / Stockholm,1956,Basketball,Basketball,"TOMSIC, Ronald Paul",USA,Men,basketball,M,Gold
+9155,Melbourne / Stockholm,1956,Basketball,Basketball,"WALSH, James Patrick",USA,Men,basketball,M,Gold
+9156,Melbourne / Stockholm,1956,Basketball,Basketball,"BOCHKAREV, Arkadi",URS,Men,basketball,M,Silver
+9157,Melbourne / Stockholm,1956,Basketball,Basketball,"KRUMINS, Yanis",URS,Men,basketball,M,Silver
+9158,Melbourne / Stockholm,1956,Basketball,Basketball,"LAURITENAS, Algirdas",URS,Men,basketball,M,Silver
+9159,Melbourne / Stockholm,1956,Basketball,Basketball,"MUIZHNIEK, Valdis",URS,Men,basketball,M,Silver
+9160,Melbourne / Stockholm,1956,Basketball,Basketball,"OZEROV, Yuri",URS,Men,basketball,M,Silver
+9161,Melbourne / Stockholm,1956,Basketball,Basketball,"PETKYAVICHUS, Kasis",URS,Men,basketball,M,Silver
+9162,Melbourne / Stockholm,1956,Basketball,Basketball,"SEMYONOV, Mikhail",URS,Men,basketball,M,Silver
+9163,Melbourne / Stockholm,1956,Basketball,Basketball,"STONKUS, Stasis",URS,Men,basketball,M,Silver
+9164,Melbourne / Stockholm,1956,Basketball,Basketball,"STUDENETSKY, Mikhail",URS,Men,basketball,M,Silver
+9165,Melbourne / Stockholm,1956,Basketball,Basketball,"TORBAN, Vladimir",URS,Men,basketball,M,Silver
+9166,Melbourne / Stockholm,1956,Basketball,Basketball,"VALDMANIS, Maigonis",URS,Men,basketball,M,Silver
+9167,Melbourne / Stockholm,1956,Basketball,Basketball,"ZUBKOV, Viktor",URS,Men,basketball,M,Silver
+9168,Melbourne / Stockholm,1956,Boxing,Boxing,"CALDWELL, John",IRL,Men,- 51kg (flyweight),M,Bronze
+9169,Melbourne / Stockholm,1956,Boxing,Boxing,"LIBEER, Rene",FRA,Men,- 51kg (flyweight),M,Bronze
+9170,Melbourne / Stockholm,1956,Boxing,Boxing,"SPINKS, Terence George",GBR,Men,- 51kg (flyweight),M,Gold
+9171,Melbourne / Stockholm,1956,Boxing,Boxing,"DOBRESCU, Mircea",ROU,Men,- 51kg (flyweight),M,Silver
+9172,Melbourne / Stockholm,1956,Boxing,Boxing,"BEKKER, Daniel Wepener",RSA,Men,+ 81kg (heavyweight),M,Bronze
+9173,Melbourne / Stockholm,1956,Boxing,Boxing,"BOZZANO, Giacomo",ITA,Men,+ 81kg (heavyweight),M,Bronze
+9174,Melbourne / Stockholm,1956,Boxing,Boxing,"RADEMACHER, Thomas Peter",USA,Men,+ 81kg (heavyweight),M,Gold
+9175,Melbourne / Stockholm,1956,Boxing,Boxing,"MUKHIN, Lev",URS,Men,+ 81kg (heavyweight),M,Silver
+9176,Melbourne / Stockholm,1956,Boxing,Boxing,"BARRIENTOS, Claudio",CHI,Men,51 - 54kg (bantamweight),M,Bronze
+9177,Melbourne / Stockholm,1956,Boxing,Boxing,"GILROY, Frederick",IRL,Men,51 - 54kg (bantamweight),M,Bronze
+9178,Melbourne / Stockholm,1956,Boxing,Boxing,"BEHRENDT, Wolfgang",EUA,Men,51 - 54kg (bantamweight),M,Gold
+9179,Melbourne / Stockholm,1956,Boxing,Boxing,"SONG, Soon-Chun",KOR,Men,51 - 54kg (bantamweight),M,Silver
+9180,Melbourne / Stockholm,1956,Boxing,Boxing,"HÄMÄLÄINEN, Pentti Olavi",FIN,Men,54 - 57kg (featherweight),M,Bronze
+9181,Melbourne / Stockholm,1956,Boxing,Boxing,"NIEDZWIEDZKI, Henryk",POL,Men,54 - 57kg (featherweight),M,Bronze
+9182,Melbourne / Stockholm,1956,Boxing,Boxing,"SAFRONOV, Vladimir",URS,Men,54 - 57kg (featherweight),M,Gold
+9183,Melbourne / Stockholm,1956,Boxing,Boxing,"NICHOLLS, Thomas G.",GBR,Men,54 - 57kg (featherweight),M,Silver
+9184,Melbourne / Stockholm,1956,Boxing,Boxing,"BYRNE, Anthony",IRL,Men,57 - 60kg (lightweight),M,Bronze
+9185,Melbourne / Stockholm,1956,Boxing,Boxing,"LAGETKO, Anatoli",URS,Men,57 - 60kg (lightweight),M,Bronze
+9186,Melbourne / Stockholm,1956,Boxing,Boxing,"MCTAGGART, Richard",GBR,Men,57 - 60kg (lightweight),M,Gold
+9187,Melbourne / Stockholm,1956,Boxing,Boxing,"KURSCHAT, Harry",EUA,Men,57 - 60kg (lightweight),M,Silver
+9188,Melbourne / Stockholm,1956,Boxing,Boxing,"DUMITRESCU, Constantin",ROU,Men,60 - 63.5kg (light-welterweight),M,Bronze
+9189,Melbourne / Stockholm,1956,Boxing,Boxing,"LOUBSCHER, Henry James",RSA,Men,60 - 63.5kg (light-welterweight),M,Bronze
+9190,Melbourne / Stockholm,1956,Boxing,Boxing,"ENGIBARYAN, Vladimir",URS,Men,60 - 63.5kg (light-welterweight),M,Gold
+9191,Melbourne / Stockholm,1956,Boxing,Boxing,"NENCI, Franco",ITA,Men,60 - 63.5kg (light-welterweight),M,Silver
+9192,Melbourne / Stockholm,1956,Boxing,Boxing,"GARGANO, Nicholas",GBR,Men,63.5 - 67kg (welterweight),M,Bronze
+9193,Melbourne / Stockholm,1956,Boxing,Boxing,"HOGARTH, Kevin John",AUS,Men,63.5 - 67kg (welterweight),M,Bronze
+9194,Melbourne / Stockholm,1956,Boxing,Boxing,"LINCA, Nicolae",ROU,Men,63.5 - 67kg (welterweight),M,Gold
+9195,Melbourne / Stockholm,1956,Boxing,Boxing,"TIEDT, Fred",IRL,Men,63.5 - 67kg (welterweight),M,Silver
+9196,Melbourne / Stockholm,1956,Boxing,Boxing,"MCCORMACK, John",GBR,Men,67 - 71kg (light-middleweight),M,Bronze
+9197,Melbourne / Stockholm,1956,Boxing,Boxing,"PIETRZYKOWSKI, Zbigniew",POL,Men,67 - 71kg (light-middleweight),M,Bronze
+9198,Melbourne / Stockholm,1956,Boxing,Boxing,"PAPP, Laszlo",HUN,Men,67 - 71kg (light-middleweight),M,Gold
+9199,Melbourne / Stockholm,1956,Boxing,Boxing,"TORRES, Jose Louis Chegui",USA,Men,67 - 71kg (light-middleweight),M,Silver
+9200,Melbourne / Stockholm,1956,Boxing,Boxing,"CHAPRON, Gilbert",FRA,Men,71-75kg,M,Bronze
+9201,Melbourne / Stockholm,1956,Boxing,Boxing,"ZALAZAR, Victor",ARG,Men,71-75kg,M,Bronze
+9202,Melbourne / Stockholm,1956,Boxing,Boxing,"SHATKOV, Gennadi",URS,Men,71-75kg,M,Gold
+9203,Melbourne / Stockholm,1956,Boxing,Boxing,"TAPIA, Ramon",CHI,Men,71-75kg,M,Silver
+9204,Melbourne / Stockholm,1956,Boxing,Boxing,"LUCAS, Carlos",CHI,Men,75 - 81kg (light-heavyweight),M,Bronze
+9205,Melbourne / Stockholm,1956,Boxing,Boxing,"MURAUSKAS, Romualdas",URS,Men,75 - 81kg (light-heavyweight),M,Bronze
+9206,Melbourne / Stockholm,1956,Boxing,Boxing,"BOYD, James Felton",USA,Men,75 - 81kg (light-heavyweight),M,Gold
+9207,Melbourne / Stockholm,1956,Boxing,Boxing,"NEGREA, Gheorghe",ROU,Men,75 - 81kg (light-heavyweight),M,Silver
+9208,Melbourne / Stockholm,1956,Canoe / Kayak,Canoe / Kayak F,"BUKHARIN, Gennady",URS,Men,C-1 10000m,M,Bronze
+9209,Melbourne / Stockholm,1956,Canoe / Kayak,Canoe / Kayak F,"ROTMAN, Leon",ROU,Men,C-1 10000m,M,Gold
+9210,Melbourne / Stockholm,1956,Canoe / Kayak,Canoe / Kayak F,"PARTI, Janos",HUN,Men,C-1 10000m,M,Silver
+9211,Melbourne / Stockholm,1956,Canoe / Kayak,Canoe / Kayak F,"BUKHARIN, Gennady",URS,Men,C-1 1000m (canoe single),M,Bronze
+9212,Melbourne / Stockholm,1956,Canoe / Kayak,Canoe / Kayak F,"ROTMAN, Leon",ROU,Men,C-1 1000m (canoe single),M,Gold
+9213,Melbourne / Stockholm,1956,Canoe / Kayak,Canoe / Kayak F,"HERNEK, Istvan",HUN,Men,C-1 1000m (canoe single),M,Silver
+9214,Melbourne / Stockholm,1956,Canoe / Kayak,Canoe / Kayak F,"FARKAS, Imre",HUN,Men,C-2 10000m,M,Bronze
+9215,Melbourne / Stockholm,1956,Canoe / Kayak,Canoe / Kayak F,"HUNICS, Jozsef",HUN,Men,C-2 10000m,M,Bronze
+9216,Melbourne / Stockholm,1956,Canoe / Kayak,Canoe / Kayak F,"BOTEV, Gratsian",URS,Men,C-2 10000m,M,Gold
+9217,Melbourne / Stockholm,1956,Canoe / Kayak,Canoe / Kayak F,"KHARIN, Pavel",URS,Men,C-2 10000m,M,Gold
+9218,Melbourne / Stockholm,1956,Canoe / Kayak,Canoe / Kayak F,"DRANSART, Georges",FRA,Men,C-2 10000m,M,Silver
+9219,Melbourne / Stockholm,1956,Canoe / Kayak,Canoe / Kayak F,"RENAUD, Marcel",FRA,Men,C-2 10000m,M,Silver
+9220,Melbourne / Stockholm,1956,Canoe / Kayak,Canoe / Kayak F,"MOHACSI, Ferenc",HUN,Men,C-2 1000m (canoe double),M,Bronze
+9221,Melbourne / Stockholm,1956,Canoe / Kayak,Canoe / Kayak F,"WIELAND, Karoly",HUN,Men,C-2 1000m (canoe double),M,Bronze
+9222,Melbourne / Stockholm,1956,Canoe / Kayak,Canoe / Kayak F,"DUMITRU, Alexe",ROU,Men,C-2 1000m (canoe double),M,Gold
+9223,Melbourne / Stockholm,1956,Canoe / Kayak,Canoe / Kayak F,"ISMAILCIUC, Simion",ROU,Men,C-2 1000m (canoe double),M,Gold
+9224,Melbourne / Stockholm,1956,Canoe / Kayak,Canoe / Kayak F,"BOTEV, Gratsian",URS,Men,C-2 1000m (canoe double),M,Silver
+9225,Melbourne / Stockholm,1956,Canoe / Kayak,Canoe / Kayak F,"KHARIN, Pavel",URS,Men,C-2 1000m (canoe double),M,Silver
+9226,Melbourne / Stockholm,1956,Canoe / Kayak,Canoe / Kayak F,"SCHEUER, Michael",EUA,Men,K-1 10000m,M,Bronze
+9227,Melbourne / Stockholm,1956,Canoe / Kayak,Canoe / Kayak F,"FREDRIKSSON, Gert",SWE,Men,K-1 10000m,M,Gold
+9228,Melbourne / Stockholm,1956,Canoe / Kayak,Canoe / Kayak F,"HATLACZKY, Ferenc",HUN,Men,K-1 10000m,M,Silver
+9229,Melbourne / Stockholm,1956,Canoe / Kayak,Canoe / Kayak F,"KISS, Lajos",HUN,Men,K-1 1000m (kayak single),M,Bronze
+9230,Melbourne / Stockholm,1956,Canoe / Kayak,Canoe / Kayak F,"FREDRIKSSON, Gert",SWE,Men,K-1 1000m (kayak single),M,Gold
+9231,Melbourne / Stockholm,1956,Canoe / Kayak,Canoe / Kayak F,"PISSAREV, Igor",URS,Men,K-1 1000m (kayak single),M,Silver
+9232,Melbourne / Stockholm,1956,Canoe / Kayak,Canoe / Kayak F,"SÖBY, Tove Goltermann",DEN,Women,K-1 500m (kayak single),W,Bronze
+9233,Melbourne / Stockholm,1956,Canoe / Kayak,Canoe / Kayak F,"DEMENTYEVA, Elizaveta",URS,Women,K-1 500m (kayak single),W,Gold
+9234,Melbourne / Stockholm,1956,Canoe / Kayak,Canoe / Kayak F,"ZENZ, Therese",EUA,Women,K-1 500m (kayak single),W,Silver
+9235,Melbourne / Stockholm,1956,Canoe / Kayak,Canoe / Kayak F,"BROWN, Walter William",AUS,Men,K-2 10000m,M,Bronze
+9236,Melbourne / Stockholm,1956,Canoe / Kayak,Canoe / Kayak F,"GREEN, Dennis Allan",AUS,Men,K-2 10000m,M,Bronze
+9237,Melbourne / Stockholm,1956,Canoe / Kayak,Canoe / Kayak F,"FABIAN, Laszlo",HUN,Men,K-2 10000m,M,Gold
+9238,Melbourne / Stockholm,1956,Canoe / Kayak,Canoe / Kayak F,"URANYI, Janos",HUN,Men,K-2 10000m,M,Gold
+9239,Melbourne / Stockholm,1956,Canoe / Kayak,Canoe / Kayak F,"BRIEL, Fritz",EUA,Men,K-2 10000m,M,Silver
+9240,Melbourne / Stockholm,1956,Canoe / Kayak,Canoe / Kayak F,"KLEINE, Theodor",EUA,Men,K-2 10000m,M,Silver
+9241,Melbourne / Stockholm,1956,Canoe / Kayak,Canoe / Kayak F,"RAUB, Maximilian",AUT,Men,K-2 1000m (kayak double),M,Bronze
+9242,Melbourne / Stockholm,1956,Canoe / Kayak,Canoe / Kayak F,"WIEDERMANN, Herbert",AUT,Men,K-2 1000m (kayak double),M,Bronze
+9243,Melbourne / Stockholm,1956,Canoe / Kayak,Canoe / Kayak F,"MILTENBERGER, Meinrad",EUA,Men,K-2 1000m (kayak double),M,Gold
+9244,Melbourne / Stockholm,1956,Canoe / Kayak,Canoe / Kayak F,"SCHEUER, Michael",EUA,Men,K-2 1000m (kayak double),M,Gold
+9245,Melbourne / Stockholm,1956,Canoe / Kayak,Canoe / Kayak F,"DEMITKOV, Anatoli",URS,Men,K-2 1000m (kayak double),M,Silver
+9246,Melbourne / Stockholm,1956,Canoe / Kayak,Canoe / Kayak F,"KAALESTE, Mikhail",URS,Men,K-2 1000m (kayak double),M,Silver
+9247,Melbourne / Stockholm,1956,Cycling,Cycling Road,"JACKSON, Alan Wharmby",GBR,Men,individual road race,M,Bronze
+9248,Melbourne / Stockholm,1956,Cycling,Cycling Road,"BALDINI, Ercole",ITA,Men,individual road race,M,Gold
+9249,Melbourne / Stockholm,1956,Cycling,Cycling Road,"GEYRE, Arnaud",FRA,Men,individual road race,M,Silver
+9250,Melbourne / Stockholm,1956,Cycling,Cycling Road,"POMMER, Reinhold Viktor",EUA,Men,team time trial,M,Bronze
+9251,Melbourne / Stockholm,1956,Cycling,Cycling Road,"SCHUR, Gustav-Adolf",EUA,Men,team time trial,M,Bronze
+9252,Melbourne / Stockholm,1956,Cycling,Cycling Road,"TÜLLER, Horst",EUA,Men,team time trial,M,Bronze
+9253,Melbourne / Stockholm,1956,Cycling,Cycling Road,"GEYRE, Arnaud",FRA,Men,team time trial,M,Gold
+9254,Melbourne / Stockholm,1956,Cycling,Cycling Road,"MOUCHERAUD, Maurice",FRA,Men,team time trial,M,Gold
+9255,Melbourne / Stockholm,1956,Cycling,Cycling Road,"VERMEULEN, Michel",FRA,Men,team time trial,M,Gold
+9256,Melbourne / Stockholm,1956,Cycling,Cycling Road,"BRITTAIN, Arthur Stanley",GBR,Men,team time trial,M,Silver
+9257,Melbourne / Stockholm,1956,Cycling,Cycling Road,"HOLMES, William",GBR,Men,team time trial,M,Silver
+9258,Melbourne / Stockholm,1956,Cycling,Cycling Road,"JACKSON, Alan Wharmby",GBR,Men,team time trial,M,Silver
+9259,Melbourne / Stockholm,1956,Cycling,Cycling Track,"SWIFT, Alfred James",RSA,Men,1km time trial,M,Bronze
+9260,Melbourne / Stockholm,1956,Cycling,Cycling Track,"FAGGIN, Leandro",ITA,Men,1km time trial,M,Gold
+9261,Melbourne / Stockholm,1956,Cycling,Cycling Track,"FOUSEK, Ladislav",TCH,Men,1km time trial,M,Silver
+9262,Melbourne / Stockholm,1956,Cycling,Cycling Track,"OGNA, Giuseppe",ITA,Men,2000m tandem,M,Bronze
+9263,Melbourne / Stockholm,1956,Cycling,Cycling Track,"PINARELLO, Cesare",ITA,Men,2000m tandem,M,Bronze
+9264,Melbourne / Stockholm,1956,Cycling,Cycling Track,"BROWNE, Ian Sterry",AUS,Men,2000m tandem,M,Gold
+9265,Melbourne / Stockholm,1956,Cycling,Cycling Track,"MARCHANT, Anthony John",AUS,Men,2000m tandem,M,Gold
+9266,Melbourne / Stockholm,1956,Cycling,Cycling Track,"FOUSEK, Ladislav",TCH,Men,2000m tandem,M,Silver
+9267,Melbourne / Stockholm,1956,Cycling,Cycling Track,"MACHEK, Vaclav",TCH,Men,2000m tandem,M,Silver
+9268,Melbourne / Stockholm,1956,Cycling,Cycling Track,"PLOOG, Richard Francis",AUS,Men,Sprint indivual,M,Bronze
+9269,Melbourne / Stockholm,1956,Cycling,Cycling Track,"ROUSSEAU, Michel",FRA,Men,Sprint indivual,M,Gold
+9270,Melbourne / Stockholm,1956,Cycling,Cycling Track,"PESENTI, Guglielmo",ITA,Men,Sprint indivual,M,Silver
+9271,Melbourne / Stockholm,1956,Cycling,Cycling Track,"BURGESS, Donald Christopher",GBR,Men,Team Pursuit (4000m),M,Bronze
+9272,Melbourne / Stockholm,1956,Cycling,Cycling Track,"GAMBRILL, Michael John",GBR,Men,Team Pursuit (4000m),M,Bronze
+9273,Melbourne / Stockholm,1956,Cycling,Cycling Track,"GEDDES, John Reuben",GBR,Men,Team Pursuit (4000m),M,Bronze
+9274,Melbourne / Stockholm,1956,Cycling,Cycling Track,"SIMPSON, Thomas",GBR,Men,Team Pursuit (4000m),M,Bronze
+9275,Melbourne / Stockholm,1956,Cycling,Cycling Track,"DOMENICALI, Antonio",ITA,Men,Team Pursuit (4000m),M,Gold
+9276,Melbourne / Stockholm,1956,Cycling,Cycling Track,"FAGGIN, Leandro",ITA,Men,Team Pursuit (4000m),M,Gold
+9277,Melbourne / Stockholm,1956,Cycling,Cycling Track,"GANDINI, Franco",ITA,Men,Team Pursuit (4000m),M,Gold
+9278,Melbourne / Stockholm,1956,Cycling,Cycling Track,"GASPARELLA, Valentino",ITA,Men,Team Pursuit (4000m),M,Gold
+9279,Melbourne / Stockholm,1956,Cycling,Cycling Track,"BIANCHI, Rene",FRA,Men,Team Pursuit (4000m),M,Silver
+9280,Melbourne / Stockholm,1956,Cycling,Cycling Track,"GRACZYK, Jean",FRA,Men,Team Pursuit (4000m),M,Silver
+9281,Melbourne / Stockholm,1956,Cycling,Cycling Track,"LECANTE, Jean-Claude",FRA,Men,Team Pursuit (4000m),M,Silver
+9282,Melbourne / Stockholm,1956,Cycling,Cycling Track,"VERMEULEN, Michel",FRA,Men,Team Pursuit (4000m),M,Silver
+9283,Melbourne / Stockholm,1956,Equestrian,Dressage,"SAINT CYR, Henri",SWE,Men,individual,X,Gold
+9284,Melbourne / Stockholm,1956,Equestrian,Dressage,"LINSENHOFF, Liselott",EUA,Women,individual,X,Bronze
+9285,Melbourne / Stockholm,1956,Equestrian,Dressage,"HARTEL, Lis",DEN,Women,individual,X,Silver
+9286,Melbourne / Stockholm,1956,Equestrian,Dressage,JUBILEE,DEN,Women,individual,X,Silver
+9287,Melbourne / Stockholm,1956,Equestrian,Dressage,"CHAMMARTIN, Henri",SUI,Men,team,X,Bronze
+9288,Melbourne / Stockholm,1956,Equestrian,Dressage,"FISCHER, Gustav",SUI,Men,team,X,Bronze
+9289,Melbourne / Stockholm,1956,Equestrian,Dressage,"TRACHSEL, Gottfried",SUI,Men,team,X,Bronze
+9290,Melbourne / Stockholm,1956,Equestrian,Dressage,"BOLTENSTERN JR., Gustaf Adolf",SWE,Men,team,X,Gold
+9291,Melbourne / Stockholm,1956,Equestrian,Dressage,"PERSSON, Gehnäll",SWE,Men,team,X,Gold
+9292,Melbourne / Stockholm,1956,Equestrian,Dressage,"SAINT CYR, Henri",SWE,Men,team,X,Gold
+9293,Melbourne / Stockholm,1956,Equestrian,Dressage,AFRIKA,EUA,Women,team,X,Silver
+9294,Melbourne / Stockholm,1956,Equestrian,Dressage,"KÜPPERS, Anneliese",EUA,Women,team,X,Silver
+9295,Melbourne / Stockholm,1956,Equestrian,Dressage,"LINSENHOFF, Liselott",EUA,Women,team,X,Silver
+9296,Melbourne / Stockholm,1956,Equestrian,Dressage,"WEYGAND, Hannelore",EUA,Women,team,X,Silver
+9297,Melbourne / Stockholm,1956,Equestrian,Eventing,"WELDON, Francis William Charles",GBR,Men,individual,X,Bronze
+9298,Melbourne / Stockholm,1956,Equestrian,Eventing,"KASTENMAN, Petrus",SWE,Men,individual,X,Gold
+9299,Melbourne / Stockholm,1956,Equestrian,Eventing,"LÜTKE WESTHUES, August",EUA,Men,individual,X,Silver
+9300,Melbourne / Stockholm,1956,Equestrian,Eventing,"ELDER, Henry James",CAN,Men,team,X,Bronze
+9301,Melbourne / Stockholm,1956,Equestrian,Eventing,"HERBINSON, Brian",CAN,Men,team,X,Bronze
+9302,Melbourne / Stockholm,1956,Equestrian,Eventing,"RUMBLE, John Mitchell",CAN,Men,team,X,Bronze
+9303,Melbourne / Stockholm,1956,Equestrian,Eventing,"HILL, Albert Edwin",GBR,Men,team,X,Gold
+9304,Melbourne / Stockholm,1956,Equestrian,Eventing,"ROOK, Arthur Laurence",GBR,Men,team,X,Gold
+9305,Melbourne / Stockholm,1956,Equestrian,Eventing,"WELDON, Francis William Charles",GBR,Men,team,X,Gold
+9306,Melbourne / Stockholm,1956,Equestrian,Eventing,"LÜTKE WESTHUES, August",EUA,Men,team,X,Silver
+9307,Melbourne / Stockholm,1956,Equestrian,Eventing,"ROTHE, Otto",EUA,Men,team,X,Silver
+9308,Melbourne / Stockholm,1956,Equestrian,Eventing,"WAGNER, Klaus",EUA,Men,team,X,Silver
+9309,Melbourne / Stockholm,1956,Equestrian,Eventing,PRINZESS,EUA,Women,team,X,Silver
+9310,Melbourne / Stockholm,1956,Equestrian,Eventing,SISSI,EUA,Women,team,X,Silver
+9311,Melbourne / Stockholm,1956,Equestrian,Jumping,"D'INZEO, Piero",ITA,Men,individual,X,Bronze
+9312,Melbourne / Stockholm,1956,Equestrian,Jumping,"WINKLER, Hans Günter",EUA,Men,individual,X,Gold
+9313,Melbourne / Stockholm,1956,Equestrian,Jumping,"D'INZEO, Raimondo",ITA,Men,individual,X,Silver
+9314,Melbourne / Stockholm,1956,Equestrian,Jumping,HALLA,EUA,Women,individual,X,Gold
+9315,Melbourne / Stockholm,1956,Equestrian,Jumping,"ROBESON, Peter David",GBR,Men,team,X,Bronze
+9316,Melbourne / Stockholm,1956,Equestrian,Jumping,"WHITE, Wilfred Harry",GBR,Men,team,X,Bronze
+9317,Melbourne / Stockholm,1956,Equestrian,Jumping,"LUTKE WESTHUES, Alfons",EUA,Men,team,X,Gold
+9318,Melbourne / Stockholm,1956,Equestrian,Jumping,"THIEDEMANN, Fritz",EUA,Men,team,X,Gold
+9319,Melbourne / Stockholm,1956,Equestrian,Jumping,"WINKLER, Hans Günter",EUA,Men,team,X,Gold
+9320,Melbourne / Stockholm,1956,Equestrian,Jumping,"D'INZEO, Piero",ITA,Men,team,X,Silver
+9321,Melbourne / Stockholm,1956,Equestrian,Jumping,"D'INZEO, Raimondo",ITA,Men,team,X,Silver
+9322,Melbourne / Stockholm,1956,Equestrian,Jumping,"OPPES, Salvatore",ITA,Men,team,X,Silver
+9323,Melbourne / Stockholm,1956,Equestrian,Jumping,"SMYTHE, Patricia Rosemary",GBR,Women,team,X,Bronze
+9324,Melbourne / Stockholm,1956,Equestrian,Jumping,ALA,EUA,Women,team,X,Gold
+9325,Melbourne / Stockholm,1956,Equestrian,Jumping,HALLA,EUA,Women,team,X,Gold
+9326,Melbourne / Stockholm,1956,Fencing,Fencing,"MANGIAROTTI, Edoardo",ITA,Men,épée individual,M,Bronze
+9327,Melbourne / Stockholm,1956,Fencing,Fencing,"PAVESI, Carlo",ITA,Men,épée individual,M,Gold
+9328,Melbourne / Stockholm,1956,Fencing,Fencing,"DELFINO, Giuseppe",ITA,Men,épée individual,M,Silver
+9329,Melbourne / Stockholm,1956,Fencing,Fencing,"DAGALLIER, Daniel",FRA,Men,épée team,M,Bronze
+9330,Melbourne / Stockholm,1956,Fencing,Fencing,"DREYFUS, Yves",FRA,Men,épée team,M,Bronze
+9331,Melbourne / Stockholm,1956,Fencing,Fencing,"MOUYAL, Armand",FRA,Men,épée team,M,Bronze
+9332,Melbourne / Stockholm,1956,Fencing,Fencing,"NIGON, Claude",FRA,Men,épée team,M,Bronze
+9333,Melbourne / Stockholm,1956,Fencing,Fencing,"QUEYROUX, Rene",FRA,Men,épée team,M,Bronze
+9334,Melbourne / Stockholm,1956,Fencing,Fencing,"ANGLESIO, Giorgio",ITA,Men,épée team,M,Gold
+9335,Melbourne / Stockholm,1956,Fencing,Fencing,"BERTINETTI, Franco",ITA,Men,épée team,M,Gold
+9336,Melbourne / Stockholm,1956,Fencing,Fencing,"DELFINO, Giuseppe",ITA,Men,épée team,M,Gold
+9337,Melbourne / Stockholm,1956,Fencing,Fencing,"MANGIAROTTI, Edoardo",ITA,Men,épée team,M,Gold
+9338,Melbourne / Stockholm,1956,Fencing,Fencing,"PAVESI, Carlo",ITA,Men,épée team,M,Gold
+9339,Melbourne / Stockholm,1956,Fencing,Fencing,"PELLEGRINO, Alberto",ITA,Men,épée team,M,Gold
+9340,Melbourne / Stockholm,1956,Fencing,Fencing,"BALTHAZAR, Lajos",HUN,Men,épée team,M,Silver
+9341,Melbourne / Stockholm,1956,Fencing,Fencing,"BERZSENYI, Barnabas",HUN,Men,épée team,M,Silver
+9342,Melbourne / Stockholm,1956,Fencing,Fencing,"MAROSI, Jozsef",HUN,Men,épée team,M,Silver
+9343,Melbourne / Stockholm,1956,Fencing,Fencing,"NAGY, Ambrus",HUN,Men,épée team,M,Silver
+9344,Melbourne / Stockholm,1956,Fencing,Fencing,"RERRICH, Bela",HUN,Men,épée team,M,Silver
+9345,Melbourne / Stockholm,1956,Fencing,Fencing,"SAKOVICS, Jozsef",HUN,Men,épée team,M,Silver
+9346,Melbourne / Stockholm,1956,Fencing,Fencing,"SPALLINO, Antonio",ITA,Men,foil individual,M,Bronze
+9347,Melbourne / Stockholm,1956,Fencing,Fencing,"D'ORIOLA, Christian",FRA,Men,foil individual,M,Gold
+9348,Melbourne / Stockholm,1956,Fencing,Fencing,"BERGAMINI, Giancarlo",ITA,Men,foil individual,M,Silver
+9349,Melbourne / Stockholm,1956,Fencing,Fencing,"GARILHE, Renee",FRA,Women,foil individual,W,Bronze
+9350,Melbourne / Stockholm,1956,Fencing,Fencing,"SHEEN, Gillian Mary",GBR,Women,foil individual,W,Gold
+9351,Melbourne / Stockholm,1956,Fencing,Fencing,"ORBAN-SZABO, Olga",ROU,Women,foil individual,W,Silver
+9352,Melbourne / Stockholm,1956,Fencing,Fencing,"FÜLÖP, Mihaly",HUN,Men,foil team,M,Bronze
+9353,Melbourne / Stockholm,1956,Fencing,Fencing,"GYURICZA, Jozsef",HUN,Men,foil team,M,Bronze
+9354,Melbourne / Stockholm,1956,Fencing,Fencing,"MAROSI, Jozsef",HUN,Men,foil team,M,Bronze
+9355,Melbourne / Stockholm,1956,Fencing,Fencing,"SAKOVICS, Jozsef",HUN,Men,foil team,M,Bronze
+9356,Melbourne / Stockholm,1956,Fencing,Fencing,"SOMODI, Lajos",HUN,Men,foil team,M,Bronze
+9357,Melbourne / Stockholm,1956,Fencing,Fencing,"TILLI, Endre",HUN,Men,foil team,M,Bronze
+9358,Melbourne / Stockholm,1956,Fencing,Fencing,"BERGAMINI, Giancarlo",ITA,Men,foil team,M,Gold
+9359,Melbourne / Stockholm,1956,Fencing,Fencing,"CARPANEDA, Luigi Arturo",ITA,Men,foil team,M,Gold
+9360,Melbourne / Stockholm,1956,Fencing,Fencing,"DI ROSA, Manlio",ITA,Men,foil team,M,Gold
+9361,Melbourne / Stockholm,1956,Fencing,Fencing,"LUCARELLI, Vittorio",ITA,Men,foil team,M,Gold
+9362,Melbourne / Stockholm,1956,Fencing,Fencing,"MANGIAROTTI, Edoardo",ITA,Men,foil team,M,Gold
+9363,Melbourne / Stockholm,1956,Fencing,Fencing,"SPALLINO, Antonio",ITA,Men,foil team,M,Gold
+9364,Melbourne / Stockholm,1956,Fencing,Fencing,"BAUDOUX, Bernard",FRA,Men,foil team,M,Silver
+9365,Melbourne / Stockholm,1956,Fencing,Fencing,"CLOSSET, Roger",FRA,Men,foil team,M,Silver
+9366,Melbourne / Stockholm,1956,Fencing,Fencing,"COICAUD, Rene",FRA,Men,foil team,M,Silver
+9367,Melbourne / Stockholm,1956,Fencing,Fencing,"D'ORIOLA, Christian",FRA,Men,foil team,M,Silver
+9368,Melbourne / Stockholm,1956,Fencing,Fencing,"LATASTE, Jacques",FRA,Men,foil team,M,Silver
+9369,Melbourne / Stockholm,1956,Fencing,Fencing,"NETTER, Claude",FRA,Men,foil team,M,Silver
+9370,Melbourne / Stockholm,1956,Fencing,Fencing,"KUZNETSOV, Lev",URS,Men,sabre individual,M,Bronze
+9371,Melbourne / Stockholm,1956,Fencing,Fencing,"KARPATI, Rudolf",HUN,Men,sabre individual,M,Gold
+9372,Melbourne / Stockholm,1956,Fencing,Fencing,"PAWLOWSKI, Jerzy",POL,Men,sabre individual,M,Silver
+9373,Melbourne / Stockholm,1956,Fencing,Fencing,"BOGDANOV, Leonid",URS,Men,sabre team,M,Bronze
+9374,Melbourne / Stockholm,1956,Fencing,Fencing,"CHEREPOVSKY, Yevgeni",URS,Men,sabre team,M,Bronze
+9375,Melbourne / Stockholm,1956,Fencing,Fencing,"KUZNETSOV, Lev",URS,Men,sabre team,M,Bronze
+9376,Melbourne / Stockholm,1956,Fencing,Fencing,"RYLSKY, Yakov",URS,Men,sabre team,M,Bronze
+9377,Melbourne / Stockholm,1956,Fencing,Fencing,"TYSHLER, David",URS,Men,sabre team,M,Bronze
+9378,Melbourne / Stockholm,1956,Fencing,Fencing,"GEREVICH, Aladar",HUN,Men,sabre team,M,Gold
+9379,Melbourne / Stockholm,1956,Fencing,Fencing,"HAMORI, Jenö",HUN,Men,sabre team,M,Gold
+9380,Melbourne / Stockholm,1956,Fencing,Fencing,"KARPATI, Rudolf",HUN,Men,sabre team,M,Gold
+9381,Melbourne / Stockholm,1956,Fencing,Fencing,"KERESZTES, Attila",HUN,Men,sabre team,M,Gold
+9382,Melbourne / Stockholm,1956,Fencing,Fencing,"KOVACS, Pal Adam",HUN,Men,sabre team,M,Gold
+9383,Melbourne / Stockholm,1956,Fencing,Fencing,"MAGAI, Daniel",HUN,Men,sabre team,M,Gold
+9384,Melbourne / Stockholm,1956,Fencing,Fencing,"KUSZEWSKI, Marian Zygmunt",POL,Men,sabre team,M,Silver
+9385,Melbourne / Stockholm,1956,Fencing,Fencing,"PAWLAS, Zygmunt",POL,Men,sabre team,M,Silver
+9386,Melbourne / Stockholm,1956,Fencing,Fencing,"PAWLOWSKI, Jerzy",POL,Men,sabre team,M,Silver
+9387,Melbourne / Stockholm,1956,Fencing,Fencing,"PIATKOWSKI, Andrzej Ryszard",POL,Men,sabre team,M,Silver
+9388,Melbourne / Stockholm,1956,Fencing,Fencing,"ZABLOCKI, Wojciech",POL,Men,sabre team,M,Silver
+9389,Melbourne / Stockholm,1956,Fencing,Fencing,"ZUB, Ryszard",POL,Men,sabre team,M,Silver
+9390,Melbourne / Stockholm,1956,Football,Football,"DIEV, Todor Nedyalkov",BUL,Men,football,M,Bronze
+9391,Melbourne / Stockholm,1956,Football,Football,"KOLEV, Ivan Petkov",BUL,Men,football,M,Bronze
+9392,Melbourne / Stockholm,1956,Football,Football,"KOVATCHEV, Nikolai Dimitrov",BUL,Men,football,M,Bronze
+9393,Melbourne / Stockholm,1956,Football,Football,"MANOLOV, Manol Tomov",BUL,Men,football,M,Bronze
+9394,Melbourne / Stockholm,1956,Football,Football,"NAYDENOV, Georghi Spirov",BUL,Men,football,M,Bronze
+9395,Melbourne / Stockholm,1956,Football,Football,"NIKOLOV, Guergui Dimitrov",BUL,Men,football,M,Bronze
+9396,Melbourne / Stockholm,1956,Football,Football,"NIKOLOV, Miltcho Goranov",BUL,Men,football,M,Bronze
+9397,Melbourne / Stockholm,1956,Football,Football,"PANAYOTOV, Panayot Mitov",BUL,Men,football,M,Bronze
+9398,Melbourne / Stockholm,1956,Football,Football,"RAKAROV, Kirill Manolov",BUL,Men,football,M,Bronze
+9399,Melbourne / Stockholm,1956,Football,Football,"STEFANOV, Stefan Bojilov",BUL,Men,football,M,Bronze
+9400,Melbourne / Stockholm,1956,Football,Football,"STOYANOV, Dimitre Milanov",BUL,Men,football,M,Bronze
+9401,Melbourne / Stockholm,1956,Football,Football,"STOYANOV, Gavril Todorov",BUL,Men,football,M,Bronze
+9402,Melbourne / Stockholm,1956,Football,Football,"YANEV, Kroum Ivanov",BUL,Men,football,M,Bronze
+9403,Melbourne / Stockholm,1956,Football,Football,"YORDANOV, Yordan Yossifov",BUL,Men,football,M,Bronze
+9404,Melbourne / Stockholm,1956,Football,Football,"BASHASHKIN, Anatoli",URS,Men,football,M,Gold
+9405,Melbourne / Stockholm,1956,Football,Football,"BETSA, Iosif",URS,Men,football,M,Gold
+9406,Melbourne / Stockholm,1956,Football,Football,"ILYIN, Anatoli",URS,Men,football,M,Gold
+9407,Melbourne / Stockholm,1956,Football,Football,"ISAEV, Anatoli",URS,Men,football,M,Gold
+9408,Melbourne / Stockholm,1956,Football,Football,"IVANOV, Valentin",URS,Men,football,M,Gold
+9409,Melbourne / Stockholm,1956,Football,Football,"KUZNETSOV, Boris",URS,Men,football,M,Gold
+9410,Melbourne / Stockholm,1956,Football,Football,"MASLENKIN, Anatoli",URS,Men,football,M,Gold
+9411,Melbourne / Stockholm,1956,Football,Football,"NETTO, Igor",URS,Men,football,M,Gold
+9412,Melbourne / Stockholm,1956,Football,Football,"OGONKOV, Mikhail",URS,Men,football,M,Gold
+9413,Melbourne / Stockholm,1956,Football,Football,"PARAMONOV, Aleksei",URS,Men,football,M,Gold
+9414,Melbourne / Stockholm,1956,Football,Football,"RAZINSKY, Boris",URS,Men,football,M,Gold
+9415,Melbourne / Stockholm,1956,Football,Football,"RYZHKIN, Vladimir",URS,Men,football,M,Gold
+9416,Melbourne / Stockholm,1956,Football,Football,"SALNIKOV, Sergei",URS,Men,football,M,Gold
+9417,Melbourne / Stockholm,1956,Football,Football,"SIMONYAN, Nikita",URS,Men,football,M,Gold
+9418,Melbourne / Stockholm,1956,Football,Football,"STRELTSOV, Eduard",URS,Men,football,M,Gold
+9419,Melbourne / Stockholm,1956,Football,Football,"TATUSHIN, Boris",URS,Men,football,M,Gold
+9420,Melbourne / Stockholm,1956,Football,Football,"TISHCHENKO, Nikolai",URS,Men,football,M,Gold
+9421,Melbourne / Stockholm,1956,Football,Football,"YASHIN, Lev",URS,Men,football,M,Gold
+9422,Melbourne / Stockholm,1956,Football,Football,"ANTIC, Sava",YUG,Men,football,M,Silver
+9423,Melbourne / Stockholm,1956,Football,Football,"BIOGRADLIC, Ibrahim",YUG,Men,football,M,Silver
+9424,Melbourne / Stockholm,1956,Football,Football,"KOSCAK, Mladen",YUG,Men,football,M,Silver
+9425,Melbourne / Stockholm,1956,Football,Football,"KRSTIC, Dobroslav",YUG,Men,football,M,Silver
+9426,Melbourne / Stockholm,1956,Football,Football,"LIPOSINOVIC, Luka",YUG,Men,football,M,Silver
+9427,Melbourne / Stockholm,1956,Football,Football,"MUJIC, Muhamed",YUG,Men,football,M,Silver
+9428,Melbourne / Stockholm,1956,Football,Football,"PAPEC, Zlatko",YUG,Men,football,M,Silver
+9429,Melbourne / Stockholm,1956,Football,Football,"RADENKOVIC, Petar",YUG,Men,football,M,Silver
+9430,Melbourne / Stockholm,1956,Football,Football,"RADOVIC, Nikola",YUG,Men,football,M,Silver
+9431,Melbourne / Stockholm,1956,Football,Football,"SANTEK, Ivan",YUG,Men,football,M,Silver
+9432,Melbourne / Stockholm,1956,Football,Football,"SEKULARAC, Dragoslav",YUG,Men,football,M,Silver
+9433,Melbourne / Stockholm,1956,Football,Football,"SPAJIC, Ljubisa",YUG,Men,football,M,Silver
+9434,Melbourne / Stockholm,1956,Football,Football,"VESELINOVIC, Todor",YUG,Men,football,M,Silver
+9435,Melbourne / Stockholm,1956,Football,Football,"VIDINIC, Blagoje",YUG,Men,football,M,Silver
+9436,Melbourne / Stockholm,1956,Gymnastics,Artistic G.,"KELETI, Agnes",HUN,Women,balance beam,W,Gold
+9437,Melbourne / Stockholm,1956,Gymnastics,Artistic G.,"MANINA, Tamara",URS,Women,balance beam,W,Silver
+9438,Melbourne / Stockholm,1956,Gymnastics,Artistic G.,"VECHTOVA-BOSAKOVA, Eva",TCH,Women,balance beam,W,Silver
+9439,Melbourne / Stockholm,1956,Gymnastics,Artistic G.,"MURATOV, Valentin",URS,Men,floor exercises,M,Gold
+9440,Melbourne / Stockholm,1956,Gymnastics,Artistic G.,"AIHARA, Nobuyuki",JPN,Men,floor exercises,M,Silver
+9441,Melbourne / Stockholm,1956,Gymnastics,Artistic G.,"CHUKARIN, Viktor Ivanovich",URS,Men,floor exercises,M,Silver
+9442,Melbourne / Stockholm,1956,Gymnastics,Artistic G.,"THORESSON, William",SWE,Men,floor exercises,M,Silver
+9443,Melbourne / Stockholm,1956,Gymnastics,Artistic G.,"LEUSTEANU-POPESCU-TEODORESCU, Elena",ROU,Women,floor exercises,W,Bronze
+9444,Melbourne / Stockholm,1956,Gymnastics,Artistic G.,"KELETI, Agnes",HUN,Women,floor exercises,W,Gold
+9445,Melbourne / Stockholm,1956,Gymnastics,Artistic G.,"LATYNINA, Larisa",URS,Women,floor exercises,W,Gold
+9446,Melbourne / Stockholm,1956,Gymnastics,Artistic G.,"TAKEMOTO, Masao",JPN,Men,horizontal bar,M,Bronze
+9447,Melbourne / Stockholm,1956,Gymnastics,Artistic G.,"ONO, Takashi",JPN,Men,horizontal bar,M,Gold
+9448,Melbourne / Stockholm,1956,Gymnastics,Artistic G.,"TITOV, Yuri",URS,Men,horizontal bar,M,Silver
+9449,Melbourne / Stockholm,1956,Gymnastics,Artistic G.,"TITOV, Yuri",URS,Men,individual all-round,M,Bronze
+9450,Melbourne / Stockholm,1956,Gymnastics,Artistic G.,"CHUKARIN, Viktor Ivanovich",URS,Men,individual all-round,M,Gold
+9451,Melbourne / Stockholm,1956,Gymnastics,Artistic G.,"ONO, Takashi",JPN,Men,individual all-round,M,Silver
+9452,Melbourne / Stockholm,1956,Gymnastics,Artistic G.,"MURATOVA, Sofiya",URS,Women,individual all-round,W,Bronze
+9453,Melbourne / Stockholm,1956,Gymnastics,Artistic G.,"LATYNINA, Larisa",URS,Women,individual all-round,W,Gold
+9454,Melbourne / Stockholm,1956,Gymnastics,Artistic G.,"KELETI, Agnes",HUN,Women,individual all-round,W,Silver
+9455,Melbourne / Stockholm,1956,Gymnastics,Artistic G.,"ONO, Takashi",JPN,Men,parallel bars,M,Bronze
+9456,Melbourne / Stockholm,1956,Gymnastics,Artistic G.,"TAKEMOTO, Masao",JPN,Men,parallel bars,M,Bronze
+9457,Melbourne / Stockholm,1956,Gymnastics,Artistic G.,"CHUKARIN, Viktor Ivanovich",URS,Men,parallel bars,M,Gold
+9458,Melbourne / Stockholm,1956,Gymnastics,Artistic G.,"KUBOTA, Masami",JPN,Men,parallel bars,M,Silver
+9459,Melbourne / Stockholm,1956,Gymnastics,Artistic G.,"CHUKARIN, Viktor Ivanovich",URS,Men,pommel horse,M,Bronze
+9460,Melbourne / Stockholm,1956,Gymnastics,Artistic G.,"SHAKHLIN, Boris",URS,Men,pommel horse,M,Gold
+9461,Melbourne / Stockholm,1956,Gymnastics,Artistic G.,"ONO, Takashi",JPN,Men,pommel horse,M,Silver
+9462,Melbourne / Stockholm,1956,Gymnastics,Artistic G.,"KUBOTA, Masami",JPN,Men,rings,M,Bronze
+9463,Melbourne / Stockholm,1956,Gymnastics,Artistic G.,"TAKEMOTO, Masao",JPN,Men,rings,M,Bronze
+9464,Melbourne / Stockholm,1956,Gymnastics,Artistic G.,"AZARYAN, Albert",URS,Men,rings,M,Gold
+9465,Melbourne / Stockholm,1956,Gymnastics,Artistic G.,"MURATOV, Valentin",URS,Men,rings,M,Silver
+9466,Melbourne / Stockholm,1956,Gymnastics,Artistic G.,"HEINONEN, Raimo Yrjö",FIN,Men,team competition,M,Bronze
+9467,Melbourne / Stockholm,1956,Gymnastics,Artistic G.,"LAPPALAINEN, Onni Armas",FIN,Men,team competition,M,Bronze
+9468,Melbourne / Stockholm,1956,Gymnastics,Artistic G.,"LEIMUVIRTA, Olavi Erkki",FIN,Men,team competition,M,Bronze
+9469,Melbourne / Stockholm,1956,Gymnastics,Artistic G.,"LINDFORS, Berndt Torbjörn",FIN,Men,team competition,M,Bronze
+9470,Melbourne / Stockholm,1956,Gymnastics,Artistic G.,"MANSIKKA, Martti",FIN,Men,team competition,M,Bronze
+9471,Melbourne / Stockholm,1956,Gymnastics,Artistic G.,"SUONIEMI, Kalevi Ensio",FIN,Men,team competition,M,Bronze
+9472,Melbourne / Stockholm,1956,Gymnastics,Artistic G.,"AZARYAN, Albert",URS,Men,team competition,M,Gold
+9473,Melbourne / Stockholm,1956,Gymnastics,Artistic G.,"CHUKARIN, Viktor Ivanovich",URS,Men,team competition,M,Gold
+9474,Melbourne / Stockholm,1956,Gymnastics,Artistic G.,"MURATOV, Valentin",URS,Men,team competition,M,Gold
+9475,Melbourne / Stockholm,1956,Gymnastics,Artistic G.,"SHAKHLIN, Boris",URS,Men,team competition,M,Gold
+9476,Melbourne / Stockholm,1956,Gymnastics,Artistic G.,"STOLBOV, Pavel",URS,Men,team competition,M,Gold
+9477,Melbourne / Stockholm,1956,Gymnastics,Artistic G.,"TITOV, Yuri",URS,Men,team competition,M,Gold
+9478,Melbourne / Stockholm,1956,Gymnastics,Artistic G.,"AIHARA, Nobuyuki",JPN,Men,team competition,M,Silver
+9479,Melbourne / Stockholm,1956,Gymnastics,Artistic G.,"KONO, Akira",JPN,Men,team competition,M,Silver
+9480,Melbourne / Stockholm,1956,Gymnastics,Artistic G.,"KUBOTA, Masami",JPN,Men,team competition,M,Silver
+9481,Melbourne / Stockholm,1956,Gymnastics,Artistic G.,"ONO, Takashi",JPN,Men,team competition,M,Silver
+9482,Melbourne / Stockholm,1956,Gymnastics,Artistic G.,"TAKEMOTO, Masao",JPN,Men,team competition,M,Silver
+9483,Melbourne / Stockholm,1956,Gymnastics,Artistic G.,"TSUKAWAKI, Shinsaku",JPN,Men,team competition,M,Silver
+9484,Melbourne / Stockholm,1956,Gymnastics,Artistic G.,"HURMUZACHI-DUMITRESCU, Georgeta",ROU,Women,team competition,W,Bronze
+9485,Melbourne / Stockholm,1956,Gymnastics,Artistic G.,"IOVAN-INOVAN, Sonia",ROU,Women,team competition,W,Bronze
+9486,Melbourne / Stockholm,1956,Gymnastics,Artistic G.,"LEUSTEANU-POPESCU-TEODORESCU, Elena",ROU,Women,team competition,W,Bronze
+9487,Melbourne / Stockholm,1956,Gymnastics,Artistic G.,"MARGARIT-NICULESCU, Elena",ROU,Women,team competition,W,Bronze
+9488,Melbourne / Stockholm,1956,Gymnastics,Artistic G.,"SACALICI-PETROSANU, Elena",ROU,Women,team competition,W,Bronze
+9489,Melbourne / Stockholm,1956,Gymnastics,Artistic G.,"VATASOIU-LITA, Emilia",ROU,Women,team competition,W,Bronze
+9490,Melbourne / Stockholm,1956,Gymnastics,Artistic G.,"ASTAKHOVA, Polina",URS,Women,team competition,W,Gold
+9491,Melbourne / Stockholm,1956,Gymnastics,Artistic G.,"EGOROVA, Lyudmila",URS,Women,team competition,W,Gold
+9492,Melbourne / Stockholm,1956,Gymnastics,Artistic G.,"KALININA-IVANOVA, Lidiya",URS,Women,team competition,W,Gold
+9493,Melbourne / Stockholm,1956,Gymnastics,Artistic G.,"LATYNINA, Larisa",URS,Women,team competition,W,Gold
+9494,Melbourne / Stockholm,1956,Gymnastics,Artistic G.,"MANINA, Tamara",URS,Women,team competition,W,Gold
+9495,Melbourne / Stockholm,1956,Gymnastics,Artistic G.,"MURATOVA, Sofiya",URS,Women,team competition,W,Gold
+9496,Melbourne / Stockholm,1956,Gymnastics,Artistic G.,"BODO-MOLNAR, Andrea",HUN,Women,team competition,W,Silver
+9497,Melbourne / Stockholm,1956,Gymnastics,Artistic G.,"GULYAS-KÖTELES, Erzsebet",HUN,Women,team competition,W,Silver
+9498,Melbourne / Stockholm,1956,Gymnastics,Artistic G.,"KELETI, Agnes",HUN,Women,team competition,W,Silver
+9499,Melbourne / Stockholm,1956,Gymnastics,Artistic G.,"KERTESZ, Aliz",HUN,Women,team competition,W,Silver
+9500,Melbourne / Stockholm,1956,Gymnastics,Artistic G.,"KORONDI, Margit",HUN,Women,team competition,W,Silver
+9501,Melbourne / Stockholm,1956,Gymnastics,Artistic G.,"TASS LEMHENYI, Olga",HUN,Women,team competition,W,Silver
+9502,Melbourne / Stockholm,1956,Gymnastics,Artistic G.,"ASTAKHOVA, Polina",URS,Women,"team, portable apparatus",W,Bronze
+9503,Melbourne / Stockholm,1956,Gymnastics,Artistic G.,"EGOROVA, Lyudmila",URS,Women,"team, portable apparatus",W,Bronze
+9504,Melbourne / Stockholm,1956,Gymnastics,Artistic G.,"HORZONEK-JOKIEL, Dorota",POL,Women,"team, portable apparatus",W,Bronze
+9505,Melbourne / Stockholm,1956,Gymnastics,Artistic G.,"KALININA-IVANOVA, Lidiya",URS,Women,"team, portable apparatus",W,Bronze
+9506,Melbourne / Stockholm,1956,Gymnastics,Artistic G.,"KOT, Natalia",POL,Women,"team, portable apparatus",W,Bronze
+9507,Melbourne / Stockholm,1956,Gymnastics,Artistic G.,"LATYNINA, Larisa",URS,Women,"team, portable apparatus",W,Bronze
+9508,Melbourne / Stockholm,1956,Gymnastics,Artistic G.,"MANINA, Tamara",URS,Women,"team, portable apparatus",W,Bronze
+9509,Melbourne / Stockholm,1956,Gymnastics,Artistic G.,"MURATOVA, Sofiya",URS,Women,"team, portable apparatus",W,Bronze
+9510,Melbourne / Stockholm,1956,Gymnastics,Artistic G.,"NOWAK-STACHOW, Danuta",POL,Women,"team, portable apparatus",W,Bronze
+9511,Melbourne / Stockholm,1956,Gymnastics,Artistic G.,"RAKOCZY, Helena",POL,Women,"team, portable apparatus",W,Bronze
+9512,Melbourne / Stockholm,1956,Gymnastics,Artistic G.,"SZCZERBINSKA, Lidia",POL,Women,"team, portable apparatus",W,Bronze
+9513,Melbourne / Stockholm,1956,Gymnastics,Artistic G.,"WILKOWNA-SLIZOWSKA, Barbara",POL,Women,"team, portable apparatus",W,Bronze
+9514,Melbourne / Stockholm,1956,Gymnastics,Artistic G.,"BODO-MOLNAR, Andrea",HUN,Women,"team, portable apparatus",W,Gold
+9515,Melbourne / Stockholm,1956,Gymnastics,Artistic G.,"GULYAS-KÖTELES, Erzsebet",HUN,Women,"team, portable apparatus",W,Gold
+9516,Melbourne / Stockholm,1956,Gymnastics,Artistic G.,"KELETI, Agnes",HUN,Women,"team, portable apparatus",W,Gold
+9517,Melbourne / Stockholm,1956,Gymnastics,Artistic G.,"KERTESZ, Aliz",HUN,Women,"team, portable apparatus",W,Gold
+9518,Melbourne / Stockholm,1956,Gymnastics,Artistic G.,"KORONDI, Margit",HUN,Women,"team, portable apparatus",W,Gold
+9519,Melbourne / Stockholm,1956,Gymnastics,Artistic G.,"TASS LEMHENYI, Olga",HUN,Women,"team, portable apparatus",W,Gold
+9520,Melbourne / Stockholm,1956,Gymnastics,Artistic G.,"BERGGREN, Evy",SWE,Women,"team, portable apparatus",W,Silver
+9521,Melbourne / Stockholm,1956,Gymnastics,Artistic G.,"COLLING-PETTERSSON, Ann-Sofi",SWE,Women,"team, portable apparatus",W,Silver
+9522,Melbourne / Stockholm,1956,Gymnastics,Artistic G.,"HEDBERG, Doris",SWE,Women,"team, portable apparatus",W,Silver
+9523,Melbourne / Stockholm,1956,Gymnastics,Artistic G.,"KARLEN, Maude",SWE,Women,"team, portable apparatus",W,Silver
+9524,Melbourne / Stockholm,1956,Gymnastics,Artistic G.,"LINDBERG, Karin",SWE,Women,"team, portable apparatus",W,Silver
+9525,Melbourne / Stockholm,1956,Gymnastics,Artistic G.,"RÖNSTRÖM, Eva",SWE,Women,"team, portable apparatus",W,Silver
+9526,Melbourne / Stockholm,1956,Gymnastics,Artistic G.,"MURATOVA, Sofiya",URS,Women,uneven bars,W,Bronze
+9527,Melbourne / Stockholm,1956,Gymnastics,Artistic G.,"KELETI, Agnes",HUN,Women,uneven bars,W,Gold
+9528,Melbourne / Stockholm,1956,Gymnastics,Artistic G.,"LATYNINA, Larisa",URS,Women,uneven bars,W,Silver
+9529,Melbourne / Stockholm,1956,Gymnastics,Artistic G.,"TITOV, Yuri",URS,Men,vault,M,Bronze
+9530,Melbourne / Stockholm,1956,Gymnastics,Artistic G.,"BANTZ, Helmut",EUA,Men,vault,M,Gold
+9531,Melbourne / Stockholm,1956,Gymnastics,Artistic G.,"MURATOV, Valentin",URS,Men,vault,M,Gold
+9532,Melbourne / Stockholm,1956,Gymnastics,Artistic G.,"COLLING-PETTERSSON, Ann-Sofi",SWE,Women,vault,W,Bronze
+9533,Melbourne / Stockholm,1956,Gymnastics,Artistic G.,"TASS LEMHENYI, Olga",HUN,Women,vault,W,Bronze
+9534,Melbourne / Stockholm,1956,Gymnastics,Artistic G.,"LATYNINA, Larisa",URS,Women,vault,W,Gold
+9535,Melbourne / Stockholm,1956,Gymnastics,Artistic G.,"MANINA, Tamara",URS,Women,vault,W,Silver
+9536,Melbourne / Stockholm,1956,Hockey,Hockey,"BRENNECKE, Gunter",EUA,Men,hockey,M,Bronze
+9537,Melbourne / Stockholm,1956,Hockey,Hockey,"BUDINGER, Hugo",EUA,Men,hockey,M,Bronze
+9538,Melbourne / Stockholm,1956,Hockey,Hockey,"DELMES, Werner",EUA,Men,hockey,M,Bronze
+9539,Melbourne / Stockholm,1956,Hockey,Hockey,"DOLLHEISER, Hugo",EUA,Men,hockey,M,Bronze
+9540,Melbourne / Stockholm,1956,Hockey,Hockey,"FERSTL, Eberhard",EUA,Men,hockey,M,Bronze
+9541,Melbourne / Stockholm,1956,Hockey,Hockey,"LÜCKER, Alfred",EUA,Men,hockey,M,Bronze
+9542,Melbourne / Stockholm,1956,Hockey,Hockey,"NONN, Helmut",EUA,Men,hockey,M,Bronze
+9543,Melbourne / Stockholm,1956,Hockey,Hockey,"NONN, Wolfgang",EUA,Men,hockey,M,Bronze
+9544,Melbourne / Stockholm,1956,Hockey,Hockey,"RADZIKOWSKI, Heinz",EUA,Men,hockey,M,Bronze
+9545,Melbourne / Stockholm,1956,Hockey,Hockey,"ROSENBAUM, Werner",EUA,Men,hockey,M,Bronze
+9546,Melbourne / Stockholm,1956,Hockey,Hockey,"ULLERICH, Gunther",EUA,Men,hockey,M,Bronze
+9547,Melbourne / Stockholm,1956,Hockey,Hockey,"CLAUDIUS, Leslie Walter",IND,Men,hockey,M,Gold
+9548,Melbourne / Stockholm,1956,Hockey,Hockey,"FRANCIS, Ranganandhan",IND,Men,hockey,M,Gold
+9549,Melbourne / Stockholm,1956,Hockey,Hockey,"KAUSHIK, Hari Pal",IND,Men,hockey,M,Gold
+9550,Melbourne / Stockholm,1956,Hockey,Hockey,"KUMAR, Amir Chand",IND,Men,hockey,M,Gold
+9551,Melbourne / Stockholm,1956,Hockey,Hockey,"LAL SHARMA, Raghbir",IND,Men,hockey,M,Gold
+9552,Melbourne / Stockholm,1956,Hockey,Hockey,"LAXMAN, Shankar",IND,Men,hockey,M,Gold
+9553,Melbourne / Stockholm,1956,Hockey,Hockey,"PERUMAL, Govind",IND,Men,hockey,M,Gold
+9554,Melbourne / Stockholm,1956,Hockey,Hockey,"SINGH BAKSHI, Amit",IND,Men,hockey,M,Gold
+9555,Melbourne / Stockholm,1956,Hockey,Hockey,"SINGH BHOLA, Raghbir",IND,Men,hockey,M,Gold
+9556,Melbourne / Stockholm,1956,Hockey,Hockey,"SINGH DOSANJH, Balbir",IND,Men,hockey,M,Gold
+9557,Melbourne / Stockholm,1956,Hockey,Hockey,"SINGH GARCHEY, Hardyal",IND,Men,hockey,M,Gold
+9558,Melbourne / Stockholm,1956,Hockey,Hockey,"SINGH GENTLE, Randhir",IND,Men,hockey,M,Gold
+9559,Melbourne / Stockholm,1956,Hockey,Hockey,"SINGH GREWAL, Balkishan",IND,Men,hockey,M,Gold
+9560,Melbourne / Stockholm,1956,Hockey,Hockey,"SINGH KULLAR, Gurdev",IND,Men,hockey,M,Gold
+9561,Melbourne / Stockholm,1956,Hockey,Hockey,"SINGH KULLAR, Udham",IND,Men,hockey,M,Gold
+9562,Melbourne / Stockholm,1956,Hockey,Hockey,"SINGH, Bakshish",IND,Men,hockey,M,Gold
+9563,Melbourne / Stockholm,1956,Hockey,Hockey,"STEPHEN, Charles",IND,Men,hockey,M,Gold
+9564,Melbourne / Stockholm,1956,Hockey,Hockey,"ABDUL, Hamid",PAK,Men,hockey,M,Silver
+9565,Melbourne / Stockholm,1956,Hockey,Hockey,"AHKTAR, Hussain",PAK,Men,hockey,M,Silver
+9566,Melbourne / Stockholm,1956,Hockey,Hockey,"DAR, Munir Ahmad",PAK,Men,hockey,M,Silver
+9567,Melbourne / Stockholm,1956,Hockey,Hockey,"GHULAM, Rasul",PAK,Men,hockey,M,Silver
+9568,Melbourne / Stockholm,1956,Hockey,Hockey,"HABIB, Ur Rehman",PAK,Men,hockey,M,Silver
+9569,Melbourne / Stockholm,1956,Hockey,Hockey,"KHAN, Anwar Ahmad",PAK,Men,hockey,M,Silver
+9570,Melbourne / Stockholm,1956,Hockey,Hockey,"KIDDI, Habib Ali",PAK,Men,hockey,M,Silver
+9571,Melbourne / Stockholm,1956,Hockey,Hockey,"LATIF, Ur Rehman",PAK,Men,hockey,M,Silver
+9572,Melbourne / Stockholm,1956,Hockey,Hockey,"MANZOOR, Hussain Atif",PAK,Men,hockey,M,Silver
+9573,Melbourne / Stockholm,1956,Hockey,Hockey,"MUSSARAT, Hussain",PAK,Men,hockey,M,Silver
+9574,Melbourne / Stockholm,1956,Hockey,Hockey,"MUTTI, Ullah",PAK,Men,hockey,M,Silver
+9575,Melbourne / Stockholm,1956,Hockey,Hockey,"NASIR, Ahmad",PAK,Men,hockey,M,Silver
+9576,Melbourne / Stockholm,1956,Hockey,Hockey,"NOOR, Alam",PAK,Men,hockey,M,Silver
+9577,Melbourne / Stockholm,1956,Hockey,Hockey,"ZAKIR, Hussain",PAK,Men,hockey,M,Silver
+9578,Melbourne / Stockholm,1956,Modern Pentathlon,Modern Pentath.,"KORHONEN, Väinö Kalevi",FIN,Men,Individual competition,M,Bronze
+9579,Melbourne / Stockholm,1956,Modern Pentathlon,Modern Pentath.,"HALL, Lars",SWE,Men,Individual competition,M,Gold
+9580,Melbourne / Stockholm,1956,Modern Pentathlon,Modern Pentath.,"MANNONEN, Olavi Aleksanteri",FIN,Men,Individual competition,M,Silver
+9581,Melbourne / Stockholm,1956,Modern Pentathlon,Modern Pentath.,"KATTER, Berndt Leopold",FIN,Men,Team competition,M,Bronze
+9582,Melbourne / Stockholm,1956,Modern Pentathlon,Modern Pentath.,"KORHONEN, Väinö Kalevi",FIN,Men,Team competition,M,Bronze
+9583,Melbourne / Stockholm,1956,Modern Pentathlon,Modern Pentath.,"MANNONEN, Olavi Aleksanteri",FIN,Men,Team competition,M,Bronze
+9584,Melbourne / Stockholm,1956,Modern Pentathlon,Modern Pentath.,"DERYUGIN, Ivan",URS,Men,Team competition,M,Gold
+9585,Melbourne / Stockholm,1956,Modern Pentathlon,Modern Pentath.,"NOVIKOV, Igor",URS,Men,Team competition,M,Gold
+9586,Melbourne / Stockholm,1956,Modern Pentathlon,Modern Pentath.,"TARASOV, Aleksandr",URS,Men,Team competition,M,Gold
+9587,Melbourne / Stockholm,1956,Modern Pentathlon,Modern Pentath.,"ANDRE, William Jules",USA,Men,Team competition,M,Silver
+9588,Melbourne / Stockholm,1956,Modern Pentathlon,Modern Pentath.,"DANIELS, Jack Tupper",USA,Men,Team competition,M,Silver
+9589,Melbourne / Stockholm,1956,Modern Pentathlon,Modern Pentath.,"LAMBERT, George Howard Jr.",USA,Men,Team competition,M,Silver
+9590,Melbourne / Stockholm,1956,Rowing,Rowing,"KLOIMSTEIN, Josef",AUT,Men,coxless pair (2-),M,Bronze
+9591,Melbourne / Stockholm,1956,Rowing,Rowing,"SAGEDER, Alfred",AUT,Men,coxless pair (2-),M,Bronze
+9592,Melbourne / Stockholm,1956,Rowing,Rowing,"FIFER, James Thomas",USA,Men,coxless pair (2-),M,Gold
+9593,Melbourne / Stockholm,1956,Rowing,Rowing,"HECHT, Duvall Young",USA,Men,coxless pair (2-),M,Gold
+9594,Melbourne / Stockholm,1956,Rowing,Rowing,"BULDAKOV, Igor",URS,Men,coxless pair (2-),M,Silver
+9595,Melbourne / Stockholm,1956,Rowing,Rowing,"IVANOV, Viktor",URS,Men,coxless pair (2-),M,Silver
+9596,Melbourne / Stockholm,1956,Rowing,Rowing,"RILEY, Murray Stewart",AUS,Men,double sculls (2x),M,Bronze
+9597,Melbourne / Stockholm,1956,Rowing,Rowing,"WOOD, Merwyn Thomas",AUS,Men,double sculls (2x),M,Bronze
+9598,Melbourne / Stockholm,1956,Rowing,Rowing,"BERKUTOV, Aleksandr",URS,Men,double sculls (2x),M,Gold
+9599,Melbourne / Stockholm,1956,Rowing,Rowing,"TYUKALOV, Yuri",URS,Men,double sculls (2x),M,Gold
+9600,Melbourne / Stockholm,1956,Rowing,Rowing,"COSTELLO, Bernard Patrick Jr.",USA,Men,double sculls (2x),M,Silver
+9601,Melbourne / Stockholm,1956,Rowing,Rowing,"GARDINER, James Arthur",USA,Men,double sculls (2x),M,Silver
+9602,Melbourne / Stockholm,1956,Rowing,Rowing,"AIKMAN, Michael Hirst",AUS,Men,eight with coxswain (8+),M,Bronze
+9603,Melbourne / Stockholm,1956,Rowing,Rowing,"BENFIELD, Angus Fred",AUS,Men,eight with coxswain (8+),M,Bronze
+9604,Melbourne / Stockholm,1956,Rowing,Rowing,"BOYKETT, David Herbert",AUS,Men,eight with coxswain (8+),M,Bronze
+9605,Melbourne / Stockholm,1956,Rowing,Rowing,"DOYLE, Brian John",AUS,Men,eight with coxswain (8+),M,Bronze
+9606,Melbourne / Stockholm,1956,Rowing,Rowing,"HEWITT, Harold Neil",AUS,Men,eight with coxswain (8+),M,Bronze
+9607,Melbourne / Stockholm,1956,Rowing,Rowing,"HOWDEN, James Guthrie",AUS,Men,eight with coxswain (8+),M,Bronze
+9608,Melbourne / Stockholm,1956,Rowing,Rowing,"HOWELL, Walter Neville",AUS,Men,eight with coxswain (8+),M,Bronze
+9609,Melbourne / Stockholm,1956,Rowing,Rowing,"MANTON, Garth O.V.",AUS,Men,eight with coxswain (8+),M,Bronze
+9610,Melbourne / Stockholm,1956,Rowing,Rowing,"MONGER, Adrian Calero",AUS,Men,eight with coxswain (8+),M,Bronze
+9611,Melbourne / Stockholm,1956,Rowing,Rowing,"BECKLEAN, William Russell",USA,Men,eight with coxswain (8+),M,Gold
+9612,Melbourne / Stockholm,1956,Rowing,Rowing,"BEER, Donald Andrew E.",USA,Men,eight with coxswain (8+),M,Gold
+9613,Melbourne / Stockholm,1956,Rowing,Rowing,"CHARLTON, Thomas Jackson Jr.",USA,Men,eight with coxswain (8+),M,Gold
+9614,Melbourne / Stockholm,1956,Rowing,Rowing,"COOKE, John Patrick",USA,Men,eight with coxswain (8+),M,Gold
+9615,Melbourne / Stockholm,1956,Rowing,Rowing,"ESSELSTYN, Caldwell Blackman",USA,Men,eight with coxswain (8+),M,Gold
+9616,Melbourne / Stockholm,1956,Rowing,Rowing,"GRIMES, Charles Livingston",USA,Men,eight with coxswain (8+),M,Gold
+9617,Melbourne / Stockholm,1956,Rowing,Rowing,"MOREY, Robert Willis Jr.",USA,Men,eight with coxswain (8+),M,Gold
+9618,Melbourne / Stockholm,1956,Rowing,Rowing,"WAILES, Richard Donald",USA,Men,eight with coxswain (8+),M,Gold
+9619,Melbourne / Stockholm,1956,Rowing,Rowing,"WIGHT, David Henry",USA,Men,eight with coxswain (8+),M,Gold
+9620,Melbourne / Stockholm,1956,Rowing,Rowing,"HELLIWELL, David Leedom",CAN,Men,eight with coxswain (8+),M,Silver
+9621,Melbourne / Stockholm,1956,Rowing,Rowing,"KUEBER, Philip Thomas",CAN,Men,eight with coxswain (8+),M,Silver
+9622,Melbourne / Stockholm,1956,Rowing,Rowing,"MCCLURE, Richard Neil",CAN,Men,eight with coxswain (8+),M,Silver
+9623,Melbourne / Stockholm,1956,Rowing,Rowing,"MCDONALD, Douglas John",CAN,Men,eight with coxswain (8+),M,Silver
+9624,Melbourne / Stockholm,1956,Rowing,Rowing,"MCKERLICH, William Arthur M.",CAN,Men,eight with coxswain (8+),M,Silver
+9625,Melbourne / Stockholm,1956,Rowing,Rowing,"OGAWA, Carlton Susumi",CAN,Men,eight with coxswain (8+),M,Silver
+9626,Melbourne / Stockholm,1956,Rowing,Rowing,"PRETTY, Donald Wayne",CAN,Men,eight with coxswain (8+),M,Silver
+9627,Melbourne / Stockholm,1956,Rowing,Rowing,"WEST, Lawrence Kingsley",CAN,Men,eight with coxswain (8+),M,Silver
+9628,Melbourne / Stockholm,1956,Rowing,Rowing,"WILSON, Robert Andrew",CAN,Men,eight with coxswain (8+),M,Silver
+9629,Melbourne / Stockholm,1956,Rowing,Rowing,"DELACOUR, Yves",FRA,Men,four without coxswain (4-),M,Bronze
+9630,Melbourne / Stockholm,1956,Rowing,Rowing,"GUILLABERT, Guy",FRA,Men,four without coxswain (4-),M,Bronze
+9631,Melbourne / Stockholm,1956,Rowing,Rowing,"GUISSART, Rene Jacques",FRA,Men,four without coxswain (4-),M,Bronze
+9632,Melbourne / Stockholm,1956,Rowing,Rowing,"MERCIER, Gaston Antoine",FRA,Men,four without coxswain (4-),M,Bronze
+9633,Melbourne / Stockholm,1956,Rowing,Rowing,"ARNOLD, Donald John",CAN,Men,four without coxswain (4-),M,Gold
+9634,Melbourne / Stockholm,1956,Rowing,Rowing,"D'HONDT, Ignace Walter",CAN,Men,four without coxswain (4-),M,Gold
+9635,Melbourne / Stockholm,1956,Rowing,Rowing,"LOOMER, Lorne Kenneth",CAN,Men,four without coxswain (4-),M,Gold
+9636,Melbourne / Stockholm,1956,Rowing,Rowing,"MCKINNON, Archibald",CAN,Men,four without coxswain (4-),M,Gold
+9637,Melbourne / Stockholm,1956,Rowing,Rowing,"MCINTOSH, James Stewart",USA,Men,four without coxswain (4-),M,Silver
+9638,Melbourne / Stockholm,1956,Rowing,Rowing,"MCKINLEY, Arthur Frank",USA,Men,four without coxswain (4-),M,Silver
+9639,Melbourne / Stockholm,1956,Rowing,Rowing,"MCKINLEY, John Dickinson",USA,Men,four without coxswain (4-),M,Silver
+9640,Melbourne / Stockholm,1956,Rowing,Rowing,"WELCHLI, John Richard",USA,Men,four without coxswain (4-),M,Silver
+9641,Melbourne / Stockholm,1956,Rowing,Rowing,"HÄNNINEN, Kauko Antero",FIN,Men,four-oared shell with coxswain (4-),M,Bronze
+9642,Melbourne / Stockholm,1956,Rowing,Rowing,"LEHTELÄ, Veli Veikko",FIN,Men,four-oared shell with coxswain (4-),M,Bronze
+9643,Melbourne / Stockholm,1956,Rowing,Rowing,"NIEMI, Matti Juhani",FIN,Men,four-oared shell with coxswain (4-),M,Bronze
+9644,Melbourne / Stockholm,1956,Rowing,Rowing,"PITKÄNEN, Toimi Johannes",FIN,Men,four-oared shell with coxswain (4-),M,Bronze
+9645,Melbourne / Stockholm,1956,Rowing,Rowing,"POUTANEN, Reino Richard",FIN,Men,four-oared shell with coxswain (4-),M,Bronze
+9646,Melbourne / Stockholm,1956,Rowing,Rowing,"SGHEIZ, Romano",ITA,Men,four-oared shell with coxswain (4-),M,Gold
+9647,Melbourne / Stockholm,1956,Rowing,Rowing,"STEFANONI, Ivo",ITA,Men,four-oared shell with coxswain (4-),M,Gold
+9648,Melbourne / Stockholm,1956,Rowing,Rowing,"TRINCAVELLI, Franco",ITA,Men,four-oared shell with coxswain (4-),M,Gold
+9649,Melbourne / Stockholm,1956,Rowing,Rowing,"VANZIN, Angelo",ITA,Men,four-oared shell with coxswain (4-),M,Gold
+9650,Melbourne / Stockholm,1956,Rowing,Rowing,"WINKLER, Alberto",ITA,Men,four-oared shell with coxswain (4-),M,Gold
+9651,Melbourne / Stockholm,1956,Rowing,Rowing,"ARONSSON, Ivar",SWE,Men,four-oared shell with coxswain (4-),M,Silver
+9652,Melbourne / Stockholm,1956,Rowing,Rowing,"ERIKSSON, Gösta",SWE,Men,four-oared shell with coxswain (4-),M,Silver
+9653,Melbourne / Stockholm,1956,Rowing,Rowing,"GÖRANSSON, Bertil",SWE,Men,four-oared shell with coxswain (4-),M,Silver
+9654,Melbourne / Stockholm,1956,Rowing,Rowing,"GUNNARSSON, Evert",SWE,Men,four-oared shell with coxswain (4-),M,Silver
+9655,Melbourne / Stockholm,1956,Rowing,Rowing,"LARSSON, Olle",SWE,Men,four-oared shell with coxswain (4-),M,Silver
+9656,Melbourne / Stockholm,1956,Rowing,Rowing,"EMCHUK, Igor",URS,Men,pair-oared shell with coxswain (2+),M,Bronze
+9657,Melbourne / Stockholm,1956,Rowing,Rowing,"PETROV, Vladimir",URS,Men,pair-oared shell with coxswain (2+),M,Bronze
+9658,Melbourne / Stockholm,1956,Rowing,Rowing,"ZHILIN, Georgi",URS,Men,pair-oared shell with coxswain (2+),M,Bronze
+9659,Melbourne / Stockholm,1956,Rowing,Rowing,"AYRAULT, Arthur Delancey Jr.",USA,Men,pair-oared shell with coxswain (2+),M,Gold
+9660,Melbourne / Stockholm,1956,Rowing,Rowing,"FINDLAY, Conrad Francis",USA,Men,pair-oared shell with coxswain (2+),M,Gold
+9661,Melbourne / Stockholm,1956,Rowing,Rowing,"SEIFFERT, Armin Kurt",USA,Men,pair-oared shell with coxswain (2+),M,Gold
+9662,Melbourne / Stockholm,1956,Rowing,Rowing,"ARNDT, Horst",EUA,Men,pair-oared shell with coxswain (2+),M,Silver
+9663,Melbourne / Stockholm,1956,Rowing,Rowing,"BORKOWSKY, Rainer",EUA,Men,pair-oared shell with coxswain (2+),M,Silver
+9664,Melbourne / Stockholm,1956,Rowing,Rowing,"VON GRODDECK, Karl-Heinrich",EUA,Men,pair-oared shell with coxswain (2+),M,Silver
+9665,Melbourne / Stockholm,1956,Rowing,Rowing,"KELLY, John Brenden Jr.",USA,Men,single sculls (1x),M,Bronze
+9666,Melbourne / Stockholm,1956,Rowing,Rowing,"IVANOV, Vyacheslav",URS,Men,single sculls (1x),M,Gold
+9667,Melbourne / Stockholm,1956,Rowing,Rowing,"MACKENZIE, Stuart A.",AUS,Men,single sculls (1x),M,Silver
+9668,Melbourne / Stockholm,1956,Sailing,Sailing,"BUXTON, Douglas Raymond",AUS,Men,5.5m,X,Bronze
+9669,Melbourne / Stockholm,1956,Sailing,Sailing,"MYTTON, Devereaux R.",AUS,Men,5.5m,X,Bronze
+9670,Melbourne / Stockholm,1956,Sailing,Sailing,"STURROCK, Alexander Stuart",AUS,Men,5.5m,X,Bronze
+9671,Melbourne / Stockholm,1956,Sailing,Sailing,"KARLSSON, Hjalmar",SWE,Men,5.5m,X,Gold
+9672,Melbourne / Stockholm,1956,Sailing,Sailing,"STORK, Sture",SWE,Men,5.5m,X,Gold
+9673,Melbourne / Stockholm,1956,Sailing,Sailing,"THÖRN, Lars",SWE,Men,5.5m,X,Gold
+9674,Melbourne / Stockholm,1956,Sailing,Sailing,"BOWKER, David Graham",GBR,Men,5.5m,X,Silver
+9675,Melbourne / Stockholm,1956,Sailing,Sailing,"DILLON, John Desmond",GBR,Men,5.5m,X,Silver
+9676,Melbourne / Stockholm,1956,Sailing,Sailing,"KENNEDY-COCHRAN-PATRICK, Neil Aylmer",GBR,Men,5.5m,X,Silver
+9677,Melbourne / Stockholm,1956,Sailing,Sailing,"PERRY, Robert Stanley Gr.",GBR,Men,5.5m,X,Silver
+9678,Melbourne / Stockholm,1956,Sailing,Sailing,"BACKUS, Ronald",GBR,Men,dragon,X,Bronze
+9679,Melbourne / Stockholm,1956,Sailing,Sailing,"JANSON, Jonathan",GBR,Men,dragon,X,Bronze
+9680,Melbourne / Stockholm,1956,Sailing,Sailing,"MANN, Graham Hargrave",GBR,Men,dragon,X,Bronze
+9681,Melbourne / Stockholm,1956,Sailing,Sailing,"BOHLIN, Folke",SWE,Men,dragon,X,Gold
+9682,Melbourne / Stockholm,1956,Sailing,Sailing,"PALMQUIST, Bengt",SWE,Men,dragon,X,Gold
+9683,Melbourne / Stockholm,1956,Sailing,Sailing,"WIKSTRÖM, Leif",SWE,Men,dragon,X,Gold
+9684,Melbourne / Stockholm,1956,Sailing,Sailing,"ANDRESEN, Cyril Romain",DEN,Men,dragon,X,Silver
+9685,Melbourne / Stockholm,1956,Sailing,Sailing,"BERNTSEN, Ole Valdemar Henrik",DEN,Men,dragon,X,Silver
+9686,Melbourne / Stockholm,1956,Sailing,Sailing,"VON BÜLOW, Christian Robert",DEN,Men,dragon,X,Silver
+9687,Melbourne / Stockholm,1956,Sailing,Sailing,"BLACKALL, Jasper Roy",GBR,Men,sharpie 12m2,X,Bronze
+9688,Melbourne / Stockholm,1956,Sailing,Sailing,"SMITH, Terence James George",GBR,Men,sharpie 12m2,X,Bronze
+9689,Melbourne / Stockholm,1956,Sailing,Sailing,"CROPP, John Urquhart",NZL,Men,sharpie 12m2,X,Gold
+9690,Melbourne / Stockholm,1956,Sailing,Sailing,"MANDER, Peter Garth",NZL,Men,sharpie 12m2,X,Gold
+9691,Melbourne / Stockholm,1956,Sailing,Sailing,"SCOTT, John Malcolm",AUS,Men,sharpie 12m2,X,Silver
+9692,Melbourne / Stockholm,1956,Sailing,Sailing,"TASKER, Rolland Leslie",AUS,Men,sharpie 12m2,X,Silver
+9693,Melbourne / Stockholm,1956,Sailing,Sailing,"MARVIN, John",USA,Men,single-handed dinghy (Finn),M,Bronze
+9694,Melbourne / Stockholm,1956,Sailing,Sailing,"ELVSTROM, Paul",DEN,Men,single-handed dinghy (Finn),M,Gold
+9695,Melbourne / Stockholm,1956,Sailing,Sailing,"NELIS, Andre",BEL,Men,single-handed dinghy (Finn),M,Silver
+9696,Melbourne / Stockholm,1956,Sailing,Sailing,"FARRINGTON, Sloane Elmo",BAH,Men,two-person keelboat open (Star),X,Bronze
+9697,Melbourne / Stockholm,1956,Sailing,Sailing,"KNOWLES, Durward Randolph",BAH,Men,two-person keelboat open (Star),X,Bronze
+9698,Melbourne / Stockholm,1956,Sailing,Sailing,"LOW, Lawrence Edgar",USA,Men,two-person keelboat open (Star),X,Gold
+9699,Melbourne / Stockholm,1956,Sailing,Sailing,"WILLIAMS, Herbert Philip",USA,Men,two-person keelboat open (Star),X,Gold
+9700,Melbourne / Stockholm,1956,Sailing,Sailing,"RODE, Nicolo",ITA,Men,two-person keelboat open (Star),X,Silver
+9701,Melbourne / Stockholm,1956,Sailing,Sailing,"STRAULINO, Agostino",ITA,Men,two-person keelboat open (Star),X,Silver
+9702,Melbourne / Stockholm,1956,Shooting,Shooting,"SEVRYUGIN, Vladimir",URS,Men,"100m running deer, single/double shots",M,Bronze
+9703,Melbourne / Stockholm,1956,Shooting,Shooting,"ROMANENKO, Vitali",URS,Men,"100m running deer, single/double shots",M,Gold
+9704,Melbourne / Stockholm,1956,Shooting,Shooting,"SKÖLDBERG, Olof",SWE,Men,"100m running deer, single/double shots",M,Silver
+9705,Melbourne / Stockholm,1956,Shooting,Shooting,"LICHIARDOPOL, Gheorghe",ROU,Men,25m rapid fire pistol (60 shots),M,Bronze
+9706,Melbourne / Stockholm,1956,Shooting,Shooting,"PETRESCU, Stefan",ROU,Men,25m rapid fire pistol (60 shots),M,Gold
+9707,Melbourne / Stockholm,1956,Shooting,Shooting,"CHERKASOV, Yevgeni",URS,Men,25m rapid fire pistol (60 shots),M,Silver
+9708,Melbourne / Stockholm,1956,Shooting,Shooting,"YLÖNEN, Vilho Ilmari",FIN,Men,300m free rifle 3 positions (3x40 shots),M,Bronze
+9709,Melbourne / Stockholm,1956,Shooting,Shooting,"BORISOV, Vasili",URS,Men,300m free rifle 3 positions (3x40 shots),M,Gold
+9710,Melbourne / Stockholm,1956,Shooting,Shooting,"ERDMAN, Allan",URS,Men,300m free rifle 3 positions (3x40 shots),M,Silver
+9711,Melbourne / Stockholm,1956,Shooting,Shooting,"PINION, Offutt",USA,Men,50m pistol (60 shots),M,Bronze
+9712,Melbourne / Stockholm,1956,Shooting,Shooting,"LINNOSVUO, Pentti Tapio Akseli",FIN,Men,50m pistol (60 shots),M,Gold
+9713,Melbourne / Stockholm,1956,Shooting,Shooting,"UMAROV, Makhmud",URS,Men,50m pistol (60 shots),M,Silver
+9714,Melbourne / Stockholm,1956,Shooting,Shooting,"SUNDBERG, Johan (John)",SWE,Men,50m rifle 3 positions (3x40 shots),M,Bronze
+9715,Melbourne / Stockholm,1956,Shooting,Shooting,"BOGDANOV, Anatoli",URS,Men,50m rifle 3 positions (3x40 shots),M,Gold
+9716,Melbourne / Stockholm,1956,Shooting,Shooting,"HORINEK, Otakar",TCH,Men,50m rifle 3 positions (3x40 shots),M,Silver
+9717,Melbourne / Stockholm,1956,Shooting,Shooting,"BOA, Gilmore Stuart",CAN,Men,50m rifle prone (60 shots),M,Bronze
+9718,Melbourne / Stockholm,1956,Shooting,Shooting,"OUELLETTE, Gerald Raymond",CAN,Men,50m rifle prone (60 shots),M,Gold
+9719,Melbourne / Stockholm,1956,Shooting,Shooting,"BORISOV, Vasili",URS,Men,50m rifle prone (60 shots),M,Silver
+9720,Melbourne / Stockholm,1956,Shooting,Shooting,"CICERI, Alessandro",ITA,Men,trap (125 targets),M,Bronze
+9721,Melbourne / Stockholm,1956,Shooting,Shooting,"ROSSINI, Galliano",ITA,Men,trap (125 targets),M,Gold
+9722,Melbourne / Stockholm,1956,Shooting,Shooting,"SMELCZYNSKI, Adam",POL,Men,trap (125 targets),M,Silver
+9723,Melbourne / Stockholm,1956,Weightlifting,Weightlifting,"NAMDJOU, Mahmoud",IRI,Men,"- 56kg, total (bantamweight)",M,Bronze
+9724,Melbourne / Stockholm,1956,Weightlifting,Weightlifting,"VINCI, Charles Thomas Jr.",USA,Men,"- 56kg, total (bantamweight)",M,Gold
+9725,Melbourne / Stockholm,1956,Weightlifting,Weightlifting,"STOGOV, Vladimir",URS,Men,"- 56kg, total (bantamweight)",M,Silver
+9726,Melbourne / Stockholm,1956,Weightlifting,Weightlifting,"PIGAIANI, Alberto",ITA,Men,"+ 90kg, total (heavyweight)",M,Bronze
+9727,Melbourne / Stockholm,1956,Weightlifting,Weightlifting,"ANDERSON, Paul Edward",USA,Men,"+ 90kg, total (heavyweight)",M,Gold
+9728,Melbourne / Stockholm,1956,Weightlifting,Weightlifting,"SELVETTI, Humberto",ARG,Men,"+ 90kg, total (heavyweight)",M,Silver
+9729,Melbourne / Stockholm,1956,Weightlifting,Weightlifting,"ZIELINSKI, Marian",POL,Men,"56 - 60kg, total (featherweight)",M,Bronze
+9730,Melbourne / Stockholm,1956,Weightlifting,Weightlifting,"BERGER, Isaac",USA,Men,"56 - 60kg, total (featherweight)",M,Gold
+9731,Melbourne / Stockholm,1956,Weightlifting,Weightlifting,"MINAEV, Yevgeni",URS,Men,"56 - 60kg, total (featherweight)",M,Silver
+9732,Melbourne / Stockholm,1956,Weightlifting,Weightlifting,"KIM, Chang-Hee",KOR,Men,"60 - 67.5kg, total (lightweight)",M,Bronze
+9733,Melbourne / Stockholm,1956,Weightlifting,Weightlifting,"RYBAK, Igor",URS,Men,"60 - 67.5kg, total (lightweight)",M,Gold
+9734,Melbourne / Stockholm,1956,Weightlifting,Weightlifting,"KHABUTDINOV, Ravil",URS,Men,"60 - 67.5kg, total (lightweight)",M,Silver
+9735,Melbourne / Stockholm,1956,Weightlifting,Weightlifting,"PIGNATTI, Ermanno",ITA,Men,"67.5 - 75kg, total (middleweight)",M,Bronze
+9736,Melbourne / Stockholm,1956,Weightlifting,Weightlifting,"BOGDANOVSKY, Fedor",URS,Men,"67.5 - 75kg, total (middleweight)",M,Gold
+9737,Melbourne / Stockholm,1956,Weightlifting,Weightlifting,"GEORGE, Peter T.",USA,Men,"67.5 - 75kg, total (middleweight)",M,Silver
+9738,Melbourne / Stockholm,1956,Weightlifting,Weightlifting,"GEORGE, James D.",USA,Men,"75 - 82.5kg, total (light-heavyweight)",M,Bronze
+9739,Melbourne / Stockholm,1956,Weightlifting,Weightlifting,"KONO, Thomas Tamio",USA,Men,"75 - 82.5kg, total (light-heavyweight)",M,Gold
+9740,Melbourne / Stockholm,1956,Weightlifting,Weightlifting,"STEPANOV, Vasili",URS,Men,"75 - 82.5kg, total (light-heavyweight)",M,Silver
+9741,Melbourne / Stockholm,1956,Weightlifting,Weightlifting,"DEBUF, Jean",FRA,Men,"82.5 - 90kg, total (middle-heavyweight)",M,Bronze
+9742,Melbourne / Stockholm,1956,Weightlifting,Weightlifting,"VOROBYEV, Arkadi",URS,Men,"82.5 - 90kg, total (middle-heavyweight)",M,Gold
+9743,Melbourne / Stockholm,1956,Weightlifting,Weightlifting,"SHEPPARD, David Joseph",USA,Men,"82.5 - 90kg, total (middle-heavyweight)",M,Silver
+9744,Melbourne / Stockholm,1956,Wrestling,Wrestling Free.,"AKBAS, Hüseyin",TUR,Men,- 52kg (flyweight),M,Bronze
+9745,Melbourne / Stockholm,1956,Wrestling,Wrestling Free.,"TSALKALAMANIDZE, Mirian",URS,Men,- 52kg (flyweight),M,Gold
+9746,Melbourne / Stockholm,1956,Wrestling,Wrestling Free.,"KHOJASTEHPOUR, Mohammad Ali",IRI,Men,- 52kg (flyweight),M,Silver
+9747,Melbourne / Stockholm,1956,Wrestling,Wrestling Free.,"KANGASNIEMI, Taisto Ilmari",FIN,Men,+ 87kg (heavyweight),M,Bronze
+9748,Melbourne / Stockholm,1956,Wrestling,Wrestling Free.,"KAPLAN, Hamit",TUR,Men,+ 87kg (heavyweight),M,Gold
+9749,Melbourne / Stockholm,1956,Wrestling,Wrestling Free.,"MEKMEDOV, Hussein Alitiev",BUL,Men,+ 87kg (heavyweight),M,Silver
+9750,Melbourne / Stockholm,1956,Wrestling,Wrestling Free.,"SHAKHOV, Mikhail",URS,Men,52 - 57kg (bantamweight),M,Bronze
+9751,Melbourne / Stockholm,1956,Wrestling,Wrestling Free.,"DAGISTANLI, Mustafa",TUR,Men,52 - 57kg (bantamweight),M,Gold
+9752,Melbourne / Stockholm,1956,Wrestling,Wrestling Free.,"YAGHOUBI, Mohammad Mehdi",IRI,Men,52 - 57kg (bantamweight),M,Silver
+9753,Melbourne / Stockholm,1956,Wrestling,Wrestling Free.,"PENTTILÄ, Erkki Eino Antero",FIN,Men,57 - 63kg (featherweight),M,Bronze
+9754,Melbourne / Stockholm,1956,Wrestling,Wrestling Free.,"SASAHARA, Shozo",JPN,Men,57 - 63kg (featherweight),M,Gold
+9755,Melbourne / Stockholm,1956,Wrestling,Wrestling Free.,"MEWIS, Joseph",BEL,Men,57 - 63kg (featherweight),M,Silver
+9756,Melbourne / Stockholm,1956,Wrestling,Wrestling Free.,"BESTAEV, Alimbeg",URS,Men,63 - 67kg (lightweight),M,Bronze
+9757,Melbourne / Stockholm,1956,Wrestling,Wrestling Free.,"HABIBI-GOUDARZI, Emamali",IRI,Men,63 - 67kg (lightweight),M,Gold
+9758,Melbourne / Stockholm,1956,Wrestling,Wrestling Free.,"KASAHARA, Shigeru",JPN,Men,63 - 67kg (lightweight),M,Silver
+9759,Melbourne / Stockholm,1956,Wrestling,Wrestling Free.,"BALAVADZE, Vakhtang",URS,Men,67 - 73kg (welterweight),M,Bronze
+9760,Melbourne / Stockholm,1956,Wrestling,Wrestling Free.,"IKEDA, Mitsuo",JPN,Men,67 - 73kg (welterweight),M,Gold
+9761,Melbourne / Stockholm,1956,Wrestling,Wrestling Free.,"ZENGIN, Ibrahim",TUR,Men,67 - 73kg (welterweight),M,Silver
+9762,Melbourne / Stockholm,1956,Wrestling,Wrestling Free.,"SKHIRTLADZE, Georgi",URS,Men,73 - 79kg (middleweight),M,Bronze
+9763,Melbourne / Stockholm,1956,Wrestling,Wrestling Free.,"STANCHEV, Nikola Nikolov",BUL,Men,73 - 79kg (middleweight),M,Gold
+9764,Melbourne / Stockholm,1956,Wrestling,Wrestling Free.,"HODGE, Daniel Allen",USA,Men,73 - 79kg (middleweight),M,Silver
+9765,Melbourne / Stockholm,1956,Wrestling,Wrestling Free.,"BLAIR, Peter Steele",USA,Men,79 - 87kg (light-heavyweight),M,Bronze
+9766,Melbourne / Stockholm,1956,Wrestling,Wrestling Free.,"TAKHTI, Gholam Reza",IRI,Men,79 - 87kg (light-heavyweight),M,Gold
+9767,Melbourne / Stockholm,1956,Wrestling,Wrestling Free.,"KULAEV, Boris",URS,Men,79 - 87kg (light-heavyweight),M,Silver
+9768,Melbourne / Stockholm,1956,Wrestling,Wrestling Gre-R,"EGRIBAS, Dursan Ali",TUR,Men,- 52kg (flyweight),M,Bronze
+9769,Melbourne / Stockholm,1956,Wrestling,Wrestling Gre-R,"SOLOVIEV, Nikolai",URS,Men,- 52kg (flyweight),M,Gold
+9770,Melbourne / Stockholm,1956,Wrestling,Wrestling Gre-R,"FABRA, Ignazio",ITA,Men,- 52kg (flyweight),M,Silver
+9771,Melbourne / Stockholm,1956,Wrestling,Wrestling Gre-R,"BULGARELLI, Adelmo",ITA,Men,+ 87kg (super heavyweight),M,Bronze
+9772,Melbourne / Stockholm,1956,Wrestling,Wrestling Gre-R,"PARFENOV, Anatoli",URS,Men,+ 87kg (super heavyweight),M,Gold
+9773,Melbourne / Stockholm,1956,Wrestling,Wrestling Gre-R,"DIETRICH, Wilfried",EUA,Men,+ 87kg (super heavyweight),M,Silver
+9774,Melbourne / Stockholm,1956,Wrestling,Wrestling Gre-R,"HORVATH, Francisc",ROU,Men,52 - 57kg (bantamweight),M,Bronze
+9775,Melbourne / Stockholm,1956,Wrestling,Wrestling Gre-R,"VYRUPAEV, Konstantin",URS,Men,52 - 57kg (bantamweight),M,Gold
+9776,Melbourne / Stockholm,1956,Wrestling,Wrestling Gre-R,"VESTERBY, Edvin",SWE,Men,52 - 57kg (bantamweight),M,Silver
+9777,Melbourne / Stockholm,1956,Wrestling,Wrestling Gre-R,"DZENELADZE, Roman",URS,Men,57 - 61kg (featherweight),M,Bronze
+9778,Melbourne / Stockholm,1956,Wrestling,Wrestling Gre-R,"MÄKINEN, Rauno Leonard",FIN,Men,57 - 61kg (featherweight),M,Gold
+9779,Melbourne / Stockholm,1956,Wrestling,Wrestling Gre-R,"POLYAK, Imre",HUN,Men,57 - 61kg (featherweight),M,Silver
+9780,Melbourne / Stockholm,1956,Wrestling,Wrestling Gre-R,"TOTH, Gyula",HUN,Men,61 - 67kg (lightweight),M,Bronze
+9781,Melbourne / Stockholm,1956,Wrestling,Wrestling Gre-R,"LEHTONEN, Kyösti Eemil",FIN,Men,61 - 67kg (lightweight),M,Gold
+9782,Melbourne / Stockholm,1956,Wrestling,Wrestling Gre-R,"DOGAN, Riza",TUR,Men,61 - 67kg (lightweight),M,Silver
+9783,Melbourne / Stockholm,1956,Wrestling,Wrestling Gre-R,"BERLIN, Per Gunnar",SWE,Men,67 - 73kg (welterweight),M,Bronze
+9784,Melbourne / Stockholm,1956,Wrestling,Wrestling Gre-R,"BAYRAK, Mithat",TUR,Men,67 - 73kg (welterweight),M,Gold
+9785,Melbourne / Stockholm,1956,Wrestling,Wrestling Gre-R,"MANEEV, Vladimir",URS,Men,67 - 73kg (welterweight),M,Silver
+9786,Melbourne / Stockholm,1956,Wrestling,Wrestling Gre-R,"JANSSON, Rune",SWE,Men,73 - 79kg (middleweight),M,Bronze
+9787,Melbourne / Stockholm,1956,Wrestling,Wrestling Gre-R,"KARTOZIYA, Givi",URS,Men,73 - 79kg (middleweight),M,Gold
+9788,Melbourne / Stockholm,1956,Wrestling,Wrestling Gre-R,"DOBREV, Dimitre Dimitrov",BUL,Men,73 - 79kg (middleweight),M,Silver
+9789,Melbourne / Stockholm,1956,Wrestling,Wrestling Gre-R,"NILSSON, Karl-Erik",SWE,Men,79 - 87kg (light-heavyweight),M,Bronze
+9790,Melbourne / Stockholm,1956,Wrestling,Wrestling Gre-R,"NIKOLAEV, Valentin",URS,Men,79 - 87kg (light-heavyweight),M,Gold
+9791,Melbourne / Stockholm,1956,Wrestling,Wrestling Gre-R,"SIRAKOV, Petko Atanasov",BUL,Men,79 - 87kg (light-heavyweight),M,Silver

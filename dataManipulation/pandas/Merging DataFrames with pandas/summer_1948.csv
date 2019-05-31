@@ -1,0 +1,815 @@
+,City,Edition,Sport,Discipline,Athlete,NOC,Gender,Event,Event_gender,Medal
+7204,London,1948,Aquatics,Diving,"CAPILLA PEREZ, Joaquin",MEX,Men,10m platform,M,Bronze
+7205,London,1948,Aquatics,Diving,"LEE, Samuel",USA,Men,10m platform,M,Gold
+7206,London,1948,Aquatics,Diving,"HARLAN, Bruce Ira",USA,Men,10m platform,M,Silver
+7207,London,1948,Aquatics,Diving,"CHRISTOFFERSEN-HANSON, Birte",DEN,Women,10m platform,W,Bronze
+7208,London,1948,Aquatics,Diving,"DRAVES, Victoria Manalo",USA,Women,10m platform,W,Gold
+7209,London,1948,Aquatics,Diving,"ELSENER, Patricia Anne",USA,Women,10m platform,W,Silver
+7210,London,1948,Aquatics,Diving,"LEE, Samuel",USA,Men,3m springboard,M,Bronze
+7211,London,1948,Aquatics,Diving,"HARLAN, Bruce Ira",USA,Men,3m springboard,M,Gold
+7212,London,1948,Aquatics,Diving,"ANDERSON, Miller Altman",USA,Men,3m springboard,M,Silver
+7213,London,1948,Aquatics,Diving,"ELSENER, Patricia Anne",USA,Women,3m springboard,W,Bronze
+7214,London,1948,Aquatics,Diving,"DRAVES, Victoria Manalo",USA,Women,3m springboard,W,Gold
+7215,London,1948,Aquatics,Diving,"OLSEN-JENSEN, Zoe-Ann",USA,Women,3m springboard,W,Silver
+7216,London,1948,Aquatics,Swimming,"VALLEREY JR., Georges",FRA,Men,100m backstroke,M,Bronze
+7217,London,1948,Aquatics,Swimming,"STACK, Allen Mcintyre",USA,Men,100m backstroke,M,Gold
+7218,London,1948,Aquatics,Swimming,"COWELL, Robert Elmer",USA,Men,100m backstroke,M,Silver
+7219,London,1948,Aquatics,Swimming,"DAVIES, Judith Joy",AUS,Women,100m backstroke,W,Bronze
+7220,London,1948,Aquatics,Swimming,"HARUP, Karen Margrethe",DEN,Women,100m backstroke,W,Gold
+7221,London,1948,Aquatics,Swimming,"ZIMMERMAN, Suzanne Winona",USA,Women,100m backstroke,W,Silver
+7222,London,1948,Aquatics,Swimming,"KADAS, Geza",HUN,Men,100m freestyle,M,Bronze
+7223,London,1948,Aquatics,Swimming,"RIS, Walter Stephen",USA,Men,100m freestyle,M,Gold
+7224,London,1948,Aquatics,Swimming,"FORD, Alan Robert",USA,Men,100m freestyle,M,Silver
+7225,London,1948,Aquatics,Swimming,"LINSSEN-VAESSEN, Marie-Louise Jean",NED,Women,100m freestyle,W,Bronze
+7226,London,1948,Aquatics,Swimming,"ANDERSEN, Greta Marie",DEN,Women,100m freestyle,W,Gold
+7227,London,1948,Aquatics,Swimming,"CURTIS, Ann Elisabeth",USA,Women,100m freestyle,W,Silver
+7228,London,1948,Aquatics,Swimming,"MITRO, György",HUN,Men,1500m freestyle,M,Bronze
+7229,London,1948,Aquatics,Swimming,"MCLANE, James Price Jr.",USA,Men,1500m freestyle,M,Gold
+7230,London,1948,Aquatics,Swimming,"MARSHALL, John Birnie",AUS,Men,1500m freestyle,M,Silver
+7231,London,1948,Aquatics,Swimming,"SOHL, Robert Raymond",USA,Men,200m breaststroke,M,Bronze
+7232,London,1948,Aquatics,Swimming,"VERDEUR, Joseph Thomas",USA,Men,200m breaststroke,M,Gold
+7233,London,1948,Aquatics,Swimming,"CARTER, Keith Eyre",USA,Men,200m breaststroke,M,Silver
+7234,London,1948,Aquatics,Swimming,"NOVAK-GERARD, Eva",HUN,Women,200m breaststroke,W,Bronze
+7235,London,1948,Aquatics,Swimming,"VAN VLIET, Petronella (Nel)",NED,Women,200m breaststroke,W,Gold
+7236,London,1948,Aquatics,Swimming,"LYONS, Beatrice Nancy",AUS,Women,200m breaststroke,W,Silver
+7237,London,1948,Aquatics,Swimming,"MARSHALL, John Birnie",AUS,Men,400m freestyle,M,Bronze
+7238,London,1948,Aquatics,Swimming,"SMITH, William M. Jr.",USA,Men,400m freestyle,M,Gold
+7239,London,1948,Aquatics,Swimming,"MCLANE, James Price Jr.",USA,Men,400m freestyle,M,Silver
+7240,London,1948,Aquatics,Swimming,"GIBSON, Catherine",GBR,Women,400m freestyle,W,Bronze
+7241,London,1948,Aquatics,Swimming,"CURTIS, Ann Elisabeth",USA,Women,400m freestyle,W,Gold
+7242,London,1948,Aquatics,Swimming,"HARUP, Karen Margrethe",DEN,Women,400m freestyle,W,Silver
+7243,London,1948,Aquatics,Swimming,"HEIJTING-SCHUHMACHER, Irma",NED,Women,4x100m freestyle relay,W,Bronze
+7244,London,1948,Aquatics,Swimming,"LINSSEN-VAESSEN, Marie-Louise Jean",NED,Women,4x100m freestyle relay,W,Bronze
+7245,London,1948,Aquatics,Swimming,"MARSMAN, Margot",NED,Women,4x100m freestyle relay,W,Bronze
+7246,London,1948,Aquatics,Swimming,"TERMEULEN, Johanna Maria",NED,Women,4x100m freestyle relay,W,Bronze
+7247,London,1948,Aquatics,Swimming,"CORRIDON, Marie Louise",USA,Women,4x100m freestyle relay,W,Gold
+7248,London,1948,Aquatics,Swimming,"CURTIS, Ann Elisabeth",USA,Women,4x100m freestyle relay,W,Gold
+7249,London,1948,Aquatics,Swimming,"HELSER, Brenda Merserau",USA,Women,4x100m freestyle relay,W,Gold
+7250,London,1948,Aquatics,Swimming,"KALAMA, Thelma H.",USA,Women,4x100m freestyle relay,W,Gold
+7251,London,1948,Aquatics,Swimming,"ANDERSEN, Greta Marie",DEN,Women,4x100m freestyle relay,W,Silver
+7252,London,1948,Aquatics,Swimming,"CARSTENSEN, Fritze Wulf",DEN,Women,4x100m freestyle relay,W,Silver
+7253,London,1948,Aquatics,Swimming,"HARUP, Karen Margrethe",DEN,Women,4x100m freestyle relay,W,Silver
+7254,London,1948,Aquatics,Swimming,"RIISE, Eva Johanne",DEN,Women,4x100m freestyle relay,W,Silver
+7255,London,1948,Aquatics,Swimming,"BERNARDO, Joseph",FRA,Men,4x200m freestyle relay,M,Bronze
+7256,London,1948,Aquatics,Swimming,"CORNU, Rene",FRA,Men,4x200m freestyle relay,M,Bronze
+7257,London,1948,Aquatics,Swimming,"JANY, Alexandre",FRA,Men,4x200m freestyle relay,M,Bronze
+7258,London,1948,Aquatics,Swimming,"PADOU JR., Henri",FRA,Men,4x200m freestyle relay,M,Bronze
+7259,London,1948,Aquatics,Swimming,"MCLANE, James Price Jr.",USA,Men,4x200m freestyle relay,M,Gold
+7260,London,1948,Aquatics,Swimming,"RIS, Walter Stephen",USA,Men,4x200m freestyle relay,M,Gold
+7261,London,1948,Aquatics,Swimming,"SMITH, William M. Jr.",USA,Men,4x200m freestyle relay,M,Gold
+7262,London,1948,Aquatics,Swimming,"WOLF, Wallace Perry",USA,Men,4x200m freestyle relay,M,Gold
+7263,London,1948,Aquatics,Swimming,"KADAS, Geza",HUN,Men,4x200m freestyle relay,M,Silver
+7264,London,1948,Aquatics,Swimming,"MITRO, György",HUN,Men,4x200m freestyle relay,M,Silver
+7265,London,1948,Aquatics,Swimming,"NYEKI, Imre",HUN,Men,4x200m freestyle relay,M,Silver
+7266,London,1948,Aquatics,Swimming,"SZATMARI, Elemer",HUN,Men,4x200m freestyle relay,M,Silver
+7267,London,1948,Aquatics,Water polo,"BRAASEM, Cornelis",NED,Men,water polo,M,Bronze
+7268,London,1948,Aquatics,Water polo,"KEETELAAR, Hendrikus Zacharias",NED,Men,water polo,M,Bronze
+7269,London,1948,Aquatics,Water polo,"KOREVAAR, Cornelis (Nijs)",NED,Men,water polo,M,Bronze
+7270,London,1948,Aquatics,Water polo,"ROHNER, Johannes Jacobus",NED,Men,water polo,M,Bronze
+7271,London,1948,Aquatics,Water polo,"RUIMSCHOTEL, Albert Frits",NED,Men,water polo,M,Bronze
+7272,London,1948,Aquatics,Water polo,"SALOMONS, Pieter Johannes Alexander",NED,Men,water polo,M,Bronze
+7273,London,1948,Aquatics,Water polo,"SMOL, Frits",NED,Men,water polo,M,Bronze
+7274,London,1948,Aquatics,Water polo,"STAM, Hans",NED,Men,water polo,M,Bronze
+7275,London,1948,Aquatics,Water polo,"VAN FEGGELEN, Rudolh Fredrik Otto",NED,Men,water polo,M,Bronze
+7276,London,1948,Aquatics,Water polo,"ARENA, Ermenegildo",ITA,Men,water polo,M,Gold
+7277,London,1948,Aquatics,Water polo,"BULGARELLI, Emilio",ITA,Men,water polo,M,Gold
+7278,London,1948,Aquatics,Water polo,"BUONOCORE, Pasquale",ITA,Men,water polo,M,Gold
+7279,London,1948,Aquatics,Water polo,"GHIRA, Aldo",ITA,Men,water polo,M,Gold
+7280,London,1948,Aquatics,Water polo,"MAIONI, Mario",ITA,Men,water polo,M,Gold
+7281,London,1948,Aquatics,Water polo,"OGNIO, Geminio",ITA,Men,water polo,M,Gold
+7282,London,1948,Aquatics,Water polo,"PANDOLFINI, Gianfranco",ITA,Men,water polo,M,Gold
+7283,London,1948,Aquatics,Water polo,"PANDOLFINI, Tullio",ITA,Men,water polo,M,Gold
+7284,London,1948,Aquatics,Water polo,"RUBINI, Cesare",ITA,Men,water polo,M,Gold
+7285,London,1948,Aquatics,Water polo,"BRANDI, Jenö",HUN,Men,water polo,M,Silver
+7286,London,1948,Aquatics,Water polo,"CSUVIK, Oszkar",HUN,Men,water polo,M,Silver
+7287,London,1948,Aquatics,Water polo,"FABIAN, Dezsö",HUN,Men,water polo,M,Silver
+7288,London,1948,Aquatics,Water polo,"GYARMATI, Dezso",HUN,Men,water polo,M,Silver
+7289,London,1948,Aquatics,Water polo,"GYORFFI, Endre",HUN,Men,water polo,M,Silver
+7290,London,1948,Aquatics,Water polo,"HOLOP, Miklos",HUN,Men,water polo,M,Silver
+7291,London,1948,Aquatics,Water polo,"JENEI, Laszlo",HUN,Men,water polo,M,Silver
+7292,London,1948,Aquatics,Water polo,"LEMHENYI, DezsÃ¶",HUN,Men,water polo,M,Silver
+7293,London,1948,Aquatics,Water polo,"SZITTYA, Karoly",HUN,Men,water polo,M,Silver
+7294,London,1948,Aquatics,Water polo,"SZIVOS, Istvan",HUN,Men,water polo,M,Silver
+7295,London,1948,Athletics,Athletics,"ALBERTSSON, Bertil",SWE,Men,10000m,M,Bronze
+7296,London,1948,Athletics,Athletics,"ZATOPEK, Emil",TCH,Men,10000m,M,Gold
+7297,London,1948,Athletics,Athletics,"MIMOUN, Alain",FRA,Men,10000m,M,Silver
+7298,London,1948,Athletics,Athletics,"SCHWAB, Erich Arthur Fritz",SUI,Men,10000m walk,M,Bronze
+7299,London,1948,Athletics,Athletics,"MIKAELSSON, John",SWE,Men,10000m walk,M,Gold
+7300,London,1948,Athletics,Athletics,"JOHANSSON, Ingemar",SWE,Men,10000m walk,M,Silver
+7301,London,1948,Athletics,Athletics,"LABEACH, Lloyd",PAN,Men,100m,M,Bronze
+7302,London,1948,Athletics,Athletics,"DILLARD, Harrison",USA,Men,100m,M,Gold
+7303,London,1948,Athletics,Athletics,"EWELL, Harold Norwood",USA,Men,100m,M,Silver
+7304,London,1948,Athletics,Athletics,"STRICKLAND-DE LA HUNTY, Shirley",AUS,Women,100m,W,Bronze
+7305,London,1948,Athletics,Athletics,"BLANKERS-KOEN, Fanny",NED,Women,100m,W,Gold
+7306,London,1948,Athletics,Athletics,"MANLEY, Dorothy Gladys",GBR,Women,100m,W,Silver
+7307,London,1948,Athletics,Athletics,"DIXON, Craig",USA,Men,110m hurdles,M,Bronze
+7308,London,1948,Athletics,Athletics,"PORTER, William Franklin III",USA,Men,110m hurdles,M,Gold
+7309,London,1948,Athletics,Athletics,"SCOTT, Clyde",USA,Men,110m hurdles,M,Silver
+7310,London,1948,Athletics,Athletics,"SLIJKHUIS, Willem",NED,Men,1500m,M,Bronze
+7311,London,1948,Athletics,Athletics,"ERIKSSON, Henry",SWE,Men,1500m,M,Gold
+7312,London,1948,Athletics,Athletics,"STRAND, Lennart",SWE,Men,1500m,M,Silver
+7313,London,1948,Athletics,Athletics,"LABEACH, Lloyd",PAN,Men,200m,M,Bronze
+7314,London,1948,Athletics,Athletics,"PATTON, Melvin Emery",USA,Men,200m,M,Gold
+7315,London,1948,Athletics,Athletics,"EWELL, Harold Norwood",USA,Men,200m,M,Silver
+7316,London,1948,Athletics,Athletics,"PATTERSON, Audrey Mickey",USA,Women,200m,W,Bronze
+7317,London,1948,Athletics,Athletics,"BLANKERS-KOEN, Fanny",NED,Women,200m,W,Gold
+7318,London,1948,Athletics,Athletics,"WILLIAMSON, Audrey Doreen Swayne",GBR,Women,200m,W,Silver
+7319,London,1948,Athletics,Athletics,"HAGSTRÖM, Göte",SWE,Men,3000m steeplechase,M,Bronze
+7320,London,1948,Athletics,Athletics,"SJÖSTRAND, Tore",SWE,Men,3000m steeplechase,M,Gold
+7321,London,1948,Athletics,Athletics,"ELMSATER, Erik",SWE,Men,3000m steeplechase,M,Silver
+7322,London,1948,Athletics,Athletics,"WHITFIELD, Malvin Groston",USA,Men,400m,M,Bronze
+7323,London,1948,Athletics,Athletics,"WINT, Arthur",JAM,Men,400m,M,Gold
+7324,London,1948,Athletics,Athletics,"MCKENLEY, Herbert",JAM,Men,400m,M,Silver
+7325,London,1948,Athletics,Athletics,"LARSSON, Rune",SWE,Men,400m hurdles,M,Bronze
+7326,London,1948,Athletics,Athletics,"COCHRAN, Roy Braxton",USA,Men,400m hurdles,M,Gold
+7327,London,1948,Athletics,Athletics,"WHITE, Duncan",SRI,Men,400m hurdles,M,Silver
+7328,London,1948,Athletics,Athletics,"MONTI, Carlo",ITA,Men,4x100m relay,M,Bronze
+7329,London,1948,Athletics,Athletics,"PERRUCCONI, Enrico",ITA,Men,4x100m relay,M,Bronze
+7330,London,1948,Athletics,Athletics,"SIDDI, Antonio",ITA,Men,4x100m relay,M,Bronze
+7331,London,1948,Athletics,Athletics,"TITO, Michele",ITA,Men,4x100m relay,M,Bronze
+7332,London,1948,Athletics,Athletics,"DILLARD, Harrison",USA,Men,4x100m relay,M,Gold
+7333,London,1948,Athletics,Athletics,"EWELL, Harold Norwood",USA,Men,4x100m relay,M,Gold
+7334,London,1948,Athletics,Athletics,"PATTON, Melvin Emery",USA,Men,4x100m relay,M,Gold
+7335,London,1948,Athletics,Athletics,"WRIGHT, Lorenzo Christopher",USA,Men,4x100m relay,M,Gold
+7336,London,1948,Athletics,Athletics,"ARCHER, John",GBR,Men,4x100m relay,M,Silver
+7337,London,1948,Athletics,Athletics,"GREGORY, John Arthur",GBR,Men,4x100m relay,M,Silver
+7338,London,1948,Athletics,Athletics,"JONES, Kenneth Jeffrey",GBR,Men,4x100m relay,M,Silver
+7339,London,1948,Athletics,Athletics,"MCCORQUODALE, Alastair",GBR,Men,4x100m relay,M,Silver
+7340,London,1948,Athletics,Athletics,"FOSTER, Dianne P.",CAN,Women,4x100m relay,W,Bronze
+7341,London,1948,Athletics,Athletics,"JONES, Patricia",CAN,Women,4x100m relay,W,Bronze
+7342,London,1948,Athletics,Athletics,"MACKAY-MURRALL, Nancy",CAN,Women,4x100m relay,W,Bronze
+7343,London,1948,Athletics,Athletics,"MEYERS, Violet",CAN,Women,4x100m relay,W,Bronze
+7344,London,1948,Athletics,Athletics,"BLANKERS-KOEN, Fanny",NED,Women,4x100m relay,W,Gold
+7345,London,1948,Athletics,Athletics,"STAD-DE JONG, Xenia",NED,Women,4x100m relay,W,Gold
+7346,London,1948,Athletics,Athletics,"VAN DER KADE-KOUDIJS, Gerda Johanna Marie",NED,Women,4x100m relay,W,Gold
+7347,London,1948,Athletics,Athletics,"WITZIERS-TIMMER, Jeannette Josephina Maria",NED,Women,4x100m relay,W,Gold
+7348,London,1948,Athletics,Athletics,"KING-WALKER, Joyce A.",AUS,Women,4x100m relay,W,Silver
+7349,London,1948,Athletics,Athletics,"MASTON-FERGSON, June Rit",AUS,Women,4x100m relay,W,Silver
+7350,London,1948,Athletics,Athletics,"MCKINNON, Elizabeth",AUS,Women,4x100m relay,W,Silver
+7351,London,1948,Athletics,Athletics,"STRICKLAND-DE LA HUNTY, Shirley",AUS,Women,4x100m relay,W,Silver
+7352,London,1948,Athletics,Athletics,"ALNEVIK, Folke",SWE,Men,4x400m relay,M,Bronze
+7353,London,1948,Athletics,Athletics,"LARSSON, Rune",SWE,Men,4x400m relay,M,Bronze
+7354,London,1948,Athletics,Athletics,"LUNDQUIST, Kurt",SWE,Men,4x400m relay,M,Bronze
+7355,London,1948,Athletics,Athletics,"WOLFBRANDT, Lars-Erik",SWE,Men,4x400m relay,M,Bronze
+7356,London,1948,Athletics,Athletics,"BOURLAND, Clifford Frederick",USA,Men,4x400m relay,M,Gold
+7357,London,1948,Athletics,Athletics,"COCHRAN, Roy Braxton",USA,Men,4x400m relay,M,Gold
+7358,London,1948,Athletics,Athletics,"HARNDEN, Arthur Harold",USA,Men,4x400m relay,M,Gold
+7359,London,1948,Athletics,Athletics,"WHITFIELD, Malvin Groston",USA,Men,4x400m relay,M,Gold
+7360,London,1948,Athletics,Athletics,"CHEF D'HOTEL, Robert",FRA,Men,4x400m relay,M,Silver
+7361,London,1948,Athletics,Athletics,"KEREBEL, Jean",FRA,Men,4x400m relay,M,Silver
+7362,London,1948,Athletics,Athletics,"LUNIS, Jacques",FRA,Men,4x400m relay,M,Silver
+7363,London,1948,Athletics,Athletics,"SCHEWETTA, Francois",FRA,Men,4x400m relay,M,Silver
+7364,London,1948,Athletics,Athletics,"SLIJKHUIS, Willem",NED,Men,5000m,M,Bronze
+7365,London,1948,Athletics,Athletics,"REIFF, Gaston Etienne",BEL,Men,5000m,M,Gold
+7366,London,1948,Athletics,Athletics,"ZATOPEK, Emil",TCH,Men,5000m,M,Silver
+7367,London,1948,Athletics,Athletics,"JOHNSON, Terence Lloyd",GBR,Men,50km walk,M,Bronze
+7368,London,1948,Athletics,Athletics,"LJUNGGREN, John Artur",SWE,Men,50km walk,M,Gold
+7369,London,1948,Athletics,Athletics,"GODEL, Gaston",SUI,Men,50km walk,M,Silver
+7370,London,1948,Athletics,Athletics,"HANSENNE, Marcel",FRA,Men,800m,M,Bronze
+7371,London,1948,Athletics,Athletics,"WHITFIELD, Malvin Groston",USA,Men,800m,M,Gold
+7372,London,1948,Athletics,Athletics,"WINT, Arthur",JAM,Men,800m,M,Silver
+7373,London,1948,Athletics,Athletics,"STRICKLAND-DE LA HUNTY, Shirley",AUS,Women,80m hurdles,W,Bronze
+7374,London,1948,Athletics,Athletics,"BLANKERS-KOEN, Fanny",NED,Women,80m hurdles,W,Gold
+7375,London,1948,Athletics,Athletics,"GARDNER, Maureen Angela Jane",GBR,Women,80m hurdles,W,Silver
+7376,London,1948,Athletics,Athletics,"SIMMONS, Floyd Macon Jr.",USA,Men,decathlon,M,Bronze
+7377,London,1948,Athletics,Athletics,"MATHIAS, Robert",USA,Men,decathlon,M,Gold
+7378,London,1948,Athletics,Athletics,"HEINRICH, Ignace",FRA,Men,decathlon,M,Silver
+7379,London,1948,Athletics,Athletics,"GORDIEN, Fortune Edward",USA,Men,discus throw,M,Bronze
+7380,London,1948,Athletics,Athletics,"CONSOLINI, Adolfo",ITA,Men,discus throw,M,Gold
+7381,London,1948,Athletics,Athletics,"TOSI, Giuseppe",ITA,Men,discus throw,M,Silver
+7382,London,1948,Athletics,Athletics,"MAZEAS, Jacqueline",FRA,Women,discus throw,W,Bronze
+7383,London,1948,Athletics,Athletics,"OSTERMEYER, Micheline",FRA,Women,discus throw,W,Gold
+7384,London,1948,Athletics,Athletics,"CORDIALE-GENTILE, Edera",ITA,Women,discus throw,W,Silver
+7385,London,1948,Athletics,Athletics,"BENNETT, Robert Howard",USA,Men,hammer throw,M,Bronze
+7386,London,1948,Athletics,Athletics,"NEMETH, Imre",HUN,Men,hammer throw,M,Gold
+7387,London,1948,Athletics,Athletics,"GUBIJAN, Ivan",YUG,Men,hammer throw,M,Silver
+7388,London,1948,Athletics,Athletics,"STANICH, George Anthony",USA,Men,high jump,M,Bronze
+7389,London,1948,Athletics,Athletics,"WINTER, John",AUS,Men,high jump,M,Gold
+7390,London,1948,Athletics,Athletics,"PAULSON, Bjorn Andreas",NOR,Men,high jump,M,Silver
+7391,London,1948,Athletics,Athletics,"OSTERMEYER, Micheline",FRA,Women,high jump,W,Bronze
+7392,London,1948,Athletics,Athletics,"COACHMAN, Alice Marie",USA,Women,high jump,W,Gold
+7393,London,1948,Athletics,Athletics,"ODAM-TYLER, Dorothy Beatrice J.",GBR,Women,high jump,W,Silver
+7394,London,1948,Athletics,Athletics,"VARSZEGI, Jozsef",HUN,Men,javelin throw,M,Bronze
+7395,London,1948,Athletics,Athletics,"RAUTAVAARA, Kaj Tapio",FIN,Men,javelin throw,M,Gold
+7396,London,1948,Athletics,Athletics,"SEYMOUR, Stephen Andrew",USA,Men,javelin throw,M,Silver
+7397,London,1948,Athletics,Athletics,"CARLSTEDT-KELSBY, Lily Marie Louise",DEN,Women,javelin throw,W,Bronze
+7398,London,1948,Athletics,Athletics,"BAUMA, Hermine (Herma)",AUT,Women,javelin throw,W,Gold
+7399,London,1948,Athletics,Athletics,"PARVIAINEN, Kaisa",FIN,Women,javelin throw,W,Silver
+7400,London,1948,Athletics,Athletics,"DOUGLAS, Herbert Paul Jr.",USA,Men,long jump,M,Bronze
+7401,London,1948,Athletics,Athletics,"STEELE, William Samuel",USA,Men,long jump,M,Gold
+7402,London,1948,Athletics,Athletics,"BRUCE, Thomas Theodore",AUS,Men,long jump,M,Silver
+7403,London,1948,Athletics,Athletics,"LEYMAN, Ann-Britt",SWE,Women,long jump,W,Bronze
+7404,London,1948,Athletics,Athletics,"GYARMATI, Olga",HUN,Women,long jump,W,Gold
+7405,London,1948,Athletics,Athletics,"SIMONETTO DE PORTELA, Noemi",ARG,Women,long jump,W,Silver
+7406,London,1948,Athletics,Athletics,"GAILLY, Etienne",BEL,Men,marathon,M,Bronze
+7407,London,1948,Athletics,Athletics,"CABRERA, Delfo",ARG,Men,marathon,M,Gold
+7408,London,1948,Athletics,Athletics,"RICHARDS, Thomas John Henry",GBR,Men,marathon,M,Silver
+7409,London,1948,Athletics,Athletics,"RICHARDS, Robert",USA,Men,pole vault,M,Bronze
+7410,London,1948,Athletics,Athletics,"SMITH, Owen Guinn",USA,Men,pole vault,M,Gold
+7411,London,1948,Athletics,Athletics,"KATAJA, Erkki Olavi",FIN,Men,pole vault,M,Silver
+7412,London,1948,Athletics,Athletics,"FUCHS, James Emanuel",USA,Men,shot put,M,Bronze
+7413,London,1948,Athletics,Athletics,"THOMPSON, Wilbur Marvin",USA,Men,shot put,M,Gold
+7414,London,1948,Athletics,Athletics,"DELANEY, Francis James",USA,Men,shot put,M,Silver
+7415,London,1948,Athletics,Athletics,"SCHÄFFER-MAYER, Ine",AUT,Women,shot put,W,Bronze
+7416,London,1948,Athletics,Athletics,"OSTERMEYER, Micheline",FRA,Women,shot put,W,Gold
+7417,London,1948,Athletics,Athletics,"PICCININI, Amelia",ITA,Women,shot put,W,Silver
+7418,London,1948,Athletics,Athletics,"SARIALP, Ruhi",TUR,Men,triple jump,M,Bronze
+7419,London,1948,Athletics,Athletics,"AHMAN, Arne",SWE,Men,triple jump,M,Gold
+7420,London,1948,Athletics,Athletics,"AVERY, George Gordon",AUS,Men,triple jump,M,Silver
+7421,London,1948,Basketball,Basketball,"AZEVEDO EVORA, Affonso",BRA,Men,basketball,M,Bronze
+7422,London,1948,Basketball,Basketball,"BENVENUTI, L.",BRA,Men,basketball,M,Bronze
+7423,London,1948,Basketball,Basketball,"BRAZ, Joao Francisco",BRA,Men,basketball,M,Bronze
+7424,London,1948,Basketball,Basketball,"DE AZEVEDO, Zenny",BRA,Men,basketball,M,Bronze
+7425,London,1948,Basketball,Basketball,"DE FREITAS, Rui",BRA,Men,basketball,M,Bronze
+7426,London,1948,Basketball,Basketball,"DIAS, Marcus Vinicius",BRA,Men,basketball,M,Bronze
+7427,London,1948,Basketball,Basketball,"GEMIGNANI, Alexandro",BRA,Men,basketball,M,Bronze
+7428,London,1948,Basketball,Basketball,"MARSON, Alberto",BRA,Men,basketball,M,Bronze
+7429,London,1948,Basketball,Basketball,"PACHECO DE OLIVEIRA, Nilton",BRA,Men,basketball,M,Bronze
+7430,London,1948,Basketball,Basketball,"RODRIGUES DA MOTTA, Alfredo",BRA,Men,basketball,M,Bronze
+7431,London,1948,Basketball,Basketball,"RODRIGUES, G.",BRA,Men,basketball,M,Bronze
+7432,London,1948,Basketball,Basketball,"SORCINELLI, Massinet",BRA,Men,basketball,M,Bronze
+7433,London,1948,Basketball,Basketball,"BARKER, Clifford Eugene",USA,Men,basketball,M,Gold
+7434,London,1948,Basketball,Basketball,"BARKSDALE, Donald Argee",USA,Men,basketball,M,Gold
+7435,London,1948,Basketball,Basketball,"BEARD, Ralph Milton Jr.",USA,Men,basketball,M,Gold
+7436,London,1948,Basketball,Basketball,"BECK, Lewis William Jr.",USA,Men,basketball,M,Gold
+7437,London,1948,Basketball,Basketball,"BORYLA, Vincent Joseph",USA,Men,basketball,M,Gold
+7438,London,1948,Basketball,Basketball,"CARPENTER, Gordon",USA,Men,basketball,M,Gold
+7439,London,1948,Basketball,Basketball,"GROZA, Alexander John",USA,Men,basketball,M,Gold
+7440,London,1948,Basketball,Basketball,"JONES, Wallace Clayton",USA,Men,basketball,M,Gold
+7441,London,1948,Basketball,Basketball,"KURLAND, Robert Albert",USA,Men,basketball,M,Gold
+7442,London,1948,Basketball,Basketball,"LUMPP, Raymond George",USA,Men,basketball,M,Gold
+7443,London,1948,Basketball,Basketball,"PITTS, Robert C.",USA,Men,basketball,M,Gold
+7444,London,1948,Basketball,Basketball,"RENICK, John (Jesse) Bernard",USA,Men,basketball,M,Gold
+7445,London,1948,Basketball,Basketball,"ROBINSON, Robert L.Jackson",USA,Men,basketball,M,Gold
+7446,London,1948,Basketball,Basketball,"ROLLINS, Kenneth Herman",USA,Men,basketball,M,Gold
+7447,London,1948,Basketball,Basketball,"BARRAIS, Andre",FRA,Men,basketball,M,Silver
+7448,London,1948,Basketball,Basketball,"BONNEVIE, Michel",FRA,Men,basketball,M,Silver
+7449,London,1948,Basketball,Basketball,"BUFFIERE, Andre",FRA,Men,basketball,M,Silver
+7450,London,1948,Basketball,Basketball,"CHOCAT, Rene",FRA,Men,basketball,M,Silver
+7451,London,1948,Basketball,Basketball,"DERENCY, Rene",FRA,Men,basketball,M,Silver
+7452,London,1948,Basketball,Basketball,"DESAYMONNET, Maurice",FRA,Men,basketball,M,Silver
+7453,London,1948,Basketball,Basketball,"EVEN, Andre",FRA,Men,basketball,M,Silver
+7454,London,1948,Basketball,Basketball,"GIRARDOT, Maurice",FRA,Men,basketball,M,Silver
+7455,London,1948,Basketball,Basketball,"GUILLOU, Fernand",FRA,Men,basketball,M,Silver
+7456,London,1948,Basketball,Basketball,"OFFNER, Raymond",FRA,Men,basketball,M,Silver
+7457,London,1948,Basketball,Basketball,"PERRIER, Jacques",FRA,Men,basketball,M,Silver
+7458,London,1948,Basketball,Basketball,"QUENIN, Yvan",FRA,Men,basketball,M,Silver
+7459,London,1948,Basketball,Basketball,"ROBUFFIC, Lucien",FRA,Men,basketball,M,Silver
+7460,London,1948,Basketball,Basketball,"THIOLON, Pierre",FRA,Men,basketball,M,Silver
+7461,London,1948,Boxing,Boxing,"HAN, Soo-An",KOR,Men,- 51kg (flyweight),M,Bronze
+7462,London,1948,Boxing,Boxing,"PEREZ, Pascual Nicolas",ARG,Men,- 51kg (flyweight),M,Gold
+7463,London,1948,Boxing,Boxing,"BANDINELLI, Spartaco",ITA,Men,- 51kg (flyweight),M,Silver
+7464,London,1948,Boxing,Boxing,"ARTHUR, John",RSA,Men,+ 80kg (heavyweight),M,Bronze
+7465,London,1948,Boxing,Boxing,"IGLESIAS, Rafael",ARG,Men,+ 80kg (heavyweight),M,Gold
+7466,London,1948,Boxing,Boxing,"NILSSON, Gunnar",SWE,Men,+ 80kg (heavyweight),M,Silver
+7467,London,1948,Boxing,Boxing,"VENEGAS, Juan E.",PUR,Men,51 - 54kg (bantamweight),M,Bronze
+7468,London,1948,Boxing,Boxing,"CSIK, Tibor",HUN,Men,51 - 54kg (bantamweight),M,Gold
+7469,London,1948,Boxing,Boxing,"ZUDDAS, Gianbattista",ITA,Men,51 - 54kg (bantamweight),M,Silver
+7470,London,1948,Boxing,Boxing,"ANTKIEWICZ, Aleksy",POL,Men,54 - 58kg (featherweight),M,Bronze
+7471,London,1948,Boxing,Boxing,"FORMENTI, Ernesto",ITA,Men,54 - 58kg (featherweight),M,Gold
+7472,London,1948,Boxing,Boxing,"SHEPHERD, Dennis",RSA,Men,54 - 58kg (featherweight),M,Silver
+7473,London,1948,Boxing,Boxing,"WAD, Svend",DEN,Men,58 - 62kg (lightweight),M,Bronze
+7474,London,1948,Boxing,Boxing,"DREYER, Gerald",RSA,Men,58 - 62kg (lightweight),M,Gold
+7475,London,1948,Boxing,Boxing,"VISSERS, Joseph",BEL,Men,58 - 62kg (lightweight),M,Silver
+7476,London,1948,Boxing,Boxing,"D'OTTAVIO, Alessandro",ITA,Men,62 - 67kg (welterweight),M,Bronze
+7477,London,1948,Boxing,Boxing,"TORMA, Julius",TCH,Men,62 - 67kg (welterweight),M,Gold
+7478,London,1948,Boxing,Boxing,"HERRING, Horace",USA,Men,62 - 67kg (welterweight),M,Silver
+7479,London,1948,Boxing,Boxing,"FONTANA, Ivano",ITA,Men,67 - 73kg (middleweight),M,Bronze
+7480,London,1948,Boxing,Boxing,"PAPP, Laszlo",HUN,Men,67 - 73kg (middleweight),M,Gold
+7481,London,1948,Boxing,Boxing,"WRIGHT, John A.",GBR,Men,67 - 73kg (middleweight),M,Silver
+7482,London,1948,Boxing,Boxing,"CIA, Mauro",ARG,Men,73 - 80kg (light-heavyweight),M,Bronze
+7483,London,1948,Boxing,Boxing,"HUNTER, George",RSA,Men,73 - 80kg (light-heavyweight),M,Gold
+7484,London,1948,Boxing,Boxing,"SCOTT, Donald E.",GBR,Men,73 - 80kg (light-heavyweight),M,Silver
+7485,London,1948,Canoe / Kayak,Canoe / Kayak F,"LANE, Norman Douglas",CAN,Men,C-1 10000m,M,Bronze
+7486,London,1948,Canoe / Kayak,Canoe / Kayak F,"CAPEK, Frantisek",TCH,Men,C-1 10000m,M,Gold
+7487,London,1948,Canoe / Kayak,Canoe / Kayak F,"HAVENS, Frank",USA,Men,C-1 10000m,M,Silver
+7488,London,1948,Canoe / Kayak,Canoe / Kayak F,"BOUTIGNY, Robert",FRA,Men,C-1 1000m (canoe single),M,Bronze
+7489,London,1948,Canoe / Kayak,Canoe / Kayak F,"HOLECEK, Josef",TCH,Men,C-1 1000m (canoe single),M,Gold
+7490,London,1948,Canoe / Kayak,Canoe / Kayak F,"BENNETT, Douglas H.",CAN,Men,C-1 1000m (canoe single),M,Silver
+7491,London,1948,Canoe / Kayak,Canoe / Kayak F,"DRANSART, Georges",FRA,Men,C-2 10000m,M,Bronze
+7492,London,1948,Canoe / Kayak,Canoe / Kayak F,"GANDIL, Georges",FRA,Men,C-2 10000m,M,Bronze
+7493,London,1948,Canoe / Kayak,Canoe / Kayak F,"LYSAK, Steven John",USA,Men,C-2 10000m,M,Gold
+7494,London,1948,Canoe / Kayak,Canoe / Kayak F,"MACKNOWSKI, Stephen Albert",USA,Men,C-2 10000m,M,Gold
+7495,London,1948,Canoe / Kayak,Canoe / Kayak F,"HAVEL, Vaclav",TCH,Men,C-2 10000m,M,Silver
+7496,London,1948,Canoe / Kayak,Canoe / Kayak F,"PECKA, Jiri",TCH,Men,C-2 10000m,M,Silver
+7497,London,1948,Canoe / Kayak,Canoe / Kayak F,"DRANSART, Georges",FRA,Men,C-2 1000m (canoe double),M,Bronze
+7498,London,1948,Canoe / Kayak,Canoe / Kayak F,"GANDIL, Georges",FRA,Men,C-2 1000m (canoe double),M,Bronze
+7499,London,1948,Canoe / Kayak,Canoe / Kayak F,"BRZAK-FELIX, Jan",TCH,Men,C-2 1000m (canoe double),M,Gold
+7500,London,1948,Canoe / Kayak,Canoe / Kayak F,"KUDRNA, Bohumil",TCH,Men,C-2 1000m (canoe double),M,Gold
+7501,London,1948,Canoe / Kayak,Canoe / Kayak F,"LYSAK, Steven John",USA,Men,C-2 1000m (canoe double),M,Silver
+7502,London,1948,Canoe / Kayak,Canoe / Kayak F,"MACKNOWSKI, Stephen Albert",USA,Men,C-2 1000m (canoe double),M,Silver
+7503,London,1948,Canoe / Kayak,Canoe / Kayak F,"SKABO, Eivind",NOR,Men,K-1 10000m,M,Bronze
+7504,London,1948,Canoe / Kayak,Canoe / Kayak F,"FREDRIKSSON, Gert",SWE,Men,K-1 10000m,M,Gold
+7505,London,1948,Canoe / Kayak,Canoe / Kayak F,"WIRES, Kurt Oskar",FIN,Men,K-1 10000m,M,Silver
+7506,London,1948,Canoe / Kayak,Canoe / Kayak F,"EBERHART, Henri",FRA,Men,K-1 1000m (kayak single),M,Bronze
+7507,London,1948,Canoe / Kayak,Canoe / Kayak F,"FREDRIKSSON, Gert",SWE,Men,K-1 1000m (kayak single),M,Gold
+7508,London,1948,Canoe / Kayak,Canoe / Kayak F,"ANDERSEN, Johan Frederik Kobberup",DEN,Men,K-1 1000m (kayak single),M,Silver
+7509,London,1948,Canoe / Kayak,Canoe / Kayak F,"SCHWINGL, Friederike",AUT,Women,K-1 500m (kayak single),W,Bronze
+7510,London,1948,Canoe / Kayak,Canoe / Kayak F,"HOFF, Karen",DEN,Women,K-1 500m (kayak single),W,Gold
+7511,London,1948,Canoe / Kayak,Canoe / Kayak F,"VAN DER ANKER-DOEDENS, Alida Geertruida",NED,Women,K-1 500m (kayak single),W,Silver
+7512,London,1948,Canoe / Kayak,Canoe / Kayak F,"AXELSSON, Thor",FIN,Men,K-2 10000m,M,Bronze
+7513,London,1948,Canoe / Kayak,Canoe / Kayak F,"BJÖRKLÖF, Nils",FIN,Men,K-2 10000m,M,Bronze
+7514,London,1948,Canoe / Kayak,Canoe / Kayak F,"AKERLUND, Gunnar",SWE,Men,K-2 10000m,M,Gold
+7515,London,1948,Canoe / Kayak,Canoe / Kayak F,"WETTERSTRÖM, Hans",SWE,Men,K-2 10000m,M,Gold
+7516,London,1948,Canoe / Kayak,Canoe / Kayak F,"MATHISEN, Ivar",NOR,Men,K-2 10000m,M,Silver
+7517,London,1948,Canoe / Kayak,Canoe / Kayak F,"OSTBYE, Knut",NOR,Men,K-2 10000m,M,Silver
+7518,London,1948,Canoe / Kayak,Canoe / Kayak F,"AXELSSON, Thor",FIN,Men,K-2 1000m (kayak double),M,Bronze
+7519,London,1948,Canoe / Kayak,Canoe / Kayak F,"BJÖRKLÖF, Nils",FIN,Men,K-2 1000m (kayak double),M,Bronze
+7520,London,1948,Canoe / Kayak,Canoe / Kayak F,"BERGLUND, Hans",SWE,Men,K-2 1000m (kayak double),M,Gold
+7521,London,1948,Canoe / Kayak,Canoe / Kayak F,"KLINGSTRÖM, Lennart",SWE,Men,K-2 1000m (kayak double),M,Gold
+7522,London,1948,Canoe / Kayak,Canoe / Kayak F,"HANSEN, Ejvind Willy",DEN,Men,K-2 1000m (kayak double),M,Silver
+7523,London,1948,Canoe / Kayak,Canoe / Kayak F,"JENSEN, Jakob Bernhard Christian",DEN,Men,K-2 1000m (kayak double),M,Silver
+7524,London,1948,Cycling,Cycling Road,"WOUTERS, Lode Alphonse",BEL,Men,individual road race,M,Bronze
+7525,London,1948,Cycling,Cycling Road,"BEYAERT, Jose",FRA,Men,individual road race,M,Gold
+7526,London,1948,Cycling,Cycling Road,"VOORTING, Gerardus Petrus",NED,Men,individual road race,M,Silver
+7527,London,1948,Cycling,Cycling Road,"BEYAERT, Jose",FRA,Men,team time trial,M,Bronze
+7528,London,1948,Cycling,Cycling Road,"DUPONT, Jacques",FRA,Men,team time trial,M,Bronze
+7529,London,1948,Cycling,Cycling Road,"MOINEAU, Alain",FRA,Men,team time trial,M,Bronze
+7530,London,1948,Cycling,Cycling Road,"DELATHOUWER, Leon",BEL,Men,team time trial,M,Gold
+7531,London,1948,Cycling,Cycling Road,"VAN ROSOSBROECK, Eugene",BEL,Men,team time trial,M,Gold
+7532,London,1948,Cycling,Cycling Road,"WOUTERS, Lode Alphonse",BEL,Men,team time trial,M,Gold
+7533,London,1948,Cycling,Cycling Road,"MAITLAND, Robert John",GBR,Men,team time trial,M,Silver
+7534,London,1948,Cycling,Cycling Road,"SCOTT, Cyril Ian",GBR,Men,team time trial,M,Silver
+7535,London,1948,Cycling,Cycling Road,"THOMAS, Gordon W.",GBR,Men,team time trial,M,Silver
+7536,London,1948,Cycling,Cycling Track,"GODWIN, Thomas Charles",GBR,Men,1km time trial,M,Bronze
+7537,London,1948,Cycling,Cycling Track,"DUPONT, Jacques",FRA,Men,1km time trial,M,Gold
+7538,London,1948,Cycling,Cycling Track,"NIHANT, Pierre",BEL,Men,1km time trial,M,Silver
+7539,London,1948,Cycling,Cycling Track,"DRON, Georges",FRA,Men,2000m tandem,M,Bronze
+7540,London,1948,Cycling,Cycling Track,"FAYE, Rene",FRA,Men,2000m tandem,M,Bronze
+7541,London,1948,Cycling,Cycling Track,"PERONA, Renato",ITA,Men,2000m tandem,M,Gold
+7542,London,1948,Cycling,Cycling Track,"TERRUZZI, Ferdinando",ITA,Men,2000m tandem,M,Gold
+7543,London,1948,Cycling,Cycling Track,"BANNISTER, Alan",GBR,Men,2000m tandem,M,Silver
+7544,London,1948,Cycling,Cycling Track,"HARRIS, Reginald Hargreaves",GBR,Men,2000m tandem,M,Silver
+7545,London,1948,Cycling,Cycling Track,"SCHANDORFF, Axel Carl",DEN,Men,Sprint indivual,M,Bronze
+7546,London,1948,Cycling,Cycling Track,"GHELLA, Mario",ITA,Men,Sprint indivual,M,Gold
+7547,London,1948,Cycling,Cycling Track,"HARRIS, Reginald Hargreaves",GBR,Men,Sprint indivual,M,Silver
+7548,London,1948,Cycling,Cycling Track,"GELDARD, Robert Alan",GBR,Men,Team Pursuit (4000m),M,Bronze
+7549,London,1948,Cycling,Cycling Track,"GODWIN, Thomas Charles",GBR,Men,Team Pursuit (4000m),M,Bronze
+7550,London,1948,Cycling,Cycling Track,"RICKETTS, David Edward",GBR,Men,Team Pursuit (4000m),M,Bronze
+7551,London,1948,Cycling,Cycling Track,"WATERS, Wilfrid",GBR,Men,Team Pursuit (4000m),M,Bronze
+7552,London,1948,Cycling,Cycling Track,"ADAM, Pierre",FRA,Men,Team Pursuit (4000m),M,Gold
+7553,London,1948,Cycling,Cycling Track,"BLUSSON, Serge",FRA,Men,Team Pursuit (4000m),M,Gold
+7554,London,1948,Cycling,Cycling Track,"COSTE, Charles",FRA,Men,Team Pursuit (4000m),M,Gold
+7555,London,1948,Cycling,Cycling Track,"DECANALI, Fernand",FRA,Men,Team Pursuit (4000m),M,Gold
+7556,London,1948,Cycling,Cycling Track,"BENFENATI, Arnaldo",ITA,Men,Team Pursuit (4000m),M,Silver
+7557,London,1948,Cycling,Cycling Track,"BERNARDI, Guido",ITA,Men,Team Pursuit (4000m),M,Silver
+7558,London,1948,Cycling,Cycling Track,"CITTERIO, Anselmo",ITA,Men,Team Pursuit (4000m),M,Silver
+7559,London,1948,Cycling,Cycling Track,"PUCCI, Rino",ITA,Men,Team Pursuit (4000m),M,Silver
+7560,London,1948,Equestrian,Dressage,"BOLTENSTERN JR., Gustaf Adolf",SWE,Men,individual,X,Bronze
+7561,London,1948,Equestrian,Dressage,"MOSER, Hans",SUI,Men,individual,X,Gold
+7562,London,1948,Equestrian,Dressage,"JOUSSEAUME, Andre Rene",FRA,Men,individual,X,Silver
+7563,London,1948,Equestrian,Dressage,"PAES, Fernando Silva",POR,Men,team,X,Bronze
+7564,London,1948,Equestrian,Dressage,"SILVA, Luiz",POR,Men,team,X,Bronze
+7565,London,1948,Equestrian,Dressage,"VALADAS, Francisco",POR,Men,team,X,Bronze
+7566,London,1948,Equestrian,Dressage,"BURET, Maurice",FRA,Men,team,X,Gold
+7567,London,1948,Equestrian,Dressage,"JOUSSEAUME, Andre Rene",FRA,Men,team,X,Gold
+7568,London,1948,Equestrian,Dressage,"SAINT-FORT PAILLARD, Jean Gerard",FRA,Men,team,X,Gold
+7569,London,1948,Equestrian,Dressage,"BORG, Robert John",USA,Men,team,X,Silver
+7570,London,1948,Equestrian,Dressage,"HENRY, Frank Sherman",USA,Men,team,X,Silver
+7571,London,1948,Equestrian,Dressage,"THOMSON, Earl Foster",USA,Men,team,X,Silver
+7572,London,1948,Equestrian,Eventing,"SELFELT, Robert",SWE,Men,individual,X,Bronze
+7573,London,1948,Equestrian,Eventing,"CHEVALLIER, Bernard",FRA,Men,individual,X,Gold
+7574,London,1948,Equestrian,Eventing,"HENRY, Frank Sherman",USA,Men,individual,X,Silver
+7575,London,1948,Equestrian,Eventing,"CAMPERO, Raul",MEX,Men,team,X,Bronze
+7576,London,1948,Equestrian,Eventing,"MARILES CORTES, Humberto",MEX,Men,team,X,Bronze
+7577,London,1948,Equestrian,Eventing,"SOLANO CHAGOYA, Joaquin",MEX,Men,team,X,Bronze
+7578,London,1948,Equestrian,Eventing,"ANDERSON, Charles Howard",USA,Men,team,X,Gold
+7579,London,1948,Equestrian,Eventing,"HENRY, Frank Sherman",USA,Men,team,X,Gold
+7580,London,1948,Equestrian,Eventing,"THOMSON, Earl Foster",USA,Men,team,X,Gold
+7581,London,1948,Equestrian,Eventing,"SELFELT, Robert",SWE,Men,team,X,Silver
+7582,London,1948,Equestrian,Eventing,"STAHRE, Olof",SWE,Men,team,X,Silver
+7583,London,1948,Equestrian,Eventing,"SVENSSON, Sigurd",SWE,Men,team,X,Silver
+7584,London,1948,Equestrian,Jumping,"D'ORGEIX, Jean Francois",FRA,Men,individual,X,Bronze
+7585,London,1948,Equestrian,Jumping,"MARILES CORTES, Humberto",MEX,Men,individual,X,Gold
+7586,London,1948,Equestrian,Jumping,"URIZA CASTRO, Ruben",MEX,Men,individual,X,Silver
+7587,London,1948,Equestrian,Jumping,"CARR, Arthur",GBR,Men,team,X,Bronze
+7588,London,1948,Equestrian,Jumping,"LLEWELLYN, Harry Morton",GBR,Men,team,X,Bronze
+7589,London,1948,Equestrian,Jumping,"NICOLL, Henry Morison Vere",GBR,Men,team,X,Bronze
+7590,London,1948,Equestrian,Jumping,"MARILES CORTES, Humberto",MEX,Men,team,X,Gold
+7591,London,1948,Equestrian,Jumping,"URIZA CASTRO, Ruben",MEX,Men,team,X,Gold
+7592,London,1948,Equestrian,Jumping,"VALDEZ RAMOS, Alberto",MEX,Men,team,X,Gold
+7593,London,1948,Equestrian,Jumping,"GARCIA CRUZ, Jaime",ESP,Men,team,X,Silver
+7594,London,1948,Equestrian,Jumping,"GAVILAN Y PONCE DE LEON, Marcelino",ESP,Men,team,X,Silver
+7595,London,1948,Equestrian,Jumping,"NAVARRO MORENES, Jose",ESP,Men,team,X,Silver
+7596,London,1948,Fencing,Fencing,"MANGIAROTTI, Edoardo",ITA,Men,épée individual,M,Bronze
+7597,London,1948,Fencing,Fencing,"CANTONE, Luigi",ITA,Men,épée individual,M,Gold
+7598,London,1948,Fencing,Fencing,"ZAPPELLI, Oswald",SUI,Men,épée individual,M,Silver
+7599,London,1948,Fencing,Fencing,"CARLESON, Per Hjalmar",SWE,Men,épée team,M,Bronze
+7600,London,1948,Fencing,Fencing,"CERVELL, Frank",SWE,Men,épée team,M,Bronze
+7601,London,1948,Fencing,Fencing,"FORSSELL, Carl",SWE,Men,épée team,M,Bronze
+7602,London,1948,Fencing,Fencing,"LJUNGQUIST, Bengt",SWE,Men,épée team,M,Bronze
+7603,London,1948,Fencing,Fencing,"THOFELT, Sven",SWE,Men,épée team,M,Bronze
+7604,London,1948,Fencing,Fencing,"TOLLBOM, Arne",SWE,Men,épée team,M,Bronze
+7605,London,1948,Fencing,Fencing,"ARTIGAS, Edouard",FRA,Men,épée team,M,Gold
+7606,London,1948,Fencing,Fencing,"DESPRETS, Marcel",FRA,Men,épée team,M,Gold
+7607,London,1948,Fencing,Fencing,"GUERIN, Henri",FRA,Men,épée team,M,Gold
+7608,London,1948,Fencing,Fencing,"HUET, Maurice",FRA,Men,épée team,M,Gold
+7609,London,1948,Fencing,Fencing,"LEPAGE, Henri",FRA,Men,épée team,M,Gold
+7610,London,1948,Fencing,Fencing,"PECHEUX, Michel",FRA,Men,épée team,M,Gold
+7611,London,1948,Fencing,Fencing,"AGOSTONI, Carlo",ITA,Men,épée team,M,Silver
+7612,London,1948,Fencing,Fencing,"CANTONE, Luigi",ITA,Men,épée team,M,Silver
+7613,London,1948,Fencing,Fencing,"MANDRUZZATO, Marc Antonio",ITA,Men,épée team,M,Silver
+7614,London,1948,Fencing,Fencing,"MANGIAROTTI, Dario",ITA,Men,épée team,M,Silver
+7615,London,1948,Fencing,Fencing,"MANGIAROTTI, Edoardo",ITA,Men,épée team,M,Silver
+7616,London,1948,Fencing,Fencing,"MARINI, Fiorenzo",ITA,Men,épée team,M,Silver
+7617,London,1948,Fencing,Fencing,"MASZLAY, Lajos",HUN,Men,foil individual,M,Bronze
+7618,London,1948,Fencing,Fencing,"BUHAN, Jehan",FRA,Men,foil individual,M,Gold
+7619,London,1948,Fencing,Fencing,"D'ORIOLA, Christian",FRA,Men,foil individual,M,Silver
+7620,London,1948,Fencing,Fencing,"PREIS-MÜLLER, Ellen S.",AUT,Women,foil individual,W,Bronze
+7621,London,1948,Fencing,Fencing,"ELEK, Ilona",HUN,Women,foil individual,W,Gold
+7622,London,1948,Fencing,Fencing,"LACHMANN, Karen Vilhelmine",DEN,Women,foil individual,W,Silver
+7623,London,1948,Fencing,Fencing,"BRU, Raymond",BEL,Men,foil team,M,Bronze
+7624,London,1948,Fencing,Fencing,"DE BOURGIGNON, Georges Camille",BEL,Men,foil team,M,Bronze
+7625,London,1948,Fencing,Fencing,"PATERNOSTER, Henri",BEL,Men,foil team,M,Bronze
+7626,London,1948,Fencing,Fencing,"VALCKE, Paul Louis Jean",BEL,Men,foil team,M,Bronze
+7627,London,1948,Fencing,Fencing,"VAN DE WERWE DE VORSSELAERE, Andre",BEL,Men,foil team,M,Bronze
+7628,London,1948,Fencing,Fencing,"YVES, Edouard",BEL,Men,foil team,M,Bronze
+7629,London,1948,Fencing,Fencing,"BONIN, Andre",FRA,Men,foil team,M,Gold
+7630,London,1948,Fencing,Fencing,"BOUGNOL, René",FRA,Men,foil team,M,Gold
+7631,London,1948,Fencing,Fencing,"BUHAN, Jehan",FRA,Men,foil team,M,Gold
+7632,London,1948,Fencing,Fencing,"D'ORIOLA, Christian",FRA,Men,foil team,M,Gold
+7633,London,1948,Fencing,Fencing,"LATASTE, Jacques",FRA,Men,foil team,M,Gold
+7634,London,1948,Fencing,Fencing,"ROMMEL, Adrien",FRA,Men,foil team,M,Gold
+7635,London,1948,Fencing,Fencing,"DI ROSA, Manlio",ITA,Men,foil team,M,Silver
+7636,London,1948,Fencing,Fencing,"MANGIAROTTI, Edoardo",ITA,Men,foil team,M,Silver
+7637,London,1948,Fencing,Fencing,"NOSTINI, Giuliano",ITA,Men,foil team,M,Silver
+7638,London,1948,Fencing,Fencing,"NOSTINI, Renzo",ITA,Men,foil team,M,Silver
+7639,London,1948,Fencing,Fencing,"PELLINI, Giorgio",ITA,Men,foil team,M,Silver
+7640,London,1948,Fencing,Fencing,"RAGNO, Saverio",ITA,Men,foil team,M,Silver
+7641,London,1948,Fencing,Fencing,"KOVACS, Pal Adam",HUN,Men,sabre individual,M,Bronze
+7642,London,1948,Fencing,Fencing,"GEREVICH, Aladar",HUN,Men,sabre individual,M,Gold
+7643,London,1948,Fencing,Fencing,"PINTON, Vincenzo",ITA,Men,sabre individual,M,Silver
+7644,London,1948,Fencing,Fencing,"CETRULO, Dean Victor",USA,Men,sabre team,M,Bronze
+7645,London,1948,Fencing,Fencing,"COHN-ARMITAGE, Norman",USA,Men,sabre team,M,Bronze
+7646,London,1948,Fencing,Fencing,"DE CAPRILES, Miguel Angel",USA,Men,sabre team,M,Bronze
+7647,London,1948,Fencing,Fencing,"FLYNN, James Hummitzsch",USA,Men,sabre team,M,Bronze
+7648,London,1948,Fencing,Fencing,"NYILAS, Tibor Andrew",USA,Men,sabre team,M,Bronze
+7649,London,1948,Fencing,Fencing,"WORTH, George Vitez",USA,Men,sabre team,M,Bronze
+7650,London,1948,Fencing,Fencing,"BERCZELLY, Tibor",HUN,Men,sabre team,M,Gold
+7651,London,1948,Fencing,Fencing,"GEREVICH, Aladar",HUN,Men,sabre team,M,Gold
+7652,London,1948,Fencing,Fencing,"KARPATI, Rudolf",HUN,Men,sabre team,M,Gold
+7653,London,1948,Fencing,Fencing,"KOVACS, Pal Adam",HUN,Men,sabre team,M,Gold
+7654,London,1948,Fencing,Fencing,"PAPP, Bertalan",HUN,Men,sabre team,M,Gold
+7655,London,1948,Fencing,Fencing,"RAJCSANYI, Laszlo",HUN,Men,sabre team,M,Gold
+7656,London,1948,Fencing,Fencing,"DARE, Gastone",ITA,Men,sabre team,M,Silver
+7657,London,1948,Fencing,Fencing,"MONTANO, Aldo",ITA,Men,sabre team,M,Silver
+7658,London,1948,Fencing,Fencing,"NOSTINI, Renzo",ITA,Men,sabre team,M,Silver
+7659,London,1948,Fencing,Fencing,"PINTON, Vincenzo",ITA,Men,sabre team,M,Silver
+7660,London,1948,Fencing,Fencing,"RACCA, Mauro",ITA,Men,sabre team,M,Silver
+7661,London,1948,Fencing,Fencing,"TURCATO, Carlo",ITA,Men,sabre team,M,Silver
+7662,London,1948,Football,Football,"HANSEN, Jens Peter",DEN,Men,football,M,Bronze
+7663,London,1948,Football,Football,"HANSEN, John Angelo Valdemar Oster.",DEN,Men,football,M,Bronze
+7664,London,1948,Football,Football,"HANSEN, Karl Aage",DEN,Men,football,M,Bronze
+7665,London,1948,Football,Football,"JENSEN, Hans Viggo",DEN,Men,football,M,Bronze
+7666,London,1948,Football,Football,"JENSEN, Tage Ivan Linde",DEN,Men,football,M,Bronze
+7667,London,1948,Football,Football,"LUNDBERG, Knud",DEN,Men,football,M,Bronze
+7668,London,1948,Football,Football,"NIELSEN, Eigil Louis Marinus Ferdinand",DEN,Men,football,M,Bronze
+7669,London,1948,Football,Football,"ORNVOLD, Dion Erhardt",DEN,Men,football,M,Bronze
+7670,London,1948,Football,Football,"OVERGAARD, Knud Borge",DEN,Men,football,M,Bronze
+7671,London,1948,Football,Football,"PILMARK, Axel Peter",DEN,Men,football,M,Bronze
+7672,London,1948,Football,Football,"PLOGER, Johannes Theodor Louis",DEN,Men,football,M,Bronze
+7673,London,1948,Football,Football,"PRAEST, Carl Aage Andersen",DEN,Men,football,M,Bronze
+7674,London,1948,Football,Football,"SEEBACH, Holger",DEN,Men,football,M,Bronze
+7675,London,1948,Football,Football,"SÖRENSEN, Jörgen Leschly",DEN,Men,football,M,Bronze
+7676,London,1948,Football,Football,"ANDERSSON, Sune",SWE,Men,football,M,Gold
+7677,London,1948,Football,Football,"CARLSSON, Henry",SWE,Men,football,M,Gold
+7678,London,1948,Football,Football,"GREN, Gunnar",SWE,Men,football,M,Gold
+7679,London,1948,Football,Football,"LEANDER, Barje",SWE,Men,football,M,Gold
+7680,London,1948,Football,Football,"LIEDHOLM, Nils",SWE,Men,football,M,Gold
+7681,London,1948,Football,Football,"LINDBERG, Torsten",SWE,Men,football,M,Gold
+7682,London,1948,Football,Football,"NILSSON, Erik",SWE,Men,football,M,Gold
+7683,London,1948,Football,Football,"NORDAHL, Bertil",SWE,Men,football,M,Gold
+7684,London,1948,Football,Football,"NORDAHL, Gunnar",SWE,Men,football,M,Gold
+7685,London,1948,Football,Football,"NORDAHL, Knut",SWE,Men,football,M,Gold
+7686,London,1948,Football,Football,"ROSEN, Kjell",SWE,Men,football,M,Gold
+7687,London,1948,Football,Football,"ROSENGREN, Birger",SWE,Men,football,M,Gold
+7688,London,1948,Football,Football,"ATANASKOVIC, Aleksandar",YUG,Men,football,M,Silver
+7689,London,1948,Football,Football,"BOBEK, Stjepan",YUG,Men,football,M,Silver
+7690,London,1948,Football,Football,"BROZOVIC, Miroslav",YUG,Men,football,M,Silver
+7691,London,1948,Football,Football,"CAJKOVSKI, Zeljko",YUG,Men,football,M,Silver
+7692,London,1948,Football,Football,"CAJKOVSKI, Zlatko",YUG,Men,football,M,Silver
+7693,London,1948,Football,Football,"CIMERMANCIC, Zvonko",YUG,Men,football,M,Silver
+7694,London,1948,Football,Football,"JOVANOVIC, Miodrag",YUG,Men,football,M,Silver
+7695,London,1948,Football,Football,"LOVRIC, Ljubomir",YUG,Men,football,M,Silver
+7696,London,1948,Football,Football,"MIHAJLOVIC, Prvoslav",YUG,Men,football,M,Silver
+7697,London,1948,Football,Football,"MITIC, Rajko",YUG,Men,football,M,Silver
+7698,London,1948,Football,Football,"SOSTARIC, Franjo",YUG,Men,football,M,Silver
+7699,London,1948,Football,Football,"STANKOVIC, Branislav",YUG,Men,football,M,Silver
+7700,London,1948,Football,Football,"TOMASEVIC, Kosta",YUG,Men,football,M,Silver
+7701,London,1948,Football,Football,"VUKAS, Bernard",YUG,Men,football,M,Silver
+7702,London,1948,Football,Football,"WÖLFL, Franjo",YUG,Men,football,M,Silver
+7703,London,1948,Gymnastics,Artistic G.,"RUZICKA, Zdenek",TCH,Men,floor exercises,M,Bronze
+7704,London,1948,Gymnastics,Artistic G.,"PATAKI, Ferenc",HUN,Men,floor exercises,M,Gold
+7705,London,1948,Gymnastics,Artistic G.,"MOGYOROSI-KLENCS, Janos",HUN,Men,floor exercises,M,Silver
+7706,London,1948,Gymnastics,Artistic G.,"HUHTANEN, Veikko",FIN,Men,horizontal bar,M,Bronze
+7707,London,1948,Gymnastics,Artistic G.,"STALDER, Josef",SUI,Men,horizontal bar,M,Gold
+7708,London,1948,Gymnastics,Artistic G.,"LEHMANN, Walter",SUI,Men,horizontal bar,M,Silver
+7709,London,1948,Gymnastics,Artistic G.,"AALTONEN, Paavo Johannes",FIN,Men,individual all-round,M,Bronze
+7710,London,1948,Gymnastics,Artistic G.,"HUHTANEN, Veikko",FIN,Men,individual all-round,M,Gold
+7711,London,1948,Gymnastics,Artistic G.,"LEHMANN, Walter",SUI,Men,individual all-round,M,Silver
+7712,London,1948,Gymnastics,Artistic G.,"KIPFER, Christian",SUI,Men,parallel bars,M,Bronze
+7713,London,1948,Gymnastics,Artistic G.,"STALDER, Josef",SUI,Men,parallel bars,M,Bronze
+7714,London,1948,Gymnastics,Artistic G.,"REUSCH, Michael",SUI,Men,parallel bars,M,Gold
+7715,London,1948,Gymnastics,Artistic G.,"HUHTANEN, Veikko",FIN,Men,parallel bars,M,Silver
+7716,London,1948,Gymnastics,Artistic G.,"AALTONEN, Paavo Johannes",FIN,Men,pommel horse,M,Gold
+7717,London,1948,Gymnastics,Artistic G.,"HUHTANEN, Veikko",FIN,Men,pommel horse,M,Gold
+7718,London,1948,Gymnastics,Artistic G.,"SAVOLAINEN, Heikki",FIN,Men,pommel horse,M,Gold
+7719,London,1948,Gymnastics,Artistic G.,"RUZICKA, Zdenek",TCH,Men,rings,M,Bronze
+7720,London,1948,Gymnastics,Artistic G.,"FREI, Karl",SUI,Men,rings,M,Gold
+7721,London,1948,Gymnastics,Artistic G.,"REUSCH, Michael",SUI,Men,rings,M,Silver
+7722,London,1948,Gymnastics,Artistic G.,"BARANYAI, Laszlo",HUN,Men,team competition,M,Bronze
+7723,London,1948,Gymnastics,Artistic G.,"FEKETE, Jozsef",HUN,Men,team competition,M,Bronze
+7724,London,1948,Gymnastics,Artistic G.,"MOGYOROSI, Gyözö",HUN,Men,team competition,M,Bronze
+7725,London,1948,Gymnastics,Artistic G.,"MOGYOROSI-KLENCS, Janos",HUN,Men,team competition,M,Bronze
+7726,London,1948,Gymnastics,Artistic G.,"PATAKI, Ferenc",HUN,Men,team competition,M,Bronze
+7727,London,1948,Gymnastics,Artistic G.,"SANTHA, Lajos",HUN,Men,team competition,M,Bronze
+7728,London,1948,Gymnastics,Artistic G.,"TOTH, Lajos",HUN,Men,team competition,M,Bronze
+7729,London,1948,Gymnastics,Artistic G.,"VARKOI, Ferenc",HUN,Men,team competition,M,Bronze
+7730,London,1948,Gymnastics,Artistic G.,"AALTONEN, Paavo Johannes",FIN,Men,team competition,M,Gold
+7731,London,1948,Gymnastics,Artistic G.,"HUHTANEN, Veikko",FIN,Men,team competition,M,Gold
+7732,London,1948,Gymnastics,Artistic G.,"LAITINEN, Kalevi Johannes",FIN,Men,team competition,M,Gold
+7733,London,1948,Gymnastics,Artistic G.,"ROVE, Olavi Antero",FIN,Men,team competition,M,Gold
+7734,London,1948,Gymnastics,Artistic G.,"SAARVALA, Aleksanteri",FIN,Men,team competition,M,Gold
+7735,London,1948,Gymnastics,Artistic G.,"SALMI, Sulo Artur",FIN,Men,team competition,M,Gold
+7736,London,1948,Gymnastics,Artistic G.,"SAVOLAINEN, Heikki",FIN,Men,team competition,M,Gold
+7737,London,1948,Gymnastics,Artistic G.,"TERÄSVIRTA, Einari Allan",FIN,Men,team competition,M,Gold
+7738,London,1948,Gymnastics,Artistic G.,"FREI, Karl",SUI,Men,team competition,M,Silver
+7739,London,1948,Gymnastics,Artistic G.,"KIPFER, Christian",SUI,Men,team competition,M,Silver
+7740,London,1948,Gymnastics,Artistic G.,"LEHMANN, Walter",SUI,Men,team competition,M,Silver
+7741,London,1948,Gymnastics,Artistic G.,"LUCY, Robert",SUI,Men,team competition,M,Silver
+7742,London,1948,Gymnastics,Artistic G.,"REUSCH, Michael",SUI,Men,team competition,M,Silver
+7743,London,1948,Gymnastics,Artistic G.,"STALDER, Josef",SUI,Men,team competition,M,Silver
+7744,London,1948,Gymnastics,Artistic G.,"STUDER, Emil",SUI,Men,team competition,M,Silver
+7745,London,1948,Gymnastics,Artistic G.,"THALMANN, Melchior",SUI,Men,team competition,M,Silver
+7746,London,1948,Gymnastics,Artistic G.,"BAKANIC, Ladislava Aloisie",USA,Women,team competition,W,Bronze
+7747,London,1948,Gymnastics,Artistic G.,"BARONE, Marian Emma Twining",USA,Women,team competition,W,Bronze
+7748,London,1948,Gymnastics,Artistic G.,"CARRUCCIO-LENZ, Consetta Anne",USA,Women,team competition,W,Bronze
+7749,London,1948,Gymnastics,Artistic G.,"DALTON, Dorothy Catherine",USA,Women,team competition,W,Bronze
+7750,London,1948,Gymnastics,Artistic G.,"ELSTE-NEUMANN, Meta",USA,Women,team competition,W,Bronze
+7751,London,1948,Gymnastics,Artistic G.,"SCHIFANO, Helen Mary",USA,Women,team competition,W,Bronze
+7752,London,1948,Gymnastics,Artistic G.,"SCHROTH-LOMADY, Clara Marie",USA,Women,team competition,W,Bronze
+7753,London,1948,Gymnastics,Artistic G.,"SIMONIS, Anita Aline",USA,Women,team competition,W,Bronze
+7754,London,1948,Gymnastics,Artistic G.,"HONSOVA, Zdenka",TCH,Women,team competition,W,Gold
+7755,London,1948,Gymnastics,Artistic G.,"KOVAROVA, Marie",TCH,Women,team competition,W,Gold
+7756,London,1948,Gymnastics,Artistic G.,"MISAKOVA, Miloslava",TCH,Women,team competition,W,Gold
+7757,London,1948,Gymnastics,Artistic G.,"MÜLLEROVA, Milena",TCH,Women,team competition,W,Gold
+7758,London,1948,Gymnastics,Artistic G.,"RUZICKOVA, Vera",TCH,Women,team competition,W,Gold
+7759,London,1948,Gymnastics,Artistic G.,"SILHANOVA, Olga",TCH,Women,team competition,W,Gold
+7760,London,1948,Gymnastics,Artistic G.,"SRNCOVA, Bozena",TCH,Women,team competition,W,Gold
+7761,London,1948,Gymnastics,Artistic G.,"VERMIROVSKA, Zdenka",TCH,Women,team competition,W,Gold
+7762,London,1948,Gymnastics,Artistic G.,"FEHER, Anna",HUN,Women,team competition,W,Silver
+7763,London,1948,Gymnastics,Artistic G.,"GULYAS-KÖTELES, Erzsebet",HUN,Women,team competition,W,Silver
+7764,London,1948,Gymnastics,Artistic G.,"KARSICS-DARUHAZI, Iren",HUN,Women,team competition,W,Silver
+7765,London,1948,Gymnastics,Artistic G.,"KÖVI-ZALAI, Maria",HUN,Women,team competition,W,Silver
+7766,London,1948,Gymnastics,Artistic G.,"NAGY-SANDOR, Margit",HUN,Women,team competition,W,Silver
+7767,London,1948,Gymnastics,Artistic G.,"SARKANY-BALASZ, Erzebet",HUN,Women,team competition,W,Silver
+7768,London,1948,Gymnastics,Artistic G.,"TASS LEMHENYI, Olga",HUN,Women,team competition,W,Silver
+7769,London,1948,Gymnastics,Artistic G.,"VASARHELYI (WECKINGER), Edit",HUN,Women,team competition,W,Silver
+7770,London,1948,Gymnastics,Artistic G.,"MOGYOROSI-KLENCS, Janos",HUN,Men,vault,M,Bronze
+7771,London,1948,Gymnastics,Artistic G.,"PATAKI, Ferenc",HUN,Men,vault,M,Bronze
+7772,London,1948,Gymnastics,Artistic G.,"SOTORNIK, Leo",TCH,Men,vault,M,Bronze
+7773,London,1948,Gymnastics,Artistic G.,"AALTONEN, Paavo Johannes",FIN,Men,vault,M,Gold
+7774,London,1948,Gymnastics,Artistic G.,"ROVE, Olavi Antero",FIN,Men,vault,M,Silver
+7775,London,1948,Hockey,Hockey,"BOERSTRA, Andries Cornelis Dirk",NED,Men,hockey,M,Bronze
+7776,London,1948,Hockey,Hockey,"BOUWMAN, Hendricus Nicolaas",NED,Men,hockey,M,Bronze
+7777,London,1948,Hockey,Hockey,"BROMBERG, Pieter Marie Johan",NED,Men,hockey,M,Bronze
+7778,London,1948,Hockey,Hockey,"DERCKX, Henri Jean Joseph",NED,Men,hockey,M,Bronze
+7779,London,1948,Hockey,Hockey,"DRIJVER, Johan Frederik",NED,Men,hockey,M,Bronze
+7780,London,1948,Hockey,Hockey,"ESSER, Rius Theo",NED,Men,hockey,M,Bronze
+7781,London,1948,Hockey,Hockey,"KRUIZE, Jan Hendrik",NED,Men,hockey,M,Bronze
+7782,London,1948,Hockey,Hockey,"LANGHOUT, Jenne",NED,Men,hockey,M,Bronze
+7783,London,1948,Hockey,Hockey,"LOGGERE, Hermanus Pieter",NED,Men,hockey,M,Bronze
+7784,London,1948,Hockey,Hockey,"RICHTER, Antonius Maria",NED,Men,hockey,M,Bronze
+7785,London,1948,Hockey,Hockey,"TIEL, Edouard Herbert",NED,Men,hockey,M,Bronze
+7786,London,1948,Hockey,Hockey,"VAN HEEL, Willem",NED,Men,hockey,M,Bronze
+7787,London,1948,Hockey,Hockey,"AHKTAR, Hussain",IND,Men,hockey,M,Gold
+7788,London,1948,Hockey,Hockey,"CLAUDIUS, Leslie Walter",IND,Men,hockey,M,Gold
+7789,London,1948,Hockey,Hockey,"DATT, Keshava",IND,Men,hockey,M,Gold
+7790,London,1948,Hockey,Hockey,"D'SOUZA, Walter",IND,Men,hockey,M,Gold
+7791,London,1948,Hockey,Hockey,"FERNANDES, Lawrence",IND,Men,hockey,M,Gold
+7792,London,1948,Hockey,Hockey,"FRANCIS, Ranganandhan",IND,Men,hockey,M,Gold
+7793,London,1948,Hockey,Hockey,"GLACKEN, Gerald",IND,Men,hockey,M,Gold
+7794,London,1948,Hockey,Hockey,"JANSEN, Patrick",IND,Men,hockey,M,Gold
+7795,London,1948,Hockey,Hockey,"KUMAR, Amir Chand",IND,Men,hockey,M,Gold
+7796,London,1948,Hockey,Hockey,"LAL, Kishan",IND,Men,hockey,M,Gold
+7797,London,1948,Hockey,Hockey,"LATIF, Ur Rehman",IND,Men,hockey,M,Gold
+7798,London,1948,Hockey,Hockey,"PINTO, Leo",IND,Men,hockey,M,Gold
+7799,London,1948,Hockey,Hockey,"RAJPUT, Jaswant",IND,Men,hockey,M,Gold
+7800,London,1948,Hockey,Hockey,"RODRIGUES, Reginald",IND,Men,hockey,M,Gold
+7801,London,1948,Hockey,Hockey,"SINGH DOSANJH, Balbir",IND,Men,hockey,M,Gold
+7802,London,1948,Hockey,Hockey,"SINGH GENTLE, Randhir",IND,Men,hockey,M,Gold
+7803,London,1948,Hockey,Hockey,"SINGH, Grahanandan Nandy",IND,Men,hockey,M,Gold
+7804,London,1948,Hockey,Hockey,"SINGH, Kunwar Digvijai",IND,Men,hockey,M,Gold
+7805,London,1948,Hockey,Hockey,"SINGH, Trilochan",IND,Men,hockey,M,Gold
+7806,London,1948,Hockey,Hockey,"VAZ, Max",IND,Men,hockey,M,Gold
+7807,London,1948,Hockey,Hockey,"ADLARD, Robert Edward",GBR,Men,hockey,M,Silver
+7808,London,1948,Hockey,Hockey,"BORRETT, Norman Francis",GBR,Men,hockey,M,Silver
+7809,London,1948,Hockey,Hockey,"BRODIE, David L.S.",GBR,Men,hockey,M,Silver
+7810,London,1948,Hockey,Hockey,"DAVIS, Ronald",GBR,Men,hockey,M,Silver
+7811,London,1948,Hockey,Hockey,"GRIFFITHS, William Salterlee",GBR,Men,hockey,M,Silver
+7812,London,1948,Hockey,Hockey,"LINDSAY, Frederick Robin",GBR,Men,hockey,M,Silver
+7813,London,1948,Hockey,Hockey,"LINDSAY, William L.C.",GBR,Men,hockey,M,Silver
+7814,London,1948,Hockey,Hockey,"PEAKE, John Morris",GBR,Men,hockey,M,Silver
+7815,London,1948,Hockey,Hockey,"REYNOLDS, Frank O.",GBR,Men,hockey,M,Silver
+7816,London,1948,Hockey,Hockey,"SIME, George B.",GBR,Men,hockey,M,Silver
+7817,London,1948,Hockey,Hockey,"WALFORD, Michael Moore",GBR,Men,hockey,M,Silver
+7818,London,1948,Hockey,Hockey,"WHITE, William Neil",GBR,Men,hockey,M,Silver
+7819,London,1948,Modern Pentathlon,Modern Pentath.,"GÄRDIN, Gösta",SWE,Men,Individual competition,M,Bronze
+7820,London,1948,Modern Pentathlon,Modern Pentath.,"GRUT, William",SWE,Men,Individual competition,M,Gold
+7821,London,1948,Modern Pentathlon,Modern Pentath.,"MOORE, George Bissland",USA,Men,Individual competition,M,Silver
+7822,London,1948,Rowing,Rowing,"BONI, Bruno",ITA,Men,coxless pair (2-),M,Bronze
+7823,London,1948,Rowing,Rowing,"FANETTI, Felice",ITA,Men,coxless pair (2-),M,Bronze
+7824,London,1948,Rowing,Rowing,"LAURIE, William",GBR,Men,coxless pair (2-),M,Gold
+7825,London,1948,Rowing,Rowing,"WILSON, John",GBR,Men,coxless pair (2-),M,Gold
+7826,London,1948,Rowing,Rowing,"KALT, Hans",SUI,Men,coxless pair (2-),M,Silver
+7827,London,1948,Rowing,Rowing,"KALT, Josef",SUI,Men,coxless pair (2-),M,Silver
+7828,London,1948,Rowing,Rowing,"JONES, William",URU,Men,double sculls (2x),M,Bronze
+7829,London,1948,Rowing,Rowing,"RODRIGUEZ, Juan A.",URU,Men,double sculls (2x),M,Bronze
+7830,London,1948,Rowing,Rowing,"BURNELL, Richard Desborough",GBR,Men,double sculls (2x),M,Gold
+7831,London,1948,Rowing,Rowing,"BUSHNELL, Bertram Herbert Th.",GBR,Men,double sculls (2x),M,Gold
+7832,London,1948,Rowing,Rowing,"LARSEN, Aage Ernst",DEN,Men,double sculls (2x),M,Silver
+7833,London,1948,Rowing,Rowing,"PARSNER, Ebbe Vestermann",DEN,Men,double sculls (2x),M,Silver
+7834,London,1948,Rowing,Rowing,"GRAN OLSEN/GRANGARD, Halfdan",NOR,Men,eight with coxswain (8+),M,Bronze
+7835,London,1948,Rowing,Rowing,"HANSEN, Hans Egil",NOR,Men,eight with coxswain (8+),M,Bronze
+7836,London,1948,Rowing,Rowing,"KRAAKENES, Harald",NOR,Men,eight with coxswain (8+),M,Bronze
+7837,London,1948,Rowing,Rowing,"KRAAKENES, Thorstein",NOR,Men,eight with coxswain (8+),M,Bronze
+7838,London,1948,Rowing,Rowing,"LEPSOË, Kristoffer",NOR,Men,eight with coxswain (8+),M,Bronze
+7839,London,1948,Rowing,Rowing,"MONSSEN, Carl Henrik",NOR,Men,eight with coxswain (8+),M,Bronze
+7840,London,1948,Rowing,Rowing,"MONSSEN, Sigurd",NOR,Men,eight with coxswain (8+),M,Bronze
+7841,London,1948,Rowing,Rowing,"NAESS, Leif",NOR,Men,eight with coxswain (8+),M,Bronze
+7842,London,1948,Rowing,Rowing,"PEDERSEN, Thor",NOR,Men,eight with coxswain (8+),M,Bronze
+7843,London,1948,Rowing,Rowing,"AHLGREN, George Lewis",USA,Men,eight with coxswain (8+),M,Gold
+7844,London,1948,Rowing,Rowing,"BROWN, David Preston",USA,Men,eight with coxswain (8+),M,Gold
+7845,London,1948,Rowing,Rowing,"BUTLER, Lloyd Lemarr",USA,Men,eight with coxswain (8+),M,Gold
+7846,London,1948,Rowing,Rowing,"HARDY, James Herbert",USA,Men,eight with coxswain (8+),M,Gold
+7847,London,1948,Rowing,Rowing,"PURCHASE, Ralph Kenneth",USA,Men,eight with coxswain (8+),M,Gold
+7848,London,1948,Rowing,Rowing,"SMITH, Justus Ketcham",USA,Men,eight with coxswain (8+),M,Gold
+7849,London,1948,Rowing,Rowing,"STACK, John Charles",USA,Men,eight with coxswain (8+),M,Gold
+7850,London,1948,Rowing,Rowing,"TURNER, David Lindsay",USA,Men,eight with coxswain (8+),M,Gold
+7851,London,1948,Rowing,Rowing,"TURNER, Ian Gordon",USA,Men,eight with coxswain (8+),M,Gold
+7852,London,1948,Rowing,Rowing,"BARTON, Christopher Bertram",GBR,Men,eight with coxswain (8+),M,Silver
+7853,London,1948,Rowing,Rowing,"BIRCHER, Ernest Augustus Paul",GBR,Men,eight with coxswain (8+),M,Silver
+7854,London,1948,Rowing,Rowing,"DEARLOVE, Jack G.",GBR,Men,eight with coxswain (8+),M,Silver
+7855,London,1948,Rowing,Rowing,"LAPAGE, Michael Clement",GBR,Men,eight with coxswain (8+),M,Silver
+7856,London,1948,Rowing,Rowing,"LLOYD, Charles Brian Murray",GBR,Men,eight with coxswain (8+),M,Silver
+7857,London,1948,Rowing,Rowing,"MASSEY, Paul Mackintosh O.",GBR,Men,eight with coxswain (8+),M,Silver
+7858,London,1948,Rowing,Rowing,"MELLOWS, Alfred Paul",GBR,Men,eight with coxswain (8+),M,Silver
+7859,London,1948,Rowing,Rowing,"MEYRICK, David John Charlton",GBR,Men,eight with coxswain (8+),M,Silver
+7860,London,1948,Rowing,Rowing,"RICHARDSON, Guy Colquhoun",GBR,Men,eight with coxswain (8+),M,Silver
+7861,London,1948,Rowing,Rowing,"GATES, Gregory Crozier",USA,Men,four without coxswain (4-),M,Bronze
+7862,London,1948,Rowing,Rowing,"GRIFFING, Stuart Lane",USA,Men,four without coxswain (4-),M,Bronze
+7863,London,1948,Rowing,Rowing,"KINGSBURY, Frederick John Iv",USA,Men,four without coxswain (4-),M,Bronze
+7864,London,1948,Rowing,Rowing,"PEREW, Roben Strahan",USA,Men,four without coxswain (4-),M,Bronze
+7865,London,1948,Rowing,Rowing,"FAGGI, Francesco",ITA,Men,four without coxswain (4-),M,Gold
+7866,London,1948,Rowing,Rowing,"INVERNIZZI, Giovanni",ITA,Men,four without coxswain (4-),M,Gold
+7867,London,1948,Rowing,Rowing,"MOIOLI, Giuseppe",ITA,Men,four without coxswain (4-),M,Gold
+7868,London,1948,Rowing,Rowing,"MORILLE, Elio",ITA,Men,four without coxswain (4-),M,Gold
+7869,London,1948,Rowing,Rowing,"HALKJAER, Helge",DEN,Men,four without coxswain (4-),M,Silver
+7870,London,1948,Rowing,Rowing,"HANSEN, Aksel Bonde",DEN,Men,four without coxswain (4-),M,Silver
+7871,London,1948,Rowing,Rowing,"LARSEN, Ib Storm",DEN,Men,four without coxswain (4-),M,Silver
+7872,London,1948,Rowing,Rowing,"SCHRÖDER, Helge Muxoll",DEN,Men,four without coxswain (4-),M,Silver
+7873,London,1948,Rowing,Rowing,"KNUDSEN, Harry Madsen",DEN,Men,four-oared shell with coxswain (4-),M,Bronze
+7874,London,1948,Rowing,Rowing,"LARSEN, Erik Christian",DEN,Men,four-oared shell with coxswain (4-),M,Bronze
+7875,London,1948,Rowing,Rowing,"LARSEN, Henry Christian",DEN,Men,four-oared shell with coxswain (4-),M,Bronze
+7876,London,1948,Rowing,Rowing,"NIELSEN, Börge Daniel Raahauge",DEN,Men,four-oared shell with coxswain (4-),M,Bronze
+7877,London,1948,Rowing,Rowing,"OLSEN, Jörgen Ib",DEN,Men,four-oared shell with coxswain (4-),M,Bronze
+7878,London,1948,Rowing,Rowing,"GIOVANELLI, Gordon Stephen",USA,Men,four-oared shell with coxswain (4-),M,Gold
+7879,London,1948,Rowing,Rowing,"MARTIN, Robert Doud",USA,Men,four-oared shell with coxswain (4-),M,Gold
+7880,London,1948,Rowing,Rowing,"MORGAN, Allan Jerome",USA,Men,four-oared shell with coxswain (4-),M,Gold
+7881,London,1948,Rowing,Rowing,"WESTLUND, Warren Dehaven",USA,Men,four-oared shell with coxswain (4-),M,Gold
+7882,London,1948,Rowing,Rowing,"WILL, Robert Ide",USA,Men,four-oared shell with coxswain (4-),M,Gold
+7883,London,1948,Rowing,Rowing,"KNECHT, Emile A.",SUI,Men,four-oared shell with coxswain (4-),M,Silver
+7884,London,1948,Rowing,Rowing,"MOCCAND, Andre",SUI,Men,four-oared shell with coxswain (4-),M,Silver
+7885,London,1948,Rowing,Rowing,"REICHLING, Rudolf",SUI,Men,four-oared shell with coxswain (4-),M,Silver
+7886,London,1948,Rowing,Rowing,"SCHRIEVER, Erich",SUI,Men,four-oared shell with coxswain (4-),M,Silver
+7887,London,1948,Rowing,Rowing,"STEBLER, Pierre Armand",SUI,Men,four-oared shell with coxswain (4-),M,Silver
+7888,London,1948,Rowing,Rowing,"SZENDEY, Antal",HUN,Men,pair-oared shell with coxswain (2+),M,Bronze
+7889,London,1948,Rowing,Rowing,"ZIMONYI, Robert",HUN,Men,pair-oared shell with coxswain (2+),M,Bronze
+7890,London,1948,Rowing,Rowing,"ZSITNIK SR., Bela",HUN,Men,pair-oared shell with coxswain (2+),M,Bronze
+7891,London,1948,Rowing,Rowing,"ANDERSEN, Carl-Ebbe",DEN,Men,pair-oared shell with coxswain (2+),M,Gold
+7892,London,1948,Rowing,Rowing,"HENRIKSEN, Tage",DEN,Men,pair-oared shell with coxswain (2+),M,Gold
+7893,London,1948,Rowing,Rowing,"PEDERSEN, Finn",DEN,Men,pair-oared shell with coxswain (2+),M,Gold
+7894,London,1948,Rowing,Rowing,"RADI, Alberto",ITA,Men,pair-oared shell with coxswain (2+),M,Silver
+7895,London,1948,Rowing,Rowing,"STEFFE, Giovanni",ITA,Men,pair-oared shell with coxswain (2+),M,Silver
+7896,London,1948,Rowing,Rowing,"TARLAO, Aldo",ITA,Men,pair-oared shell with coxswain (2+),M,Silver
+7897,London,1948,Rowing,Rowing,"CATASTA, Romolo",ITA,Men,single sculls (1x),M,Bronze
+7898,London,1948,Rowing,Rowing,"WOOD, Merwyn Thomas",AUS,Men,single sculls (1x),M,Gold
+7899,London,1948,Rowing,Rowing,"RISSO, Eduardo G.",URU,Men,single sculls (1x),M,Silver
+7900,London,1948,Sailing,Sailing,"AMELN, Carl-Robert",SWE,Men,6m,X,Bronze
+7901,London,1948,Sailing,Sailing,"HINDORFF, Martin",SWE,Men,6m,X,Bronze
+7902,London,1948,Sailing,Sailing,"HOLM, Tore",SWE,Men,6m,X,Bronze
+7903,London,1948,Sailing,Sailing,"LORD, Torsten",SWE,Men,6m,X,Bronze
+7904,London,1948,Sailing,Sailing,"SALEN, Gösta",SWE,Men,6m,X,Bronze
+7905,London,1948,Sailing,Sailing,"LOOMIS, Alfred Lee Jr.",USA,Men,6m,X,Gold
+7906,London,1948,Sailing,Sailing,"MOONEY, Michael Macdonald",USA,Men,6m,X,Gold
+7907,London,1948,Sailing,Sailing,"SMITH, James Hopkins Jr.",USA,Men,6m,X,Gold
+7908,London,1948,Sailing,Sailing,"WEEKES, James Higgonson",USA,Men,6m,X,Gold
+7909,London,1948,Sailing,Sailing,"WHITON, Herman Frasch",USA,Men,6m,X,Gold
+7910,London,1948,Sailing,Sailing,"HOMP, Emilio C.",ARG,Men,6m,X,Silver
+7911,London,1948,Sailing,Sailing,"RIVADEMAR, Rodolfo",ARG,Men,6m,X,Silver
+7912,London,1948,Sailing,Sailing,"RODRIGUEZ DE LA TORRE, Rufino",ARG,Men,6m,X,Silver
+7913,London,1948,Sailing,Sailing,"SIEBURGER JR., Enrique Conrado",ARG,Men,6m,X,Silver
+7914,London,1948,Sailing,Sailing,"SIEBURGER SR., Enrique Conrado",ARG,Men,6m,X,Silver
+7915,London,1948,Sailing,Sailing,"SIEBURGER, Julio Christian",ARG,Men,6m,X,Silver
+7916,London,1948,Sailing,Sailing,"BAESS, Klaus Baard",DEN,Men,dragon,X,Bronze
+7917,London,1948,Sailing,Sailing,"BERNTSEN, Ole Valdemar Henrik",DEN,Men,dragon,X,Bronze
+7918,London,1948,Sailing,Sailing,"BERNTSEN, William Eldred",DEN,Men,dragon,X,Bronze
+7919,London,1948,Sailing,Sailing,"BARFOD, Haakon",NOR,Men,dragon,X,Gold
+7920,London,1948,Sailing,Sailing,"LIE, Sigve",NOR,Men,dragon,X,Gold
+7921,London,1948,Sailing,Sailing,"THORVALDSEN, Thor",NOR,Men,dragon,X,Gold
+7922,London,1948,Sailing,Sailing,"BOHLIN, Folke",SWE,Men,dragon,X,Silver
+7923,London,1948,Sailing,Sailing,"BRODIN, Gösta",SWE,Men,dragon,X,Silver
+7924,London,1948,Sailing,Sailing,"JOHNSON, Hugo",SWE,Men,dragon,X,Silver
+7925,London,1948,Sailing,Sailing,"DE JONG, Jacobus Hermanus Hendrik",NED,Men,firefly class,X,Bronze
+7926,London,1948,Sailing,Sailing,"ELVSTROM, Paul",DEN,Men,firefly class,X,Gold
+7927,London,1948,Sailing,Sailing,"EVANS, Ralph Liggett Jr.",USA,Men,firefly class,X,Silver
+7928,London,1948,Sailing,Sailing,"PIRIE, Lockwood Masters",USA,Men,swallow (golondrina),X,Bronze
+7929,London,1948,Sailing,Sailing,"TORREY, Owen Cates Jr.",USA,Men,swallow (golondrina),X,Bronze
+7930,London,1948,Sailing,Sailing,"BOND, David John Were",GBR,Men,swallow (golondrina),X,Gold
+7931,London,1948,Sailing,Sailing,"MORRIS, Stewart Harold",GBR,Men,swallow (golondrina),X,Gold
+7932,London,1948,Sailing,Sailing,"BELLO, Duarte M.D'Almeida",POR,Men,swallow (golondrina),X,Silver
+7933,London,1948,Sailing,Sailing,"BELLO, Fernando Pinto Coelho",POR,Men,swallow (golondrina),X,Silver
+7934,London,1948,Sailing,Sailing,"MAAS, Adriaan Lambertus Joseph",NED,Men,two-person keelboat open (Star),X,Bronze
+7935,London,1948,Sailing,Sailing,"STUTTERHEIM, Edward",NED,Men,two-person keelboat open (Star),X,Bronze
+7936,London,1948,Sailing,Sailing,"SMART, Hilary Hurlburt",USA,Men,two-person keelboat open (Star),X,Gold
+7937,London,1948,Sailing,Sailing,"SMART, Paul Hurlburt",USA,Men,two-person keelboat open (Star),X,Gold
+7938,London,1948,Sailing,Sailing,"DE CARDENAS CULMELL, Carlos",CUB,Men,two-person keelboat open (Star),X,Silver
+7939,London,1948,Sailing,Sailing,"DE CARDENAS PLA, Carlos",CUB,Men,two-person keelboat open (Star),X,Silver
+7940,London,1948,Shooting,Shooting,"LUNDQUIST, Sven",SWE,Men,25m rapid fire pistol (60 shots),M,Bronze
+7941,London,1948,Shooting,Shooting,"TAKACS, Karoly",HUN,Men,25m rapid fire pistol (60 shots),M,Gold
+7942,London,1948,Shooting,Shooting,"DIAZ SAENZ VALIENTE, Carlos Enrique",ARG,Men,25m rapid fire pistol (60 shots),M,Silver
+7943,London,1948,Shooting,Shooting,"RÖGEBERG, Willy",NOR,Men,300m free rifle 3 positions (3x40 shots),M,Bronze
+7944,London,1948,Shooting,Shooting,"GRÜNIG, Emil",SUI,Men,300m free rifle 3 positions (3x40 shots),M,Gold
+7945,London,1948,Shooting,Shooting,"JANHONEN, Pauli Aapeli",FIN,Men,300m free rifle 3 positions (3x40 shots),M,Silver
+7946,London,1948,Shooting,Shooting,"ULLMAN, Torsten",SWE,Men,50m pistol (60 shots),M,Bronze
+7947,London,1948,Shooting,Shooting,"VASQUEZ CAM, Edwin",PER,Men,50m pistol (60 shots),M,Gold
+7948,London,1948,Shooting,Shooting,"SCHNYDER, Rudolf",SUI,Men,50m pistol (60 shots),M,Silver
+7949,London,1948,Shooting,Shooting,"JONSSON, Jonas",SWE,Men,50m rifle prone (60 shots),M,Bronze
+7950,London,1948,Shooting,Shooting,"COOK, Arthur Edwin",USA,Men,50m rifle prone (60 shots),M,Gold
+7951,London,1948,Shooting,Shooting,"TOMSEN, Walter",USA,Men,50m rifle prone (60 shots),M,Silver
+7952,London,1948,Weightlifting,Weightlifting,"TOM, Richard Watt Sung",USA,Men,"- 56kg, total (bantamweight)",M,Bronze
+7953,London,1948,Weightlifting,Weightlifting,"DE PIETRO, Joseph Nicholas",USA,Men,"- 56kg, total (bantamweight)",M,Gold
+7954,London,1948,Weightlifting,Weightlifting,"CREUS, Julian",GBR,Men,"- 56kg, total (bantamweight)",M,Silver
+7955,London,1948,Weightlifting,Weightlifting,"CHARITE, Abraham",NED,Men,"+ 82.5kg, total (heavyweight)",M,Bronze
+7956,London,1948,Weightlifting,Weightlifting,"DAVIS, John Henry Jr.",USA,Men,"+ 82.5kg, total (heavyweight)",M,Gold
+7957,London,1948,Weightlifting,Weightlifting,"SCHEMANSKY, Norbert",USA,Men,"+ 82.5kg, total (heavyweight)",M,Silver
+7958,London,1948,Weightlifting,Weightlifting,"SALMASSI, Jafar Mohammad",IRI,Men,"56 - 60kg, total (featherweight)",M,Bronze
+7959,London,1948,Weightlifting,Weightlifting,"FAYAD, Mahmoud",EGY,Men,"56 - 60kg, total (featherweight)",M,Gold
+7960,London,1948,Weightlifting,Weightlifting,"WILKES, Rodney Adolphus",TRI,Men,"56 - 60kg, total (featherweight)",M,Silver
+7961,London,1948,Weightlifting,Weightlifting,"HALLIDAY, James",GBR,Men,"60 - 67.5kg, total (lightweight)",M,Bronze
+7962,London,1948,Weightlifting,Weightlifting,"SHAMS, Ibrahim Hassanein",EGY,Men,"60 - 67.5kg, total (lightweight)",M,Gold
+7963,London,1948,Weightlifting,Weightlifting,"HAMOUDA, Attia Mohamed",EGY,Men,"60 - 67.5kg, total (lightweight)",M,Silver
+7964,London,1948,Weightlifting,Weightlifting,"KIM, Sung-Jip",KOR,Men,"67.5 - 75kg, total (middleweight)",M,Bronze
+7965,London,1948,Weightlifting,Weightlifting,"SPELLMAN, Frank Isaac",USA,Men,"67.5 - 75kg, total (middleweight)",M,Gold
+7966,London,1948,Weightlifting,Weightlifting,"GEORGE, Peter T.",USA,Men,"67.5 - 75kg, total (middleweight)",M,Silver
+7967,London,1948,Weightlifting,Weightlifting,"MAGNUSSON, Gösta",SWE,Men,"75 - 82.5kg, total (light-heavyweight)",M,Bronze
+7968,London,1948,Weightlifting,Weightlifting,"STANCZYK, Stanley Anthony",USA,Men,"75 - 82.5kg, total (light-heavyweight)",M,Gold
+7969,London,1948,Weightlifting,Weightlifting,"SAKATA, Harold Toshiyuki",USA,Men,"75 - 82.5kg, total (light-heavyweight)",M,Silver
+7970,London,1948,Wrestling,Wrestling Free.,"JOHANSSON, Thure",SWE,Men,- 52kg (flyweight),M,Bronze
+7971,London,1948,Wrestling,Wrestling Free.,"VIITALA, Lenni",FIN,Men,- 52kg (flyweight),M,Gold
+7972,London,1948,Wrestling,Wrestling Free.,"BALAMIR, Halit",TUR,Men,- 52kg (flyweight),M,Silver
+7973,London,1948,Wrestling,Wrestling Free.,"ARMSTRONG, Joseph",AUS,Men,+ 87kg (heavyweight),M,Bronze
+7974,London,1948,Wrestling,Wrestling Free.,"BOBIS, Gyula",HUN,Men,+ 87kg (heavyweight),M,Gold
+7975,London,1948,Wrestling,Wrestling Free.,"ANTONSSON, Bertil",SWE,Men,+ 87kg (heavyweight),M,Silver
+7976,London,1948,Wrestling,Wrestling Free.,"KOUYOS, Charles",FRA,Men,52 - 57kg (bantamweight),M,Bronze
+7977,London,1948,Wrestling,Wrestling Free.,"AKAR, Nazuh",TUR,Men,52 - 57kg (bantamweight),M,Gold
+7978,London,1948,Wrestling,Wrestling Free.,"LEEMAN, Gerald Grant",USA,Men,52 - 57kg (bantamweight),M,Silver
+7979,London,1948,Wrestling,Wrestling Free.,"MÜLLER, Adolf",SUI,Men,57 - 63kg (featherweight),M,Bronze
+7980,London,1948,Wrestling,Wrestling Free.,"BILGE, Gazanfer",TUR,Men,57 - 63kg (featherweight),M,Gold
+7981,London,1948,Wrestling,Wrestling Free.,"SJÖLIN, Ivar",SWE,Men,57 - 63kg (featherweight),M,Silver
+7982,London,1948,Wrestling,Wrestling Free.,"BAUMANN, Hermann",SUI,Men,63 - 67kg (lightweight),M,Bronze
+7983,London,1948,Wrestling,Wrestling Free.,"ATIK, Celal",TUR,Men,63 - 67kg (lightweight),M,Gold
+7984,London,1948,Wrestling,Wrestling Free.,"FRÄNDFORS-JÖNSSON, Gösta",SWE,Men,63 - 67kg (lightweight),M,Silver
+7985,London,1948,Wrestling,Wrestling Free.,"MERRILL, Leland Gilbert Jr.",USA,Men,67 - 73kg (welterweight),M,Bronze
+7986,London,1948,Wrestling,Wrestling Free.,"DOGU, Yasar",TUR,Men,67 - 73kg (welterweight),M,Gold
+7987,London,1948,Wrestling,Wrestling Free.,"GARRARD, Richard Edward",AUS,Men,67 - 73kg (welterweight),M,Silver
+7988,London,1948,Wrestling,Wrestling Free.,"LINDEN, Erik",SWE,Men,73 - 79kg (middleweight),M,Bronze
+7989,London,1948,Wrestling,Wrestling Free.,"BRAND, Glen",USA,Men,73 - 79kg (middleweight),M,Gold
+7990,London,1948,Wrestling,Wrestling Free.,"CANDEMIR, Adil",TUR,Men,73 - 79kg (middleweight),M,Silver
+7991,London,1948,Wrestling,Wrestling Free.,"FAHLKVIST, Bengt",SWE,Men,79 - 87kg (light-heavyweight),M,Bronze
+7992,London,1948,Wrestling,Wrestling Free.,"WITTENBERG, Henry",USA,Men,79 - 87kg (light-heavyweight),M,Gold
+7993,London,1948,Wrestling,Wrestling Free.,"STÖCKLI, Fritz",SUI,Men,79 - 87kg (light-heavyweight),M,Silver
+7994,London,1948,Wrestling,Wrestling Gre-R,"KANGASMÄKI, Reino",FIN,Men,- 52kg (flyweight),M,Bronze
+7995,London,1948,Wrestling,Wrestling Gre-R,"LOMBARDI, Pietro",ITA,Men,- 52kg (flyweight),M,Gold
+7996,London,1948,Wrestling,Wrestling Gre-R,"OLCAY, Kenan",TUR,Men,- 52kg (flyweight),M,Silver
+7997,London,1948,Wrestling,Wrestling Gre-R,"FANTONI, Guido",ITA,Men,+ 87kg (super heavyweight),M,Bronze
+7998,London,1948,Wrestling,Wrestling Gre-R,"KIREÇÇI, Ahmet",TUR,Men,+ 87kg (super heavyweight),M,Gold
+7999,London,1948,Wrestling,Wrestling Gre-R,"NILSSON, Tor",SWE,Men,+ 87kg (super heavyweight),M,Silver
+8000,London,1948,Wrestling,Wrestling Gre-R,"KAYA, Halil",TUR,Men,52 - 57kg (bantamweight),M,Bronze
+8001,London,1948,Wrestling,Wrestling Gre-R,"PETERSEN, Kurt",SWE,Men,52 - 57kg (bantamweight),M,Gold
+8002,London,1948,Wrestling,Wrestling Gre-R,"HASSAN ALI, Mahmoud",EGY,Men,52 - 57kg (bantamweight),M,Silver
+8003,London,1948,Wrestling,Wrestling Gre-R,"TOTH, Ferenc",HUN,Men,57 - 61kg (featherweight),M,Bronze
+8004,London,1948,Wrestling,Wrestling Gre-R,"OKTAV, Mehmet",TUR,Men,57 - 61kg (featherweight),M,Gold
+8005,London,1948,Wrestling,Wrestling Gre-R,"ANDERBERG, Olle",SWE,Men,57 - 61kg (featherweight),M,Silver
+8006,London,1948,Wrestling,Wrestling Gre-R,"FERENCZ, Karoly",HUN,Men,61 - 67kg (lightweight),M,Bronze
+8007,London,1948,Wrestling,Wrestling Gre-R,"FREIJ, Gustav",SWE,Men,61 - 67kg (lightweight),M,Gold
+8008,London,1948,Wrestling,Wrestling Gre-R,"ERIKSEN, Aage Ingvar",NOR,Men,61 - 67kg (lightweight),M,Silver
+8009,London,1948,Wrestling,Wrestling Gre-R,"HANSEN, Christian Henrik",DEN,Men,67 - 73kg (welterweight),M,Bronze
+8010,London,1948,Wrestling,Wrestling Gre-R,"ANDERSSON, Gösta",SWE,Men,67 - 73kg (welterweight),M,Gold
+8011,London,1948,Wrestling,Wrestling Gre-R,"SZILVASI, Miklos",HUN,Men,67 - 73kg (welterweight),M,Silver
+8012,London,1948,Wrestling,Wrestling Gre-R,"GALLEGATI, Ercole",ITA,Men,73 - 79kg (middleweight),M,Bronze
+8013,London,1948,Wrestling,Wrestling Gre-R,"GRÖNBERG, Axel",SWE,Men,73 - 79kg (middleweight),M,Gold
+8014,London,1948,Wrestling,Wrestling Gre-R,"TAYFUR, Muhlis",TUR,Men,73 - 79kg (middleweight),M,Silver
+8015,London,1948,Wrestling,Wrestling Gre-R,"ORABI, Ibrahim",EGY,Men,79 - 87kg (light-heavyweight),M,Bronze
+8016,London,1948,Wrestling,Wrestling Gre-R,"NILSSON, Karl-Erik",SWE,Men,79 - 87kg (light-heavyweight),M,Gold
+8017,London,1948,Wrestling,Wrestling Gre-R,"GRÖNDAHL, Kelpo Olavi",FIN,Men,79 - 87kg (light-heavyweight),M,Silver
