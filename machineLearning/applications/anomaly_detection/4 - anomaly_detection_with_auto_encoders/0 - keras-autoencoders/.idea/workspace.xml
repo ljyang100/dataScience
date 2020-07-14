@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cd6a3746-060b-43ff-9e39-fd4ded862b1f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1eWZQGdqZP0Uzud0kwxp24T9HzQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pyimagesearch/convautoencoder.py" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.train_conv_autoencoder">
+    <configuration name="convautoencoder" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="keras-autoencoders" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\ljyan\anaconda3\envs\tensorflow-gpu\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pyimagesearch" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pyimagesearch/convautoencoder.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="train_conv_autoencoder" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="keras-autoencoders" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/train_conv_autoencoder.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.convautoencoder" />
+      <item itemvalue="Python.train_conv_autoencoder" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.train_conv_autoencoder" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cd6a3746-060b-43ff-9e39-fd4ded862b1f" name="Default Changelist" comment="" />
+      <created>1594439291497</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594439291497</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1369" y="165" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1594481670915">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="1369" y="165" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1040/2560.0.1920.1040@0.0.2560.1040" timestamp="1594481670915" />
+    <state width="765" height="582" key="DebuggerActiveHint" timestamp="1594505395477">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="765" height="582" key="DebuggerActiveHint/0.0.2560.1040/2560.0.1920.1040@0.0.2560.1040" timestamp="1594505395477" />
+    <state x="1646" y="215" key="FileChooserDialogImpl" timestamp="1594439444568">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="1646" y="215" key="FileChooserDialogImpl/0.0.2560.1040/2560.0.1920.1040@0.0.2560.1040" timestamp="1594439444568" />
+    <state width="1248" height="265" key="GridCell.Tab.0.bottom" timestamp="1594523799250">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="1248" height="265" key="GridCell.Tab.0.bottom/0.0.2560.1040/2560.0.1920.1040@0.0.2560.1040" timestamp="1594523799250" />
+    <state width="1248" height="265" key="GridCell.Tab.0.center" timestamp="1594523799249">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="1248" height="265" key="GridCell.Tab.0.center/0.0.2560.1040/2560.0.1920.1040@0.0.2560.1040" timestamp="1594523799249" />
+    <state width="1248" height="265" key="GridCell.Tab.0.left" timestamp="1594523799249">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="1248" height="265" key="GridCell.Tab.0.left/0.0.2560.1040/2560.0.1920.1040@0.0.2560.1040" timestamp="1594523799249" />
+    <state width="1248" height="265" key="GridCell.Tab.0.right" timestamp="1594523799249">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="1248" height="265" key="GridCell.Tab.0.right/0.0.2560.1040/2560.0.1920.1040@0.0.2560.1040" timestamp="1594523799249" />
+    <state width="1248" height="329" key="GridCell.Tab.1.bottom" timestamp="1594522539181">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="1248" height="329" key="GridCell.Tab.1.bottom/0.0.2560.1040/2560.0.1920.1040@0.0.2560.1040" timestamp="1594522539181" />
+    <state width="1248" height="329" key="GridCell.Tab.1.center" timestamp="1594522539181">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="1248" height="329" key="GridCell.Tab.1.center/0.0.2560.1040/2560.0.1920.1040@0.0.2560.1040" timestamp="1594522539181" />
+    <state width="1248" height="329" key="GridCell.Tab.1.left" timestamp="1594522539181">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="1248" height="329" key="GridCell.Tab.1.left/0.0.2560.1040/2560.0.1920.1040@0.0.2560.1040" timestamp="1594522539181" />
+    <state width="1248" height="329" key="GridCell.Tab.1.right" timestamp="1594522539181">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="1248" height="329" key="GridCell.Tab.1.right/0.0.2560.1040/2560.0.1920.1040@0.0.2560.1040" timestamp="1594522539181" />
+    <state x="1310" y="78" key="SettingsEditor" timestamp="1594481687468">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="1310" y="78" key="SettingsEditor/0.0.2560.1040/2560.0.1920.1040@0.0.2560.1040" timestamp="1594481687468" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="x" language="Python" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
